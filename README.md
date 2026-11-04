@@ -1,11 +1,13 @@
 # 매든 NFL 2005 컬렉터스 에디션 PS2 한글패치
 
-PS2 북미판 **Madden NFL 2005 Collector's Edition (SLUS-21025)**용 비공식 한국어 패치입니다. 메뉴, 옵션, 경기 HUD, 일시정지 메뉴, 프랜차이즈 신문·이메일, 온라인 안내문을 한국어로 바꿨습니다. **선수·코치 이름, 팀·도시·경기장 이름, 작전명, 스카우트 평가, 매든 퀴즈 문제**도 한글로 나옵니다. PCSX2용 **16:9 와이드 패치**도 함께 배포합니다. **경기 중 해설·심판 장내 방송도 한국어 음성으로 더빙**했습니다. 현재 배포판은 **v1.1 (2026-11-05)**입니다.
+PS2 북미판 **Madden NFL 2005 Collector's Edition (SLUS-21025)**용 비공식 한국어 패치입니다. 메뉴, 옵션, 경기 HUD, 일시정지 메뉴, 프랜차이즈 신문·이메일, 온라인 안내문을 한국어로 바꿨습니다. **선수·코치 이름, 팀·도시·경기장 이름, 작전명, 스카우트 평가, 매든 퀴즈 문제**도 한글로 나옵니다. PCSX2용 **16:9 와이드 패치**도 함께 배포합니다. **경기 중 해설·심판 장내 방송도 한국어 음성으로 더빙**했습니다(원본 영어 음성판도 따로 배포). 현재 배포판은 **v1.1 (2026-11-05)**입니다.
 
 [패치 다운로드](https://github.com/snake759494/madden-nfl-2005-collectors-edition-ps2-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
 릴리즈 첨부 파일은 다음과 같습니다.
-- 한글패치: **Madden_NFL_2005_CE_PS2_KO_v1.1.xdelta**
+- 한글패치(둘 중 하나 선택)
+  - **Madden_NFL_2005_CE_PS2_KO_v1.1_KoreanVoice.xdelta**: 한글 + 경기 해설 한국어 음성 더빙
+  - **Madden_NFL_2005_CE_PS2_KO_v1.1_EnglishVoice.xdelta**: 한글 + 원본 영어 해설 음성
 - 와이드 패치: **SLUS-21025_2DC0CCCA.pnach**(한글판용), **SLUS-21025_93CFD46C.pnach**(원본판용)
 
 저장소에는 제작 소스, 번역, 와이드 패치만 공개합니다. 원본 디스크 이미지와 완성된 디스크 이미지, 추출한 게임 파일, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다. GitHub가 자동으로 만드는 Source code ZIP/TAR는 저장소 소스를 압축한 것이며 게임 파일이 아닙니다.
@@ -26,11 +28,17 @@ PS2 북미판 **Madden NFL 2005 Collector's Edition (SLUS-21025)**용 비공식 
 | **원본 ISO MD5** | `d5712d5404e3ff7920cee1f83b256d5e` |
 | 원본 ISO SHA-1 | `111a4681cf504552e4fe7b2177835832f848e1ed` |
 | 원본 ISO SHA-256 | `a7bfeaef06f57d7fe8fa8b154b955f638f038c75b8e7e3673c2b53e9667026fd` |
-| xdelta 파일 크기 | 16,390,374 바이트 |
-| xdelta SHA-256 | `eb8513cbf6ee496bcffb63b85b13782791da8c6cc4dd1abc29f2616410e45a9b` |
-| 적용 결과 ISO 크기 | 6,960,939,008 바이트 |
-| 적용 결과 ISO SHA-1 | `ba557adc184000bcb6c781d5b294d0b700d2f8a3` |
-| 적용 결과 ISO SHA-256 | `89d907ef2cf43d4a27e2c222bcdb054ee768213c43ad003f20687a160de381ac` |
+
+
+두 패치 모두 위 원본 ISO에 적용합니다.
+
+| 항목 | 한국어 음성판 (KoreanVoice) | 영어 음성판 (EnglishVoice) |
+| --- | --- | --- |
+| xdelta 크기 | 526,314,317 바이트 | 16,390,058 바이트 |
+| xdelta SHA-256 | `c0341681948b92a9ad63270d8d3670d322c85846ac142d6e3929e03a00765d63` | `b4f6638529c783a03896fa4599ab16f044e43413fbadd599dc76145d07abc6d5` |
+| 결과 ISO 크기 | 6,960,939,008 바이트 | 6,960,939,008 바이트 |
+| 결과 ISO SHA-256 | `89d907ef2cf43d4a27e2c222bcdb054ee768213c43ad003f20687a160de381ac` | `61e180b60e6a83d3c5fe69555b6cbb0fa146b401b5f29fee2db33d29ff52e274` |
+| 게임 CRC (PCSX2) | `2DC0CCCA` | `2DC0CCCA` |
 
 결과 ISO는 원본보다 약 10MB 큽니다. 고친 파일 중 원래 자리에 들어가지 않는 것을 1층 끝에 붙이고, 2층을 그만큼 뒤로 밀었기 때문입니다. 원본 게임 파일은 사용자가 직접 준비해야 합니다.
 
@@ -46,7 +54,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath ".\Madden NFL 2005 (USA) (Collector's E
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `Madden_NFL_2005_CE_PS2_KO_v1.1.xdelta`를 받습니다.
+1. 릴리즈에서 `..._KoreanVoice.xdelta`(한국어 해설) 또는 `..._EnglishVoice.xdelta`(영어 해설) 중 하나를 받습니다.
 2. xdelta3 패치를 지원하는 도구(예: xdelta UI)에서 **Apply Patch** 기능을 엽니다.
 3. **Patch**에는 xdelta 파일을, **Source File**에는 해시가 일치하는 원본 `.iso`를 선택합니다.
 4. **Output File**에는 새 파일 이름을 지정합니다(예: `Madden NFL 2005 (Korean).iso`).
@@ -57,7 +65,7 @@ xdelta는 호환성을 위해 압축·2차 압축·파일 경로 헤더 없이 �
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s ".\Madden NFL 2005 (USA) (Collector's Edition).iso" '.\Madden_NFL_2005_CE_PS2_KO_v1.1.xdelta' '.\Madden NFL 2005 (Korean).iso'
+.\xdelta3.exe -d -s ".\Madden NFL 2005 (USA) (Collector's Edition).iso" '.\Madden_NFL_2005_CE_PS2_KO_v1.1_KoreanVoice.xdelta' '.\Madden NFL 2005 (Korean).iso'
 ```
 
 ### PCSX2에서 실행
