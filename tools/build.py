@@ -79,7 +79,7 @@ def main():
         out[name] = terf.rebuild(d, rep)
         print(name, len(d), '->', len(out[name]), 'texbytes', pages)
     # 4) 한국어 해설 더빙
-    nd = dub.patch(read(f, ents, 'DATA/SPCHDATA.DAT'), os.environ.get('SPEECH', os.path.join(WORK, 'speech')))
+    nd = None if os.environ.get('NODUB') else dub.patch(read(f, ents, 'DATA/SPCHDATA.DAT'), os.environ.get('SPEECH', os.path.join(WORK, 'speech')))
     if nd: out['DATA/SPCHDATA.DAT'] = nd
     f.close()
     tr.report(os.path.join(WORK, 'missing.txt'))
