@@ -2,7 +2,7 @@
 import os, sys, struct, json, time
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import isofs, isobuild2, terf, lzh, screen, apt, kfont2, elfpatch, ktext, content, widescreen
+import isofs, isobuild2, terf, lzh, screen, apt, kfont2, elfpatch, ktext, content, widescreen, dub
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
 WORK = os.path.join(ROOT, 'work')
 SRC = os.path.join(ROOT, "Madden NFL 2005 (USA) (Collector's Edition).iso")
@@ -78,6 +78,9 @@ def main():
             rep[i] = (nb, 0)
         out[name] = terf.rebuild(d, rep)
         print(name, len(d), '->', len(out[name]), 'texbytes', pages)
+    # 4) 한국어 해설 더빙
+    nd = dub.patch(read(f, ents, 'DATA/SPCHDATA.DAT'), os.environ.get('SPEECH', os.path.join(WORK, 'speech')))
+    if nd: out['DATA/SPCHDATA.DAT'] = nd
     f.close()
     tr.report(os.path.join(WORK, 'missing.txt'))
     only = os.environ.get('ONLY')

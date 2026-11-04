@@ -66,3 +66,12 @@ xdelta3 -e -0 -S none -A -s "Madden NFL 2005 (USA) (Collector's Edition).iso" "M
 `tools/emu.ps1`(PCSX2 백그라운드 실행·창 캡처·키 입력)과 `tools/tour.ps1`(키 입력·대기·캡처 순서 실행)을 썼습니다. PCSX2 경로는 `emu.ps1` 안에서 직접 고쳐 쓰세요.
 
 빠른 경기 코인 토스까지 가는 순서: 부팅 후 40초 대기 → `0D 4B 0D 4B 4B 4B 4B`(Start, X …) → 약 90초 대기.
+
+## 해설 음성 더빙 (v1.1)
+
+해설 음성은 `DATA/SPCHDATA.DAT` 안의 EA SCHl 스트림(MicroTalk Rev3, 36kHz)입니다. 조각마다 원래 자리(슬롯) 안에 덮어쓰므로 파일 크기와 위치는 바뀌지 않습니다.
+
+1. `tools/mtenc/`의 인코더를 빌드합니다(예: `python -m ziglang cc -O2 -o work/ext/utk/mtenc.exe mtenc.c`, `mtpack.c`도 같은 방법). `mtenc.c`는 공개 도메인인 [utkencode](https://github.com/daddesio/utkencode)를 프레임 단위 출력으로 고친 것이고, `mtpack.c`는 디코더 기준 프레임 경계로 Rev3 플래그 바이트를 맞춥니다.
+2. `speech_extract.py` → `speech_decode.py`(vgmstream-cli 필요) → `speech_asr.py`(faster-whisper)로 원문을 받아 적습니다.
+3. 번역은 `translation/dub_ko.tsv`(id, 화자 P/C/R/S, 한국어)입니다. 지침은 `translation/DUB_STYLE.md`.
+4. `dub_tts.py`가 edge-tts로 합성해 `work/speech/ko/*.pcm`을 만들고, `build.py`가 `dub.py`로 인코딩·삽입합니다.
