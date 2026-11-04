@@ -1,0 +1,26 @@
+# ELF 문자열 10 - %s 순서 교정(앞 번역에서 인자 순서가 원문과 어긋난 메모리 카드 문구) 및 버튼 목록. "X on the 카드 in 슬롯" 은 "X(카드, 슬롯)" 로 통일
+No %s found in %s. In order to use %s, insert a %s with an existing %s or insert a %s with at least %s available to save a new one.	%s이(가) %s에 없습니다. %s을(를) 쓰려면 %s(기존 %s 있음)을(를) 꽂거나, 새로 저장하려면 %s(여유 공간 %s 이상)을(를) 꽂으세요.
+There is insufficient space on the %s in %s to save an %s.  Insert a %s with at least %s available.	%s(%s)에 %s을(를) 저장할 공간이 부족합니다. %s(여유 공간 %s 이상)을(를) 꽂으세요.
+No %s found on the %s in %s. In order to use %s, insert a %s with an existing %s or save one now.	%s이(가) %s(%s)에 없습니다. %s을(를) 쓰려면 %s(기존 %s 있음)을(를) 꽂거나 지금 저장하세요.
+%s failed.  No %s was found on the %s in %s.	%s 실패. %s이(가) %s(%s)에 없습니다.
+%s failed.  No %s was found in %s.	%s 실패. %s이(가) %s에 없습니다.
+The %s found on the %s in %s is not the one previously loaded.  If you continue, you will delete the existing %s, which will %s.  Do you wish to continue?	%s(%s, %s)은(는) 이전에 불러온 것이 아닙니다. 계속하면 기존 %s이(가) 삭제되며 %s. 계속하시겠습니까?
+No %s could be found. If you want to save, insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. 저장하려면 %s(여유 공간 %s 이상)을(를) 꽂으세요.
+No %s could be found. If you wish to autosave your %s insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. %s을(를) 자동 저장하려면 %s(여유 공간 %s 이상)을(를) 꽂으세요.
+No %s could be found. If you wish to save your %s insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. %s을(를) 저장하려면 %s(여유 공간 %s 이상)을(를) 꽂으세요.
+Your %s on the %s in %s is corrupt.  Do you wish to delete it?	%s(%s, %s)이(가) 손상되었습니다. 삭제하시겠습니까?
+The %s found on the %s in %s is not the one previously loaded.  Please reinsert the %s with the %s previously loaded, or overwrite the %s on this %s.	%s(%s, %s)은(는) 이전에 불러온 것이 아닙니다. %s(이전 %s 있음)을(를) 다시 꽂거나, %s을(를) 이 %s에 덮어쓰세요.
+The %s found on the %s in %s is not the one previously loaded.  Please reinsert the %s with the %s previously loaded.	%s(%s, %s)은(는) 이전에 불러온 것이 아닙니다. %s(이전 %s 있음)을(를) 다시 꽂으세요.
+Unable to repair your %s on the %s in %s.	%s(%s, %s)을(를) 복구할 수 없습니다.
+Repair failed.  No %s was found on the %s in %s.	복구 실패. %s이(가) %s(%s)에 없습니다.
+Load Failed. The %s on %s in %s is corrupt and cannot be loaded	불러오기 실패. %s(%s, %s)이(가) 손상되어 불러올 수 없습니다
+|^Retry|Continue Without Saving	|^재시도|저장하지 않고 계속
+|^Retry|Cancel	|^재시도|취소
+|Continue Without Saving|^Retry	|저장하지 않고 계속|^재시도
+|Continue Without Saving|^Retry|Format	|저장하지 않고 계속|^재시도|포맷
+|Continue Without Saving|^Retry|Cancel	|저장하지 않고 계속|^재시도|취소
+|Continue Without Saving|^Retry|Cancel|Disable Autosave	|저장하지 않고 계속|^재시도|취소|자동 저장 끄기
+|^Retry|Save|Cancel	|^재시도|저장|취소
+|^Retry|Overwrite|Cancel	|^재시도|덮어쓰기|취소
+%c.%s	%.*s
+%c.%s-%s	%.*s-%s

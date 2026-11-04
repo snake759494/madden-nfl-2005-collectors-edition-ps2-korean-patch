@@ -1,0 +1,319 @@
+# ELF 문자열 3 (기록/온라인/저장/부상)
+Broken Tackles	태클 돌파
+Lost	패
+Tackle	태클
+QB Rating	QB 레이팅
+Pass TDs	패싱 TD
+Pass Cmp	패스 성공
+Pass Att	패스 시도
+Pass Pct	패스 성공률
+Pass Int	피인터셉트
+Comp	성공
+Thrown	시도
+Total Yds Allwd	총 허용 야드
+Pass Yds Allwd	패스 허용 야드
+Rush Yds Allwd	러싱 허용 야드
+Points Allwd	실점
+Fumble Rec	펌블 리커버
+Tackles for Loss	태클 포 로스
+Allwd	허용
+Loss	손실
+3rd Dwn Cnv	3다운 성공
+3rd Dwn Att	3다운 시도
+3rd Dwn Pct	3다운 %
+4th Dwn Cnv	4다운 성공
+4th Dwn Att	4다운 시도
+4th Dwn Pct	4다운 %
+Off RZ Att	공격 레드존 시도
+Off RZ Pct	공격 레드존 %
+Off RZ TDs	공격 레드존 TD
+Off RZ FGs	공격 레드존 FG
+Def RZ Att	수비 레드존 시도
+Def RZ Pct	수비 레드존 %
+Def RZ TDs	수비 레드존 TD
+Def RZ FGs	수비 레드존 FG
+2 PT Cnv	2점 성공
+2 PT Att	2점 시도
+2 PT Pct	2점 %
+Penalty Yds	반칙 야드
+Conv	성공
+Punt Yds	펀트 야드
+Punt Avg	펀트 평균
+Fumble Recs	펌블 리커버
+Global Package	공통 패키지
+Game Type:	경기 유형:
+Fatigue:	피로도:
+Injuries:	부상:
+Quarter Length:	쿼터 길이:
+Skill Level:	난이도:
+Fair Play:	페어플레이:
+Unranked Game	비랭크 경기
+Ranked Game	랭크 경기
+Hardcore Ranked	하드코어 랭크
+Tournament Game	토너먼트 경기
+ - Rushing Attack	 - 러싱 어택
+Roster Updates	로스터 업데이트
+Beginners	초보자
+Advanced	상급자
+Headsets	헤드셋
+No Formations Used	사용한 포메이션 없음
+Not Used	미사용
+Finished A Game	경기 완주
+Won A Game	경기 승리
+Trophies	트로피
+Question %d	문제 %d
+Please Wait	잠시 기다려 주세요
+Frequently Asked Questions	자주 묻는 질문
+Recent News	최근 뉴스
+Terms & Conditions	이용 약관
+|You can always review these by visiting%%0AContact Information in the MY %s menu.	|언제든지 다시 보려면%%0AMY %s 메뉴의 연락처 정보로 가세요.
+|You can always review these by visiting%%0AOnline FAQ in the MY %s menu.	|언제든지 다시 보려면%%0AMY %s 메뉴의 온라인 FAQ로 가세요.
+|You can always review this by visiting%%0ANews in the MY %s menu.	|언제든지 다시 보려면%%0AMY %s 메뉴의 뉴스로 가세요.
+|You can always review these by visiting%%0ATerms & Conditions in the MY %s menu.	|언제든지 다시 보려면%%0AMY %s 메뉴의 이용 약관으로 가세요.
+Accessing EA Server	EA 서버 접속 중
+Checking the EA server for recent EA News.	EA 서버에서 최근 EA 뉴스를 확인하는 중입니다.
+Retrieving the EA Terms & Conditions from the EA server.	EA 서버에서 EA 이용 약관을 받는 중입니다.
+Retrieving Frequently Asked Questions%%0Afrom the EA server.	EA 서버에서 자주 묻는 질문을%%0A받는 중입니다.
+The EA server is not responding%%0Aat the moment. Please try again later.	EA 서버가 지금 응답하지%%0A않습니다. 나중에 다시 시도하세요.
+Enter Web Password	웹 비밀번호 입력
+Enable or disable the profanity filter for in-game chat.	경기 중 채팅의 욕설 필터를 켜거나 끕니다.
+In-Game Text Chat	경기 중 텍스트 채팅
+Enable or disable your opponent's ability to chat with you during a game.	경기 중 상대가 채팅할 수 있는지 켜거나 끕니다.
+Enable or disable Fair Play Settings for an unranked game.	비랭크 경기의 페어플레이 설정을 켜거나 끕니다.
+Unknown	알 수 없음
+Enter Account Name	계정 이름 입력
+Enter Account Password	계정 비밀번호 입력
+My Answer	내 답
+Required	필수
+Error	오류
+Passwords do not match.	비밀번호가 일치하지 않습니다.
+Please enter matching passwords.	같은 비밀번호를 입력하세요.
+Create	만들기
+Action	행동
+ Auto Save has been disabled.	 자동 저장이 꺼졌습니다.
+User ID	사용자 ID
+Loading %s from %s in %s. Do not remove the %s, controller, reset or power off.	%s을(를) %s(%s)에서 불러오는 중. %s이나 컨트롤러를 빼거나 리셋하거나 전원을 끄지 마세요.
+%s failed! The %s in %s was removed during use.	%s 실패! 사용 중 %s(%s)이(가) 빠졌습니다.
+Unable to save %s to %s in %s. The file is corrupt and cannot be overwritten. You must delete the corrupt file in order to save a new one.%s	%s을(를) %s(%s)에 저장할 수 없습니다. 파일이 손상되어 덮어쓸 수 없습니다. 새로 저장하려면 손상된 파일을 삭제해야 합니다.%s
+|Continue Without Saving|^Retry|Cancel	|저장하지 않고 계속|^다시 시도|취소
+Unable to load %s from %s in %s.  The file is corrupt.	%s을(를) %s(%s)에서 불러올 수 없습니다. 파일이 손상되었습니다.
+No %s found in %s. In order to use %s, insert a %s with an existing %s or insert a %s with at least %s available to save a new one.	%s에 %s이(가) 없습니다. %s을(를) 쓰려면 기존 %s이(가) 있는 %s을(를) 꽂거나, 새로 저장할 여유 공간이 %s 이상인 %s을(를) 꽂으세요.
+|^Retry|Continue Without Saving	|^다시 시도|저장하지 않고 계속
+There is insufficient space on the %s in %s to save an %s.  Insert a %s with at least %s available.	%s(%s)에 %s을(를) 저장할 공간이 부족합니다. 여유 공간이 %s 이상인 %s을(를) 꽂으세요.
+No %s found on the %s in %s. In order to use %s, insert a %s with an existing %s or save one now.	%s(%s)에 %s이(가) 없습니다. %s을(를) 쓰려면 기존 %s이(가) 있는 %s을(를) 꽂거나 지금 저장하세요.
+%s failed.  No %s was found on the %s in %s.	%s 실패. %s(%s)에 %s이(가) 없습니다.
+%s failed.  No %s was found in %s.	%s 실패. %s에 %s이(가) 없습니다.
+The %s found on the %s in %s is not the one previously loaded.  If you continue, you will delete the existing %s, which will %s.  Do you wish to continue?	%s(%s)의 %s은(는) 이전에 불러온 것이 아닙니다. 계속하면 기존 %s이(가) 삭제되며 %s. 계속하시겠습니까?
+The %s in %s already contains an existing %s.  If you continue, you will overwrite the existing %s and delete any previously saved information.  Do you wish to overwrite this file?	%s(%s)에 이미 %s이(가) 있습니다. 계속하면 기존 %s을(를) 덮어쓰고 이전에 저장한 정보가 삭제됩니다. 이 파일을 덮어쓰시겠습니까?
+|Overwrite|^Continue Without Saving	|덮어쓰기|^저장하지 않고 계속
+%s failed.  Please check the %s in %s and try again.	%s 실패. %s(%s)을(를) 확인하고 다시 시도하세요.
+EA Login	EA 로그인
+cause you to lose any previously saved EA Login information	이전에 저장한 EA 로그인 정보를 잃게 됩니다
+Top 100	상위 100
+Similar Ranking	비슷한 순위
+Within 1000	1000위 이내
+Within 2000	2000위 이내
+Within 5000	5000위 이내
+Within 10000	10000위 이내
+Broadband Only	광대역 전용
+Choices	선택지
+Choice 1	선택 1
+Choice 2	선택 2
+Choice	선택
+You are not authorized to create a room.	방을 만들 권한이 없습니다.
+You are on detention.	이용 제한 중입니다.
+The room no longer exists.	방이 더 이상 없습니다.
+You have been kicked out of the room.	방에서 추방되었습니다.
+The room is already full.	방이 이미 가득 찼습니다.
+You cannot enter the room until the host returns.	방장이 돌아올 때까지 들어갈 수 없습니다.
+You must supply the proper password.	올바른 비밀번호를 입력해야 합니다.
+EA server connection failed.	EA 서버 연결 실패.
+No more rooms can be created at this time.	지금은 방을 더 만들 수 없습니다.
+The room name is not acceptable.	사용할 수 없는 방 이름입니다.
+The room name already exists.	이미 있는 방 이름입니다.
+You would be restricted from entering this room.	이 방에 들어갈 수 없게 됩니다.
+EA server request timeout.	EA 서버 요청 시간 초과.
+User aborted operation.	사용자가 작업을 중단했습니다.
+You are restricted from entering this room.	이 방에 들어갈 수 없습니다.
+You must have a broadband connection and a USB headset plugged in to enter this room.	이 방에 들어가려면 광대역 연결과 USB 헤드셋이 필요합니다.
+You are not ranked high enough to enter the Advanced room.	상급자 방에 들어갈 만큼 순위가 높지 않습니다.
+You have played more than the maximum number of games to enter the Beginners room.	경기 수가 초보자 방 입장 한도를 넘었습니다.
+Password too short.	비밀번호가 너무 짧습니다.
+Chat room passwords need to be between 3 and 12 characters.	대화방 비밀번호는 3~12자여야 합니다.
+Enter Room Name	방 이름 입력
+Enter Room Password	방 비밀번호 입력
+Category name	분류 이름
+Trophy Room	트로피 룸
+Only Real Sports Info	리얼 스포츠 정보만
+Only Friends' Info	친구 정보만
+Receive All	모두 받기
+My Rank or Higher	내 순위 이상
+Only from Friends	친구에게서만
+Block All	모두 차단
+Only for Challenges	도전만
+Only for Messages	메시지만
+Only for Voice Chat	음성 채팅만
+ENTER TOURNAMENT NAME	토너먼트 이름 입력
+SEARCH FOR TOURNAMENT	토너먼트 검색
+ENTER PASSWORD	비밀번호 입력
+Password	비밀번호
+ENTER NEWS	뉴스 입력
+News	뉴스
+Ranked	랭크
+Unranked	비랭크
+1 Hour	1시간
+2 Hours	2시간
+3 Hours	3시간
+4 Hours	4시간
+5 Hours	5시간
+6 Hours	6시간
+7 Hours	7시간
+8 Hours	8시간
+9 Hours	9시간
+10 Hours	10시간
+11 Hours	11시간
+12 Hours	12시간
+13 Hours	13시간
+14 Hours	14시간
+15 Hours	15시간
+16 Hours	16시간
+17 Hours	17시간
+18 Hours	18시간
+19 Hours	19시간
+20 Hours	20시간
+21 Hours	21시간
+22 Hours	22시간
+23 Hours	23시간
+24 Hours	24시간
+25 Hours	25시간
+26 Hours	26시간
+27 Hours	27시간
+28 Hours	28시간
+29 Hours	29시간
+30 Hours	30시간
+31 Hours	31시간
+32 Hours	32시간
+33 Hours	33시간
+34 Hours	34시간
+35 Hours	35시간
+36 Hours	36시간
+37 Hours	37시간
+38 Hours	38시간
+39 Hours	39시간
+40 Hours	40시간
+41 Hours	41시간
+42 Hours	42시간
+43 Hours	43시간
+44 Hours	44시간
+45 Hours	45시간
+46 Hours	46시간
+47 Hours	47시간
+48 Hours	48시간
+Connection Type: %s	연결 방식: %s
+No restrictions set.	제한 없음.
+On %s, %s wrote: %s	%s, %s 작성: %s
+Quick Tournament	빠른 토너먼트
+chatting in %s	%s에서 채팅 중
+Medal Not Found	메달 없음
+Invalid	잘못됨
+Abdominal strain	복부 염좌
+Abdominal tear	복부 파열
+ACL sprain	전방십자인대 염좌
+Back spasms	등 경련
+Broken ankle	발목 골절
+Broken collarbone	쇄골 골절
+Broken elbow	팔꿈치 골절
+Broken femur	대퇴골 골절
+Broken fibula	비골 골절
+Broken finger	손가락 골절
+Broken hand	손 골절
+Broken jaw	턱 골절
+Broken ribs	갈비뼈 골절
+Broken shoulder	어깨 골절
+Broken tailbone	꼬리뼈 골절
+Broken thumb	엄지 골절
+Broken tibia	경골 골절
+Broken toe	발가락 골절
+Broken vertebrae	척추 골절
+Broken wrist	손목 골절
+Bruised ankle	발목 타박상
+Bruised elbow	팔꿈치 타박상
+Bruised forearm	전완 타박상
+Bruised hand	손 타박상
+Bruised quadricep	대퇴사두근 타박상
+Bruised ribs	갈비뼈 타박상
+Bruised shoulder	어깨 타박상
+Bruised sternum	흉골 타박상
+Complete ACL tear	전방십자인대 완전 파열
+Complete MCL tear	내측인대 완전 파열
+Complete PCL tear	후방십자인대 완전 파열
+Dislocated ankle	발목 탈구
+Dislocated elbow	팔꿈치 탈구
+Dislocated finger	손가락 탈구
+Dislocated hip	고관절 탈구
+Dislocated knee	무릎 탈구
+Dislocated shoulder	어깨 탈구
+Dislocated thumb	엄지 탈구
+Dislocated wrist	손목 탈구
+Elbow bursitis	팔꿈치 점액낭염
+Foot contusion	발 타박상
+Foot fracture	발 골절
+Foot sprain	발 염좌
+Foot stress fracture	발 피로 골절
+Forearm fracture	전완 골절
+Fractured patella	슬개골 골절
+Hip bursitis	고관절 점액낭염
+Hip fracture	고관절 골절
+Hip pointer	엉덩이 타박상
+High ankle sprain	상부 발목 염좌
+Knee bruise	무릎 타박상
+Knee bursitis	무릎 점액낭염
+Knee cartilage tear	무릎 연골 파열
+Leg cramp	다리 경련
+MCL sprain	내측인대 염좌
+Mild concussion	가벼운 뇌진탕
+Partially torn ACL	전방십자인대 부분 파열
+Partially torn MCL	내측인대 부분 파열
+Partially torn PCL	후방십자인대 부분 파열
+PCL sprain	후방십자인대 염좌
+Pinched nerve	신경 압박
+Pulled groin	사타구니 근육 손상
+Pulled hamstring	햄스트링 손상
+Ruptured disk	디스크 파열
+Severe concussion	심한 뇌진탕
+Sprained ankle	발목 염좌
+Sprained elbow	팔꿈치 염좌
+Sprained wrist	손목 염좌
+Strained Achilles	아킬레스건 염좌
+Strained back	등 염좌
+Strained bicep	이두근 염좌
+Strained calf	종아리 염좌
+Strained forearm	전완 염좌
+Strained knee	무릎 염좌
+Strained pectoral	가슴 근육 염좌
+Strained quadricep	대퇴사두근 염좌
+Strained shoulder	어깨 염좌
+Strained tricep	삼두근 염좌
+Torn Achilles tendon	아킬레스건 파열
+Torn bicep	이두근 파열
+Torn groin	사타구니 파열
+Torn hamstring	햄스트링 파열
+Torn pectoral	가슴 근육 파열
+Torn quadricep	대퇴사두근 파열
+Torn rotator cuff	회전근개 파열
+Torn shoulder	어깨 파열
+Torn tricep	삼두근 파열
+Turf toe	터프 토
+Upper arm bruise	위팔 타박상
+Upper arm fracture	위팔 골절
+Wind knocked out	호흡 곤란
+Ready to play	출전 가능
+Will return soon	곧 복귀
+Out for game	경기 아웃
+USER NAME	사용자 이름
+Offensive player of the week	이주의 공격 선수
+Defensive player of the week	이주의 수비 선수
+Offensive player of the year	올해의 공격 선수
+Defensive player of the year	올해의 수비 선수
+Offensive rookie of the year	올해의 공격 신인
+Defensive rookie of the year	올해의 수비 신인

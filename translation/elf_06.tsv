@@ -1,0 +1,241 @@
+# ELF 문자열 6 (진행/저장/네트워크)
+Updating Coach Contracts...	코치 계약 갱신 중...
+Signing Coaches...	코치 계약 중...
+Relocating Teams...	팀 이전 중...
+Rebuilding Stadiums...	경기장 신축 중...
+Getting Stadium Sponsors...	경기장 스폰서 찾는 중...
+Signing Stadium Sponsors...	경기장 스폰서 계약 중...
+Upgrading Stadiums...	경기장 개선 중...
+Simulating Games	경기 시뮬레이션 중
+Simulating Playoffs	플레이오프 시뮬레이션 중
+Owner Mode Off-Season...	구단주 모드 오프시즌...
+Advancing To Regular Season...	정규 시즌으로 진행 중...
+Congratulations on completing the Madden Moment.	매든 모먼트 완료를 축하합니다.
+%s You have earned the '%s' card	%s '%s' 카드를 얻었습니다
+%s, as well as %d tokens	%s, 그리고 %d 토큰도 얻었습니다
+%s You earned %d tokens	%s %d 토큰을 얻었습니다
+The next Madden Moment has now been unlocked.	다음 매든 모먼트가 열렸습니다.
+Additional Madden Moments have now been unlocked.	추가 매든 모먼트가 열렸습니다.
+Loading the playbook...	플레이북 불러오는 중...
+Name not found	이름 없음
+Decrepit	낡음
+Above Average	평균 이상
+Excellent	훌륭함
+State of the Art	최신식
+Memory Card (PS2)	메모리 카드(PS2)
+MEMORY CARD	메모리 카드
+MEMORY CARD slot	메모리 카드 슬롯
+Controller port	컨트롤러 포트
+Controller	컨트롤러
+Preseason	프리시즌
+Preseason, Week %d	프리시즌 %d주차
+Regular Season	정규 시즌
+Divisional	디비저널
+Owner Mode	구단주 모드
+Re-order	재정렬
+Superbowl Win	슈퍼볼 우승
+Conference Champion	컨퍼런스 우승
+Playoff Appearance	플레이오프 진출
+Did Not Make Playoffs	플레이오프 탈락
+Southwest	남서부
+Southeast	남동부
+Northeast	북동부
+Northwest	북서부
+Filling Team Rosters...	팀 로스터 채우는 중...
+%s Signed %s %c.%s	%s 계약 %s %c.%s
+%s and Goal on %d	%s 앤 골, %d
+%s and inches on %d	%s 앤 인치스, %d
+%s and %d on %d	%s 앤 %d, %d
+Retrieving Rosters...	로스터 받는 중...
+no error found.	오류 없음.
+this information already exists.	이미 있는 정보입니다.
+there are too many formations in this playbook.	이 플레이북에 포메이션이 너무 많습니다.
+there are too many plays in this playbook.	이 플레이북에 플레이가 너무 많습니다.
+unexpected error has occured.	예기치 못한 오류가 발생했습니다.
+Enter username	사용자 이름 입력
+Enter password	비밀번호 입력
+Tournament	토너먼트
+Exported Team	내보낸 팀
+Created Team	만든 팀
+Off Playbook	공격 플레이북
+Def Playbook	수비 플레이북
+Draft Class	드래프트 클래스
+playing %s	%s 플레이 중
+Starting Game vs. %s	%s와(과) 경기 시작
+Rushing Attack.	러싱 어택.
+Challenge me. I'm ready to play.	도전하세요. 준비됐어요.
+Who wants a ranked game?	랭크 경기 하실 분?
+Send me a Friend Request.	친구 요청 보내 주세요.
+Voice chat?	음성 채팅?
+Who's up for a Quick Tournament?	빠른 토너먼트 하실 분?
+Check my Career. I'm too good.	내 기록 좀 봐요. 너무 잘해요.
+The stats don't lie.	기록은 거짓말 안 해요.
+Good game.	좋은 경기였어요.
+What team do you use?	어느 팀 써요?
+Anyone ready to play?	할 사람 있어요?
+Are you ready to start?	시작할 준비 됐어요?
+Give me a second.	잠깐만요.
+Let's play a ranked game.	랭크 경기 해요.
+Use default settings.	기본 설정으로 해요.
+Unformatted	포맷 안 됨
+Checking %s in %s. Do not remove %s, reset, power off, or disconnect any controllers.	%s(%s) 확인 중. %s을(를) 빼거나 리셋하거나 전원을 끄거나 컨트롤러를 빼지 마세요.
+Checking %s.	%s 확인 중.
+Loading %s from %s in %s. Do not remove %s, reset, power off, or disconnect any controllers.	%s을(를) %s(%s)에서 불러오는 중. %s을(를) 빼거나 리셋하거나 전원을 끄거나 컨트롤러를 빼지 마세요.
+%s. Do not remove %s, reset, power off, or disconnect any controllers.	%s. %s을(를) 빼거나 리셋하거나 전원을 끄거나 컨트롤러를 빼지 마세요.
+Deleting %s from %s in %s. Do not remove %s, reset, power off, or disconnect any controllers.	%s을(를) %s(%s)에서 삭제 중. %s을(를) 빼거나 리셋하거나 전원을 끄거나 컨트롤러를 빼지 마세요.
+Formatting %s in %s. Do not remove %s, reset, power off, or disconnect any controllers.	%s(%s) 포맷 중. %s을(를) 빼거나 리셋하거나 전원을 끄거나 컨트롤러를 빼지 마세요.
+Error checking %s in %s.	%s(%s) 확인 오류.
+Error loading %s from %s in %s.	%s을(를) %s(%s)에서 불러오는 중 오류.
+A single %s cannot be loaded more than once.	같은 %s은(는) 두 번 불러올 수 없습니다.
+Error saving %s to %s in %s.	%s을(를) %s(%s)에 저장하는 중 오류.
+%s does not exist on %s in %s.	%s이(가) %s(%s)에 없습니다.
+Error deleting %s from %s in %s.	%s을(를) %s(%s)에서 삭제하는 중 오류.
+%s failed! The %s in %s was removed during use. Autosave has been disabled.	%s 실패! 사용 중 %s(%s)이(가) 빠졌습니다. 자동 저장이 꺼졌습니다.
+Delete successful.	삭제했습니다.
+Load successful.	불러왔습니다.
+Format successful.	포맷했습니다.
+The file is corrupt and cannot be overwritten. You must delete the corrupt file in order to save a new one.	파일이 손상되어 덮어쓸 수 없습니다. 새로 저장하려면 손상된 파일을 삭제해야 합니다.
+The file is corrupt and cannot be loaded.	파일이 손상되어 불러올 수 없습니다.
+The %s in %s is unformatted.	%s(%s)이(가) 포맷되지 않았습니다.
+You cannot save under this category.	이 분류로는 저장할 수 없습니다.
+Are you sure you want to overwrite?	덮어쓰시겠습니까?
+Are you sure you want to format?	포맷하시겠습니까?
+Do you want to format?	포맷하시겠습니까?
+Are you sure you want to load?	불러오시겠습니까?
+Error formatting %s in %s.	%s(%s) 포맷 오류.
+|Continue Without Saving|^Retry	|저장하지 않고 계속|^다시 시도
+Insufficient space on %s in %s. %s requires %s of free space.	%s(%s)의 공간이 부족합니다. %s에는 %s의 여유 공간이 필요합니다.
+You exceeded the number of teams allowed. Some could not be loaded.	허용된 팀 수를 넘었습니다. 일부는 불러오지 못했습니다.
+You exceeded the number of files allowed. Some could not be loaded.	허용된 파일 수를 넘었습니다. 일부는 불러오지 못했습니다.
+|Continue Without Saving|^Retry|Format	|저장하지 않고 계속|^다시 시도|포맷
+WARNING! Not saving may lose your current files.	경고! 저장하지 않으면 현재 파일을 잃을 수 있습니다.
+Do you want to save all your files to %s?	모든 파일을 %s에 저장하시겠습니까?
+WARNING! Not saving will lose current %s.	경고! 저장하지 않으면 현재 %s을(를) 잃습니다.
+Do you want to save your %s to %s?	%s을(를) %s에 저장하시겠습니까?
+|^Yes|Continue Without Saving|Enable Autosave	|^예|저장하지 않고 계속|자동 저장 켜기
+|^Yes|Continue Without Saving|Cancel|Enable Autosave	|^예|저장하지 않고 계속|취소|자동 저장 켜기
+|Continue Without Saving|^Retry|Cancel|Disable Autosave	|저장하지 않고 계속|^다시 시도|취소|자동 저장 끄기
+The maximum %s saves has been reached. Unable to save %s on %s in %s.	%s 저장 수가 최대입니다. %s을(를) %s(%s)에 저장할 수 없습니다.
+No %s could be found. If you want to save, insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. 저장하려면 여유 공간이 %s 이상인 %s을(를) 꽂으세요.
+No %s could be found. If you wish to autosave your %s insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. %s을(를) 자동 저장하려면 여유 공간이 %s 이상인 %s을(를) 꽂으세요.
+No %s could be found. If you wish to save your %s insert a %s with at least %s available.	%s을(를) 찾을 수 없습니다. %s을(를) 저장하려면 여유 공간이 %s 이상인 %s을(를) 꽂으세요.
+A %s has been removed or replaced. Autosave has been disabled.	%s이(가) 빠졌거나 바뀌었습니다. 자동 저장이 꺼졌습니다.
+Error while performing an autosave on %s in %s. Autosave has been disabled.	%s(%s)에 자동 저장하는 중 오류. 자동 저장이 꺼졌습니다.
+An empty playbook has been created.	빈 플레이북을 만들었습니다.
+A default playbook has been loaded.	기본 플레이북을 불러왔습니다.
+Do you wish to load teams from %s?	%s에서 팀을 불러오시겠습니까?
+ Load Create-A-Teams from %s?	 %s에서 만든 팀을 불러오시겠습니까?
+Your %s on the %s in %s is corrupt.  Do you wish to delete it?	%s(%s)의 %s이(가) 손상되었습니다. 삭제하시겠습니까?
+The %s previously loaded could not be found.  Either reinsert the %s in %s with the previously loaded %s or save a new %s.	이전에 불러온 %s을(를) 찾을 수 없습니다. %s(%s)에 이전의 %s이(가) 있는 카드를 다시 꽂거나 새 %s을(를) 저장하세요.
+|^Retry|Save new|Cancel	|^다시 시도|새로 저장|취소
+|^Retry|Save new|Continue Without Saving	|^다시 시도|새로 저장|저장하지 않고 계속
+Saving a new %s will %s.	새 %s을(를) 저장하면 %s.
+The %s previously loaded was deleted.  In order to use %s, you need to save %s to a %s in %s.	이전에 불러온 %s이(가) 삭제되었습니다. %s을(를) 쓰려면 %s을(를) %s(%s)에 저장해야 합니다.
+Delete your %s from the %s in %s?	%s을(를) %s(%s)에서 삭제하시겠습니까?
+The %s found on the %s in %s is not the one previously loaded.  Please reinsert the %s with the %s previously loaded, or overwrite the %s on this %s.	%s(%s)의 %s은(는) 이전에 불러온 것이 아닙니다. 이전 %s이(가) 있는 %s을(를) 다시 꽂거나 이 %s의 %s을(를) 덮어쓰세요.
+The %s found on the %s in %s is not the one previously loaded.  Please reinsert the %s with the %s previously loaded.	%s(%s)의 %s은(는) 이전에 불러온 것이 아닙니다. 이전 %s이(가) 있는 %s을(를) 다시 꽂으세요.
+The %s in %s already contains an existing %s.  If you continue, you will overwrite the existing %s, which will %s.  Do you wish to continue?	%s(%s)에 이미 %s이(가) 있습니다. 계속하면 기존 %s을(를) 덮어쓰며 %s. 계속하시겠습니까?
+ Level will not be affected by this.  Are you sure you want to overwrite?	 레벨에는 영향이 없습니다. 덮어쓰시겠습니까?
+Unable to repair your %s on the %s in %s.	%s(%s)의 %s을(를) 복구할 수 없습니다.
+Repair failed.  No %s was found on the %s in %s.	복구 실패. %s(%s)에 %s이(가) 없습니다.
+Repair failed.  No %s was found in %s.	복구 실패. %s에 %s이(가) 없습니다.
+Repair successful.	복구했습니다.
+ Levels.  Do you wish to repair it?	 레벨. 복구하시겠습니까?
+Load Failed. The %s on %s in %s is corrupt and cannot be loaded	불러오기 실패. %s(%s)의 %s이(가) 손상되어 불러올 수 없습니다
+An error occured: %s has been removed or replaced	오류 발생: %s이(가) 빠졌거나 바뀌었습니다
+memory card (PS2)	메모리 카드(PS2)
+MEMORY CARD slot %c-%c	메모리 카드 슬롯 %c-%c
+MEMORY CARD slot %c	메모리 카드 슬롯 %c
+EA SPORTS(TM) Bio	EA SPORTS(TM) 바이오
+Enter Chat Text	채팅 입력
+is offline	오프라인
+is online	온라인
+is in %s	%s에 있음
+Is in Tournament - %s	토너먼트 참가 중 - %s
+Persona Name	페르소나 이름
+Enter Quick Message	빠른 메시지 입력
+Enter your message	메시지를 입력하세요
+Enter Chat Message	채팅 메시지 입력
+Not Present	없음
+PLEASE WAIT	잠시 기다려 주세요
+ has signed in	 접속했습니다
+ has signed out	 접속을 종료했습니다
+Please insert a formatted memory card (PS2) into MEMORY CARD slot 1-A and try again.	포맷된 메모리 카드(PS2)를 메모리 카드 슬롯 1-A에 꽂고 다시 시도하세요.
+The memory card (PS2) in MEMORY CARD slot 1-A is unformatted.	메모리 카드 슬롯 1-A의 메모리 카드(PS2)가 포맷되지 않았습니다.
+Please insert a memory card (PS2) into MEMORY CARD slot 1-A and try again.	메모리 카드(PS2)를 메모리 카드 슬롯 1-A에 꽂고 다시 시도하세요.
+No valid network configurations found on the memory card (PS2) in MEMORY CARD slot 1-A.	메모리 카드 슬롯 1-A의 메모리 카드(PS2)에 유효한 네트워크 설정이 없습니다.
+There is a problem with your network configuration on the memory card (PS2) in MEMORY CARD slot 1-A.	메모리 카드 슬롯 1-A의 메모리 카드(PS2)에 있는 네트워크 설정에 문제가 있습니다.
+Please re-insert the memory card (PS2) into MEMORY CARD slot 1-A and try again.	메모리 카드(PS2)를 메모리 카드 슬롯 1-A에 다시 꽂고 시도하세요.
+Your Network Configuration file on the memory card (PS2) in MEMORY CARD slot 1-A was created for another console and cannot be used.	메모리 카드 슬롯 1-A의 네트워크 설정 파일은 다른 본체에서 만들어져 사용할 수 없습니다.
+Please insert a formatted memory card (PS2) into MEMORY CARD slot 1 and try again.	포맷된 메모리 카드(PS2)를 메모리 카드 슬롯 1에 꽂고 다시 시도하세요.
+The memory card (PS2) in MEMORY CARD slot 1 is unformatted.	메모리 카드 슬롯 1의 메모리 카드(PS2)가 포맷되지 않았습니다.
+Please insert a memory card (PS2) into MEMORY CARD slot 1 and try again.	메모리 카드(PS2)를 메모리 카드 슬롯 1에 꽂고 다시 시도하세요.
+No memory card (PS2) is detected.	메모리 카드(PS2)가 감지되지 않습니다.
+No valid network configurations found on the memory card (PS2) in MEMORY CARD slot 1.	메모리 카드 슬롯 1의 메모리 카드(PS2)에 유효한 네트워크 설정이 없습니다.
+There is a problem with your network configuration on the memory card (PS2) in MEMORY CARD slot 1.	메모리 카드 슬롯 1의 메모리 카드(PS2)에 있는 네트워크 설정에 문제가 있습니다.
+Please re-insert the memory card (PS2) into MEMORY CARD slot 1 and try again.	메모리 카드(PS2)를 메모리 카드 슬롯 1에 다시 꽂고 시도하세요.
+The memory card (PS2) was removed during processing.	처리 중 메모리 카드(PS2)가 빠졌습니다.
+Your Network Configuration file on the memory card (PS2) in MEMORY CARD slot 1 was created for another console and cannot be used.	메모리 카드 슬롯 1의 네트워크 설정 파일은 다른 본체에서 만들어져 사용할 수 없습니다.
+The selected network configuration uses unsupported hardware.	선택한 네트워크 설정은 지원하지 않는 하드웨어를 사용합니다.
+The connection to your Internet service provider (ISP) has timed out.	인터넷 서비스 제공자(ISP) 연결 시간이 초과되었습니다.
+Please check your phone line and network adaptor.	전화선과 네트워크 어댑터를 확인하세요.
+No dial tone is detected.	다이얼 톤이 감지되지 않습니다.
+The connection cannot be established with your network adaptor.	네트워크 어댑터와 연결할 수 없습니다.
+The connection to your Internet service provider (ISP) cannot be established.	인터넷 서비스 제공자(ISP)에 연결할 수 없습니다.
+You will not be able to access the online features of this title.	이 게임의 온라인 기능을 이용할 수 없습니다.
+No supported network adaptor detected.	지원하는 네트워크 어댑터가 감지되지 않습니다.
+Your Internet service provider (ISP) is not answering or responding.	인터넷 서비스 제공자(ISP)가 응답하지 않습니다.
+The number you are dialing currently has no carrier.	거신 번호에 신호가 없습니다.
+The number you are dialing is currently busy. Please try again.	거신 번호가 통화 중입니다. 다시 시도하세요.
+Please check Your Network Configuration file and try again.	네트워크 설정 파일을 확인하고 다시 시도하세요.
+Unable to authenticate your user ID and Password.	사용자 ID와 비밀번호를 인증할 수 없습니다.
+The number you are dialing is currently not answering.	거신 번호가 응답하지 않습니다.
+Your account information will be Emailed to you shortly.	곧 계정 정보를 이메일로 보내 드립니다.
+Your Password will be sent to the Email address associated with this account.	이 계정에 연결된 이메일 주소로 비밀번호를 보내 드립니다.
+Please contact customer support for further assistance.	자세한 도움은 고객 지원에 문의하세요.
+To protect our members, Electronic Arts limits queries on account details to 2 requests per day.	회원 보호를 위해 Electronic Arts는 계정 정보 조회를 하루 2회로 제한합니다.
+Too Many Requests	요청이 너무 많음
+No EA Account was found matching the Email address you have entered.	입력한 이메일 주소와 일치하는 EA 계정이 없습니다.
+EA Account Not Found	EA 계정 없음
+Invalid new Password given.Please enter a valid Password and try again.	새 비밀번호가 올바르지 않습니다. 올바른 비밀번호를 입력하고 다시 시도하세요.
+You will now be disconnected from the server. Remove the device if you want to reconnect.	서버와의 연결이 끊어집니다. 다시 연결하려면 장치를 제거하세요.
+A cheat device has been detected on your system.	치트 장치가 감지되었습니다.
+Invalid Device	잘못된 장치
+The current master account does not own this Persona.	현재 마스터 계정은 이 페르소나를 소유하지 않습니다.
+Please log out with the Persona and try again.	페르소나로 로그아웃한 뒤 다시 시도하세요.
+The Persona you are trying to delete is currently active.	삭제하려는 페르소나가 사용 중입니다.
+Please enter a valid Persona name and try again.	올바른 페르소나 이름을 입력하고 다시 시도하세요.
+The Persona name you entered contains invalid characters.	입력한 페르소나 이름에 쓸 수 없는 문자가 있습니다.
+Invalid Persona	잘못된 페르소나
+Please delete a Persona and try again.	페르소나를 하나 삭제하고 다시 시도하세요.
+The maximum number of Personas has already been created.	페르소나 수가 이미 최대입니다.
+Maximum Personas	페르소나 최대
+Your Master Account is not authorized.	마스터 계정이 인증되지 않았습니다.
+Please check to see if you are still connected to your ISP or try again later.	ISP 연결 상태를 확인하거나 나중에 다시 시도하세요.
+Your connection has been interrupted.	연결이 끊겼습니다.
+The server is currently down.	서버가 현재 중단되었습니다.
+Please check your network adaptor or try again later.	네트워크 어댑터를 확인하거나 나중에 다시 시도하세요.
+Check your network connection. If you are plugged in, the server may be down.	네트워크 연결을 확인하세요. 연결되어 있다면 서버가 중단되었을 수 있습니다.
+Network Error	네트워크 오류
+Please agree to the terms of service before logging in.	로그인하기 전에 서비스 약관에 동의하세요.
+You did not accept the Membership Agreement.	회원 약관에 동의하지 않았습니다.
+Please enter another account name and try again.	다른 계정 이름을 입력하고 다시 시도하세요.
+The Account Name you selected is reserved.	선택한 계정 이름은 예약되어 있습니다.
+Reserved	예약됨
+Please contact customer support.	고객 지원에 문의하세요.
+Your account has been locked.	계정이 잠겼습니다.
+Locked Account	잠긴 계정
+Someone is already logged in with this account.	이 계정으로 이미 로그인한 사람이 있습니다.
+Please enter the correct Password and try again.	올바른 비밀번호를 입력하고 다시 시도하세요.
+The Password you entered is not correct.	입력한 비밀번호가 틀렸습니다.
+Invalid Password	잘못된 비밀번호
+The information you have submitted will be deleted.	제출한 정보는 삭제됩니다.
+We're sorry, you are not old enough to register for this online service.	죄송합니다. 이 온라인 서비스에 가입할 수 있는 나이가 아닙니다.
+Too Young	나이 미달
+The parental Email address you entered is invalid.	입력한 보호자 이메일 주소가 올바르지 않습니다.
+You have entered an invalid Email address.	올바르지 않은 이메일 주소입니다.
+Please enter a Password of at least four characters in length and try again.	4자 이상의 비밀번호를 입력하고 다시 시도하세요.
+Your Password must be at least four characters long.	비밀번호는 4자 이상이어야 합니다.
+Account Names must be at least 4 characters, and Personas must be at least 3 characters.	계정 이름은 4자 이상, 페르소나는 3자 이상이어야 합니다.
+The name you have created is too short.	만든 이름이 너무 짧습니다.
+Please enter a valid Account Name and try again.	올바른 계정 이름을 입력하고 다시 시도하세요.

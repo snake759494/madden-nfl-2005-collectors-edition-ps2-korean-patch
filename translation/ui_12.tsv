@@ -1,0 +1,339 @@
+# 포메이션/플레이 만들기 / 경기 상황 / 미니캠프 / 온라인
+Formation List	포메이션 목록
+Choose formation...	포메이션 선택...
+Choose player...	선수 선택...
+Choose personnel...	선수 구성 선택...
+Some plays in your playbook use this formation. Removing this formation will remove all of its plays.	플레이북의 일부 플레이가 이 포메이션을 씁니다. 포메이션을 지우면 그 플레이도 모두 지워집니다.
+Choose Player	선수 선택
+Place Player	선수 배치
+Choose Personnel	선수 구성 선택
+Custom Formation	커스텀 포메이션
+This screen allows you to create an	이 화면에서 공격 포메이션을
+offensive formation.	만듭니다.
+Move player cursor	선수 커서 이동
+Set player position/set personnel	선수 위치/구성 설정
+Complete formation	포메이션 완성
+Delete formation (Formation	포메이션 삭제 (포메이션
+Personnel 	선수 구성
+FORMATION LIST	포메이션 목록
+Create Formation - Defense	포메이션 만들기 - 수비
+This screen allows you to create a	이 화면에서 수비 포메이션을
+defensive formation.	만듭니다.
+Create Play - Defense	플레이 만들기 - 수비
+This play cannot be created because %s	플레이를 만들 수 없습니다: %s
+Choose Play	플레이 선택
+Route	루트
+Subroute	보조 루트
+|Rename play|^Edit play	|플레이 이름 변경|^플레이 편집
+This play name is invalid because the play name already exists.	이미 있는 플레이 이름이라 사용할 수 없습니다.
+Choose Route	루트 선택
+Choose Subroute	보조 루트 선택
+Test Play	플레이 테스트
+1 Square = 2.5 Yards	1칸 = 2.5야드
+Create Play	플레이 만들기
+or modify plays for your custom	커스텀 플레이북의 플레이를 만들거나 수정합니다
+defensive playbook.	(수비 플레이북).
+Test play (when editing)	플레이 테스트 (편집 시)
+Create Play - Offense	플레이 만들기 - 공격
+Choose Play Type	플레이 유형 선택
+|^Run|Pass	|^런|패스
+Not a valid running formation. You must have a running back in the backfield.	올바른 러닝 포메이션이 아닙니다. 백필드에 러닝백이 있어야 합니다.
+Waypoint Options	경유점 옵션
+Distance	거리
+|Rename Play|^Edit Play	|플레이 이름 변경|^플레이 편집
+Place Waypoint	경유점 배치
+Set Waypoint	경유점 설정
+offensive playbook.	(공격 플레이북).
+-- Route Creation --	-- 루트 만들기 --
+Move waypoint	경유점 이동
+Place waypoint	경유점 배치
+Preview Playbook - Defense	플레이북 미리 보기 - 수비
+Preview Playbook - Offense	플레이북 미리 보기 - 공격
+Are you sure you want to delete this play?	이 플레이를 삭제하시겠습니까?
+This play cannot be deleted from your playbook.	이 플레이는 플레이북에서 삭제할 수 없습니다.
+Change Location	위치 변경
+Remove Play	플레이 제거
+Swap Plays	플레이 맞바꾸기
+Cannot Preview Empty\r\nPlaybook	빈 플레이북은\r\n미리 볼 수 없습니다
+Preview Playbook	플레이북 미리 보기
+View your playbook and change	플레이북을 보고 플레이
+the order of your plays.	순서를 바꿉니다.
+Change formation/play	포메이션/플레이 변경
+Select formation and swap plays	포메이션 선택 및 플레이 맞바꾸기
+Game Time Situation	경기 상황
+End Of Game	경기 종료
+Restart?	다시 시작하시겠습니까?
+instant replay	인스턴트 리플레이
+call timeout	타임아웃 요청
+try again	다시 하기
+instructions	설명
+quit	그만두기
+Level Failed	단계 실패
+Level Completed	단계 완료
+Try again?	다시 하시겠습니까?
+|^Yes|No|View replay	|^예|아니요|리플레이 보기
+Your Falcons are trailing the Panthers 21-20\nwith 2:00 left in the game.	팰컨스가 팬서스에 21-20으로 뒤진 채\n경기 종료 2:00 전입니다.
+Lead an aerial assault with your Falcons\nand conserve time by using your 3 timeouts.	팰컨스로 공중 공격을 이끌고\n타임아웃 3개로 시간을 아끼세요.
+Score the game-winning field goal or\ntouchdown before time expires.	시간이 다 되기 전에 결승 필드골이나\n터치다운을 기록하세요.
+Your Vikings are trailing the Lions 14-13\nwith 1:45 left in the game.	바이킹스가 라이언스에 14-13으로 뒤진 채\n경기 종료 1:45 전입니다.
+Lead an aerial assault with your Vikings\nand conserve time by using your 2 timeouts.	바이킹스로 공중 공격을 이끌고\n타임아웃 2개로 시간을 아끼세요.
+Your Packers are trailing the Bears 30-24\nwith 1:30 left in the game.	패커스가 베어스에 30-24로 뒤진 채\n경기 종료 1:30 전입니다.
+Lead an aerial assault with your Packers\nand conserve time by using your 2 timeouts.	패커스로 공중 공격을 이끌고\n타임아웃 2개로 시간을 아끼세요.
+Score the game-winning touchdown\nbefore time expires.	시간이 다 되기 전에\n결승 터치다운을 기록하세요.
+Your Titans are trailing the Colts 20-14\nwith 1:30 left in the game.	타이탄스가 콜츠에 20-14로 뒤진 채\n경기 종료 1:30 전입니다.
+Lead an aerial assault with your Titans and\nconserve time by using your only timeout.	타이탄스로 공중 공격을 이끌고\n하나 남은 타임아웃으로 시간을 아끼세요.
+Your Ravens are trailing the Browns 24-20 with\n2:00 remaining in the game.	레이븐스가 브라운스에 24-20으로 뒤진 채\n경기 종료 2:00 전입니다.
+Stop the Browns from getting a 1st down and\nuse your 3 timeouts to stop the clock.	브라운스의 퍼스트 다운을 막고\n타임아웃 3개로 시계를 멈추세요.
+Force the Browns to punt the ball with at\nleast 1:30 left in the game.	경기 시간이 1:30 이상 남았을 때\n브라운스가 펀트하게 만드세요.
+Your Steelers are trailing the Bengals 23-17\nwith 1:30 remaining in the game.	스틸러스가 벵골스에 23-17로 뒤진 채\n경기 종료 1:30 전입니다.
+Stop the Bengals from getting a 1st down\nand use your 3 timeouts to stop the clock.	벵골스의 퍼스트 다운을 막고\n타임아웃 3개로 시계를 멈추세요.
+Force the Bengals to punt the ball with at\nleast 1:00 left in the game.	경기 시간이 1:00 이상 남았을 때\n벵골스가 펀트하게 만드세요.
+Your Panthers are trailing the Buccaneers 27-21\nwith 1:45 remaining in the game.	팬서스가 버커니어스에 27-21로 뒤진 채\n경기 종료 1:45 전입니다.
+Stop the Buccaneers from getting a 1st down\nand use your 3 timeouts to stop the clock.	버커니어스의 퍼스트 다운을 막고\n타임아웃 3개로 시계를 멈추세요.
+Force the Buccaneers to punt the ball with at\nleast 1:15 left in the game.	경기 시간이 1:15 이상 남았을 때\n버커니어스가 펀트하게 만드세요.
+Your Bears are trailing the Cowboys 7-3\nwith 1:00 remaining in the game.	베어스가 카우보이스에 7-3으로 뒤진 채\n경기 종료 1:00 전입니다.
+Stop the Cowboys from getting a 1st down\nand use your 3 timeouts to stop the clock.	카우보이스의 퍼스트 다운을 막고\n타임아웃 3개로 시계를 멈추세요.
+Force the Cowboys to punt the ball with at\nleast :30 left in the game.	경기 시간이 :30 이상 남았을 때\n카우보이스가 펀트하게 만드세요.
+Your Bills are leading the Jets 20-14\nlate in the 4th quarter.	4쿼터 막판, 빌스가 제츠에\n20-14로 앞서 있습니다.
+The Jets have the ball at their own 20\nwith 2:00 left and 1 timeout remaining.	제츠가 자기 진영 20야드에서 공격권을 가졌고\n2:00, 타임아웃 1개가 남았습니다.
+Prevent them from scoring a touchdown by\ncontrolling only your defensive backs.	디펜시브 백만 조작해\n터치다운을 막으세요.
+Your Texans are leading the Jaguars\n20-14 late in the 4th quarter.	4쿼터 막판, 텍슨스가 재규어스에\n20-14로 앞서 있습니다.
+The Jaguars have the ball at their own 40\nwith 2:00 left and 1 timeout remaining.	재규어스가 자기 진영 40야드에서 공격권을 가졌고\n2:00, 타임아웃 1개가 남았습니다.
+Your Broncos are leading the Chiefs 21-20\nlate in the 4th quarter.	4쿼터 막판, 브롱코스가 치프스에\n21-20으로 앞서 있습니다.
+The Chiefs have the ball at their own 20 with\n2:00 left and 2 timeouts remaining.	치프스가 자기 진영 20야드에서 공격권을 가졌고\n2:00, 타임아웃 2개가 남았습니다.
+Prevent them from scoring by controlling\nonly your defensive backs.	디펜시브 백만 조작해\n득점을 막으세요.
+Your Dolphins are leading the Chargers\n20-14 late in the 4th quarter.	4쿼터 막판, 돌핀스가 차저스에\n20-14로 앞서 있습니다.
+The Chargers have the ball at your 40 with 1:00\nleft and all 3 timeouts remaining.	차저스가 우리 진영 40야드에서 공격권을 가졌고\n1:00, 타임아웃 3개가 모두 남았습니다.
+Your Eagles are leading the Giants 20-14\nlate in the 4th quarter.	4쿼터 막판, 이글스가 자이언츠에\n20-14로 앞서 있습니다.
+The Giants have the ball at their own 20 with\n2:00 left in the game.	자이언츠가 자기 진영 20야드에서 공격권을 가졌고\n경기 시간은 2:00 남았습니다.
+Prevent them from scoring a touchdown by\ncontrolling only your defensive linemen.	수비 라인맨만 조작해\n터치다운을 막으세요.
+Your Jets are leading the Bills 17-13 late\nin the 4th quarter.	4쿼터 막판, 제츠가 빌스에\n17-13으로 앞서 있습니다.
+The Bills have the ball at their own 30\nwith 1:45 left in the game.	빌스가 자기 진영 30야드에서 공격권을 가졌고\n경기 시간은 1:45 남았습니다.
+Your Buccaneers are leading the Saints 14-13\nlate in the 4th quarter.	4쿼터 막판, 버커니어스가 세인츠에\n14-13으로 앞서 있습니다.
+The Saints have the ball at their own 40 with\n1:30 left in the game.	세인츠가 자기 진영 40야드에서 공격권을 가졌고\n경기 시간은 1:30 남았습니다.
+Prevent them from scoring by controlling\nonly your defensive linemen.	수비 라인맨만 조작해\n득점을 막으세요.
+Your Panthers are leading the Falcons 6-0 late\nin the 4th quarter.	4쿼터 막판, 팬서스가 팰컨스에\n6-0으로 앞서 있습니다.
+The Falcons have the ball at your 5 yard line\nwith 1:00 left in the game.	팰컨스가 우리 진영 5야드 라인에서 공격권을 가졌고\n경기 시간은 1:00 남았습니다.
+Your Lions are trailing the Packers 14-13\nwith :10 left in the game.	라이언스가 패커스에 14-13으로 뒤진 채\n경기 종료 :10 전입니다.
+You have the ball at the Packers' 25 on 3rd\ndown and 24 with 1 timeout remaining.	패커스 진영 25야드, 3rd 다운 24야드에서\n공격권을 가졌고 타임아웃은 1개 남았습니다.
+Your Dolphins are trailing the Bills 21-20\nwith :10 left in the game.	돌핀스가 빌스에 21-20으로 뒤진 채\n경기 종료 :10 전입니다.
+You have the ball at the Bills' 27 on 3rd\ndown and 24 with 1 timeout remaining.	빌스 진영 27야드, 3rd 다운 24야드에서\n공격권을 가졌고 타임아웃은 1개 남았습니다.
+Your Raiders are trailing the Chiefs 21-20\nwith :10 left in the game.	레이더스가 치프스에 21-20으로 뒤진 채\n경기 종료 :10 전입니다.
+You have the ball at the Chiefs' 38 on 3rd\ndown and 24 with 1 timeout remaining.	치프스 진영 38야드, 3rd 다운 24야드에서\n공격권을 가졌고 타임아웃은 1개 남았습니다.
+Your Eagles are trailing the Ravens 14-13\nwith :10 left in the game.	이글스가 레이븐스에 14-13으로 뒤진 채\n경기 종료 :10 전입니다.
+You have the ball at the Ravens' 41 on 3rd\ndown and 25 with 1 timeout remaining.	레이븐스 진영 41야드, 3rd 다운 25야드에서\n공격권을 가졌고 타임아웃은 1개 남았습니다.
+Your Browns are leading the Bengals 10-6 on\n4th down with 1:00 left in the game.	브라운스가 벵골스에 10-6으로 앞선 4th 다운,\n경기 시간은 1:00 남았습니다.
+Nail the Bengals deep in their own territory to\nprevent a comeback.	벵골스를 자기 진영 깊숙이 몰아넣어\n역전을 막으세요.
+Punt so the Bengals' starting line of scrimmage\nis within 15 yards of their endzone.	벵골스의 시작 위치가 그들의 엔드존에서\n15야드 이내가 되도록 펀트하세요.
+Your Saints are leading the Cowboys 27-21 on\n4th down with 1:00 left in the game.	세인츠가 카우보이스에 27-21로 앞선 4th 다운,\n경기 시간은 1:00 남았습니다.
+Nail the Cowboys deep in their own territory to\nprevent a comeback.	카우보이스를 자기 진영 깊숙이 몰아넣어\n역전을 막으세요.
+Punt so the Cowboys' starting line of scrimmage\nis within 10 yards of their endzone.	카우보이스의 시작 위치가 그들의 엔드존에서\n10야드 이내가 되도록 펀트하세요.
+Your Jaguars are leading the Titans\n17-14 on 4th down with 1:00 left in the game.	재규어스가 타이탄스에 17-14로 앞선\n4th 다운, 경기 시간은 1:00 남았습니다.
+Nail the Titans deep in their own territory\nto prevent a comeback.	타이탄스를 자기 진영 깊숙이 몰아넣어\n역전을 막으세요.
+Punt so the Titans' starting line of\nscrimmage is within 5 yards of their endzone.	타이탄스의 시작 위치가 그들의 엔드존에서\n5야드 이내가 되도록 펀트하세요.
+Your Cardinals are leading the Seahawks 6-0 on\n4th down with 1:00 left in the game.	카디널스가 시호크스에 6-0으로 앞선 4th 다운,\n경기 시간은 1:00 남았습니다.
+Nail the Seahawks deep in their own territory to\nprevent a comeback.	시호크스를 자기 진영 깊숙이 몰아넣어\n역전을 막으세요.
+Punt so the Seahawks' starting line of\nscrimmage is within 3 yards of their endzone.	시호크스의 시작 위치가 그들의 엔드존에서\n3야드 이내가 되도록 펀트하세요.
+Your Giants are trailing the Rams 14-12\nwith 2:00 left in the game.	자이언츠가 램스에 14-12로 뒤진 채\n경기 종료 2:00 전입니다.
+Lead an aerial assault with your Giants and \nconserve time by using your 3 timeouts.	자이언츠로 공중 공격을 이끌고 \n타임아웃 3개로 시간을 아끼세요.
+Your Seahawks are trailing the 49ers 24-23\nwith 1:40 left in the game.	시호크스가 49ers에 24-23으로 뒤진 채\n경기 종료 1:40 전입니다.
+Lead an aerial assault with your Seahawks and \nconserve time by using your 2 timeouts.	시호크스로 공중 공격을 이끌고 \n타임아웃 2개로 시간을 아끼세요.
+Your Patriots are trailing the Dolphins 30-24\nwith 1:20 left in the game.	패트리어츠가 돌핀스에 30-24로 뒤진 채\n경기 종료 1:20 전입니다.
+Lead an aerial assault with your Patriots and\nconserve time by using your only timeout.	패트리어츠로 공중 공격을 이끌고\n하나 남은 타임아웃으로 시간을 아끼세요.
+Score the game-winning touchdown before\ntime expires.	시간이 다 되기 전에\n결승 터치다운을 기록하세요.
+Your Colts are trailing the Patriots 20-14 with\n1:00 left in the game.	콜츠가 패트리어츠에 20-14로 뒤진 채\n경기 종료 1:00 전입니다.
+Lead an aerial assault with your Colts and\nconserve time by using your 2 timeouts.	콜츠로 공중 공격을 이끌고\n타임아웃 2개로 시간을 아끼세요.
+Your Chiefs are leading the Raiders 21-20\nwith 1:50 remaining in the game.	치프스가 레이더스에 21-20으로 앞선 채\n경기 종료 1:50 전입니다.
+Run the ball to eat up the clock and prevent\nthe Raiders from getting the ball back.	런 플레이로 시간을 소모해\n레이더스가 공을 되찾지 못하게 하세요.
+Seal the victory by running down the clock\nor scoring a touchdown.	시간을 다 쓰거나 터치다운으로\n승리를 굳히세요.
+Your Redskins are leading the Giants\n31-30 with 1:50 remaining in the game.	레드스킨스가 자이언츠에 31-30으로\n앞선 채 경기 종료 1:50 전입니다.
+Run the ball to eat up the clock and prevent\nthe Giants from getting the ball back.	런 플레이로 시간을 소모해\n자이언츠가 공을 되찾지 못하게 하세요.
+Your Chargers are leading the Broncos 10-7\nwith 1:50 remaining in the game.	차저스가 브롱코스에 10-7로 앞선 채\n경기 종료 1:50 전입니다.
+Run the ball to eat up the clock and prevent\nthe Broncos from getting the ball back.	런 플레이로 시간을 소모해\n브롱코스가 공을 되찾지 못하게 하세요.
+Your Ravens are leading the Titans 20-17\nwith 1:50 remaining in the game.	레이븐스가 타이탄스에 20-17로 앞선 채\n경기 종료 1:50 전입니다.
+Run the ball to eat up the clock and prevent\nthe Titans from getting the ball back.	런 플레이로 시간을 소모해\n타이탄스가 공을 되찾지 못하게 하세요.
+Press        to begin	        버튼으로 시작
+Play %d	플레이 %d
+%d points	%d점
+Swat passes down with 	다음 버튼으로 패스 쳐내기:
+Go for interceptions using         for higher scores	        버튼으로 인터셉트하면 더 높은 점수
+Earn more points by stopping consecutive passes	연속으로 패스를 막으면 점수가 더 올라갑니다
+Use the strafe           to face the line of scrimmage	스트레이프           로 스크리미지 라인을 바라보세요
+Try Again?	다시 하시겠습니까?
+Capture the flags as quickly as possible	최대한 빨리 깃발을 차지하세요
+To shove press 	밀치기:
+Spin or rip left with 	왼쪽 스핀/립:
+Spin or rip right with 	오른쪽 스핀/립:
+Spin or rip left with     	왼쪽 스핀/립:
+Press         to begin	         버튼으로 시작
+Hit the target to earn points	목표를 맞혀 점수를 얻으세요
+To start and stop the power meter press	파워 게이지 시작/정지:
+To stop the accuracy meter press 	정확도 게이지 정지:
+Pay attention to the wind direction and strength	바람의 방향과 세기에 주의하세요
+Aim for the targets on the field	필드 위의 목표를 노리세요
+To start and stop the power meter press     .	파워 게이지 시작/정지:
+To stop the accuracy meter press     .	정확도 게이지 정지:
+Hit the bull's-eye for higher points	정중앙을 맞히면 점수가 더 높습니다
+Red = 200 pts	빨강 = 200점
+                               Orange = 100 pts	                               주황 = 100점
+                                                                       Yellow = 50 pts.	                                                                       노랑 = 50점
+Tackle the HB as quickly as possible	최대한 빨리 HB를 태클하세요
+To attempt a diving tackle press 	다이빙 태클:
+To sprint hold down	스프린트(누르고 있기):
+To strip the ball press	공 빼앗기:
+Stay in the pocket and find the open receiver	포켓 안에서 빈 리시버를 찾으세요
+Hit the primary receiver while he's open	1순위 리시버가 비었을 때 패스하세요
+Earn more points by completing passes in a row	연속 패스 성공 시 점수가 더 올라갑니다
+To throw the ball press                                    or    	패스:                                    또는
+To throw the ball press                         or pull        or	패스:                         또는        또는
+To throw the ball press                                    or	패스:                                    또는
+To pump fake press	펌프 페이크:
+Pass the ball through the rings	고리 사이로 공을 통과시키세요
+To snap the ball press  	스냅:
+Rings are placed based on difficulty of route	고리는 루트 난이도에 따라 배치됩니다
+Gold = 75 pts. Silver = 50 pts. Bronze = 25 pts.	금 = 75점. 은 = 50점. 동 = 25점.
+Hold button for a bullet pass or tap it for touch	길게 누르면 강한 패스, 짧게 누르면 부드러운 패스
+Hold button or pull and hold trigger for a bullet pass\r\nTap button or pull lightly on the trigger for a touch pass	버튼을 길게 누르면 강한 패스\r\n짧게 누르면 부드러운 패스
+To throw the ball press                                    or 	패스:                                    또는
+To throw the ball press                          or pull           or	패스:                          또는           또는
+Score as many TDs as you can	최대한 많은 터치다운을 기록하세요
+Hold down         to sprint	         버튼을 누르고 있으면 스프린트
+To spin press      	스핀:
+To stiff arm press            or   	스티프 암:            또는
+To stiff arm pull 	스티프 암:
+To stiff arm press 	스티프 암:
+Rushing Attack Paused	러싱 어택 일시정지
+|^Resume|Restart|High Scores|Quit	|^재개|다시 시작|최고 점수|그만두기
+Drill Paused	훈련 일시정지
+|^Resume|Restart|Instructions|Quit	|^재개|다시 시작|설명|그만두기
+|^Resume|Instructions|Quit	|^재개|설명|그만두기
+Restart drill?	훈련을 다시 시작하시겠습니까?
+You've earned the Madden Card %s	매든 카드 %s을(를) 얻었습니다
+Level completed.  Do you want to 	단계 완료. 다시
+try again?	하시겠습니까?
+You have earned %d point to add to this player's attributes.	이 선수의 능력치에 더할 %d 포인트를 얻었습니다.
+You have earned %d points to add to this player's attributes.	이 선수의 능력치에 더할 %d 포인트를 얻었습니다.
+%s TROPHY AWARDED!	%s 트로피 획득!
+You will be awarded %s that can be assigned	선수 능력치에 배분할 수 있는 %s을(를)
+to the player's attribute ratings.  Would you like to	받습니다. 이 포인트를 걸고
+risk these points to try the next difficulty level?	다음 난이도에 도전하시겠습니까?
+You have earned attribute points.  You can	능력치 포인트를 얻었습니다. 포인트를
+keep the points or risk them and try a more	받거나, 더 많은 포인트를 위해 걸고
+difficult drill for even more points.	더 어려운 훈련에 도전할 수 있습니다.
+No Trophy	트로피 없음
+Try Next Level	다음 단계 도전
+Keep Points and Quit	포인트 받고 그만두기
+Run to the target and catch the ball by pressing  	목표로 달려가 다음 버튼으로 공을 잡으세요:
+Use        to dive for the ball	       버튼으로 공을 향해 다이브
+Use        to boost your speed and reach targets faster	       버튼으로 속도를 높여 목표에 빨리 도달
+Make consecutive catches for higher scores	연속으로 캐치하면 점수가 더 높습니다
+To stiff arm pull	스티프 암:
+The connection to your opponent has been lost.	상대와의 연결이 끊겼습니다.
+|^End Game	|^경기 종료
+Starting in %d...	%d초 후 시작...
+Score as many touchdowns as you can.	최대한 많은 터치다운을 기록하세요.
+To spin, press       .	스핀:
+Hold down        to sprint.	        버튼을 누르고 있으면 스프린트.
+Stop the offense from scoring any touchdowns.	공격 팀의 터치다운을 모두 막으세요.
+Press       to dive.	      버튼으로 다이브.
+Press       to change players.	      버튼으로 선수 전환.
+or         .	또는
+To stiff arm press         	스티프 암:
+Press       to Begin	      버튼으로 시작
+Connection to opponent lost.	상대와의 연결이 끊겼습니다.
+|^Exit Game	|^경기 나가기
+Your opponent quit.	상대가 그만두었습니다.
+Waiting for your opponent to restart...	상대가 다시 시작하기를 기다리는 중...
+|^Cancel	|^취소
+Your opponent restarted too, so let's go back to the game.	상대도 다시 시작했습니다. 경기로 돌아갑니다.
+%s WINS!	%s 승리!
+PLAYERS TIE!	무승부!
+leads the series %d-%d	시리즈 %d-%d 리드
+The series is tied at %d	시리즈 %d 동률
+SERIES BREAKDOWN	시리즈 결과
+Restart	다시 시작
+View the High Scores for Rushing	러싱 어택의 최고 점수를
+Attack.	봅니다.
+half time	하프타임
+end of game	경기 종료
+The game is paused. Some features	경기가 일시정지되었습니다. 일부 기능은
+Return to Game	경기로 돌아가기
+round scores	라운드 점수
+high scores	최고 점수
+quit game	경기 그만두기
+Round Scores	라운드 점수
+View scores from the current round.	현재 라운드의 점수를 봅니다.
+End of Drill	훈련 종료
+!Quit	!그만두기
+End of Two Minute Drill	2분 드릴 종료
+This round of Two Minute 	이번 2분 드릴 라운드가
+Drill is over. View the round	끝났습니다. 라운드 점수를 보거나
+scores or quit.	그만두세요.
+FINAL SCORE	최종 점수
+Total Score	총점
+Try Again	다시 하기
+Quit Game	경기 그만두기
+%d Tokens Earned	%d 토큰 획득
+%d token earned	%d 토큰 획득
+New Record\r\n\r\n	신기록\r\n\r\n
+Cur. Score	현재 점수
+%s's Score: %s	%s의 점수: %s
+GET READY!	준비!
+Loading...\r\n	불러오는 중...\r\n
+Press         to continue.\r\n	         버튼으로 계속.\r\n
+Coin Toss	동전 던지기
+%s won the toss	%s 토스 승리
+Defend	수비
+Receive	리시브
+%s select	%s 선택
+Heads	앞면
+Tails	뒷면
+Coach %s	%s 감독
+Temperature	기온
+Humidity	습도
+Forecast	예보
+You have been removed from the game for ejecting the game disc.	게임 디스크를 꺼내 경기에서 제외되었습니다.
+|^End game	|^경기 종료
+Your opponent has left the game. You win this tournament game by forfeit.	상대가 경기를 떠났습니다. 이 토너먼트 경기는 몰수승입니다.
+|^Continue vs. CPU|Quit and don't count game	|^CPU와 계속|그만두고 경기 무효
+|^Continue vs. CPU|Quit	|^CPU와 계속|그만두기
+You have been removed from the game due to excessive encroachment.	인크로치먼트가 너무 많아 경기에서 제외되었습니다.
+general	일반
+sound	사운드
+online	온라인
+vs. %s	vs. %s
+Online Pause Menu	온라인 일시정지 메뉴
+Game Over	게임 오버
+vs. CPU (was %s)	vs. CPU (원래 %s)
+You have been removed from this game for ejecting your game disc.	게임 디스크를 꺼내 경기에서 제외되었습니다.
+%s has offered mercy. If you accept, the game will be over. You will lose the game, your stats will be recorded, but you will not be charged with quitting.	%s이(가) 자비를 제안했습니다. 수락하면 경기가 끝나며, 패배와 기록은 남지만 기권으로 처리되지는 않습니다.
+|Accept|^Reject	|수락|^거절
+Mercy has been granted. You will be assessed a loss for this game and your stats will be recorded.	자비가 받아들여졌습니다. 이 경기는 패배로 처리되고 기록은 남습니다.
+%s has cancelled his mercy request.	%s이(가) 자비 요청을 취소했습니다.
+!Request Cancelled	!요청 취소됨
+Your opponent has accepted your gift of mercy. You will be awarded a win for this game and all stats will be recorded.	상대가 자비를 받아들였습니다. 이 경기는 승리로 처리되고 모든 기록이 남습니다.
+|^ok	|^확인
+%s has conceded defeat to you. If you accept, you will win this game, all stats will be recorded and your opponent will not be charged with quitting.	%s이(가) 패배를 인정했습니다. 수락하면 승리하고 모든 기록이 남으며, 상대는 기권으로 처리되지 않습니다.
+Concession Accepted	패배 인정 수락
+%s has cancelled his concede request.	%s이(가) 패배 인정 요청을 취소했습니다.
+You have both decided to quit this game. The scores, stats and quit for this game will not be recorded.	양쪽 모두 경기를 그만두기로 했습니다. 이 경기의 점수, 기록, 기권은 남지 않습니다.
+%s has requested a friendly quit. If you accept, the game will not count for either player. End game?	%s이(가) 합의 종료를 요청했습니다. 수락하면 양쪽 모두 경기가 무효 처리됩니다. 경기를 끝내시겠습니까?
+%s has cancelled his friendly quit request.	%s이(가) 합의 종료 요청을 취소했습니다.
+Your opponent has quit the game.	상대가 경기를 그만두었습니다.
+Enter Message	메시지 입력
+Your opponent is blocking chat.	상대가 채팅을 차단했습니다.
+Are you sure you want to quit this game? You will get an automatic loss, none of your stats will be recorded, and a quit will be added to your Did Not Finish Percentage (DNF%).	정말 그만두시겠습니까? 자동으로 패배 처리되고 기록은 남지 않으며, 미완료 비율(DNF%)에 기권이 추가됩니다.
+Are you sure you want to quit this game?	정말 이 경기를 그만두시겠습니까?
+Are you sure you want to concede defeat? If accepted, you will lose this game, your stats will be recorded, but you will not be charged with quitting.	정말 패배를 인정하시겠습니까? 수락되면 패배하고 기록은 남지만 기권으로 처리되지는 않습니다.
+|Concede|^Cancel	|패배 인정|^취소
+Offering to concede to your opponent...	상대에게 패배 인정을 제안하는 중...
+Your opponent has rejected your offer to concede.	상대가 패배 인정 제안을 거절했습니다.
+Your opponent has accepted your cry for mercy. You will get a loss for this game, but you will not be charged with quitting	상대가 자비 요청을 받아들였습니다. 이 경기는 패배로 처리되지만 기권으로 처리되지는 않습니다
+Are you sure you want to offer mercy? If accepted, the game will be over, your stats will be recorded, and you will be awarded a victory	정말 자비를 제안하시겠습니까? 수락되면 경기가 끝나고 기록이 남으며 승리로 처리됩니다
+|Offer|^Cancel	|제안|^취소
+Offering mercy to your opponent...	상대에게 자비를 제안하는 중...
+Your opponent has rejected your offer for mercy.	상대가 자비 제안을 거절했습니다.
+Are you sure you want to friendly quit?	정말 합의 종료하시겠습니까?
+Offering a friendly quit to your opponent...	상대에게 합의 종료를 제안하는 중...
+Your opponent has rejected your friendly quit request.	상대가 합의 종료 요청을 거절했습니다.
+Concede Defeat	패배 인정

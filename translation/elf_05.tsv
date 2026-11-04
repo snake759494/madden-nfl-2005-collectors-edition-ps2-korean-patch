@@ -1,0 +1,182 @@
+# ELF 문자열 5 (뉴스/전술/포메이션) - %서식 순서 유지
+PASS ATT:	패스 시도:
+PASS Comp:	패스 성공:
+PASS YDS:	패스 야드:
+PASS TD:	패스 TD:
+RUSH TD:	러싱 TD:
+RUSH ATT:	러싱 시도:
+RUSH YDS:	러싱 야드:
+REC YDS:	리시빙 야드:
+FORCED FUMB:	펌블 유도:
+FUMB REC:	펌블 리커버:
+INT for TD:	인터셉트 TD:
+FUMB REC for TD:	펌블 리커버 TD:
+Pocket Presence	포켓 플레이
+Chase and Tackle	추격과 태클
+Swat Ball	공 쳐내기
+Trench Fight	참호전
+Clutch Kicking	클러치 킥
+Corner Punt	코너 펀트
+Precision Passing	정밀 패스
+Ground Attack	지상 공격
+Catch Ball	볼 캐치
+The %s %s (%s) has retired after %d years in the NFL, due to %s%s.	%s %s(%s)이(가) NFL %d년 경력을 끝으로 은퇴했습니다. 사유: %s%s.
+The %s %s (%s) has retired at the age of %d, after %d years in the NFL.	%s %s(%s)이(가) %d세의 나이로 NFL %d년 경력을 마치고 은퇴했습니다.
+The %s have signed %s (%s) to a %d year deal worth $%dK.	%s 팀이 %s(%s)와 %d년 $%dK 계약을 맺었습니다.
+The %s have signed %s (%s) to a %d year deal worth $%.2fM.	%s 팀이 %s(%s)와 %d년 $%.2fM 계약을 맺었습니다.
+The %s have re-signed %s (%s) to a %d year deal worth $%dK.	%s 팀이 %s(%s)와 %d년 $%dK 재계약했습니다.
+The %s have re-signed %s (%s) to a %d year deal worth $%.2fM.	%s 팀이 %s(%s)와 %d년 $%.2fM 재계약했습니다.
+The %s %s (%s) is holding out for a better contract.	%s %s(%s)이(가) 더 나은 계약을 요구하며 계약을 거부하고 있습니다.
+The %s have released %s (%s).	%s 팀이 %s(%s)을(를) 방출했습니다.
+The %s have placed %s (%s) on injured reserve.	%s 팀이 %s(%s)을(를) 부상자 명단에 올렸습니다.
+The %s %s (%s) is demanding to be traded to another team.	%s %s(%s)이(가) 다른 팀으로의 트레이드를 요구하고 있습니다.
+The %s have released %s (%s) because of morale issues.	%s 팀이 사기 문제로 %s(%s)을(를) 방출했습니다.
+The %s %s (%s) has decided to skip training camp, in order to pursue another interest.	%s %s(%s)이(가) 다른 일에 전념하려고 트레이닝 캠프에 불참하기로 했습니다.
+The %s have traded	%s 팀이 트레이드:
+%s the %d%s pick in round %d	%s %d%s 순위(%d라운드)
+%s the %d%s pick in round %d and %s (%s)	%s %d%s 순위(%d라운드)와 %s(%s)
+%s the %d%s pick in round %d, %s (%s), and %s (%s)	%s %d%s 순위(%d라운드), %s(%s), %s(%s)
+%s a %d%s round pick	%s %d%s 라운드 지명권
+%s a %d%s round pick and %s (%s)	%s %d%s 라운드 지명권과 %s(%s)
+%s a %d%s round pick, %s (%s), and %s (%s)	%s %d%s 라운드 지명권, %s(%s), %s(%s)
+%s to the %s for	%s - %s 팀, 대가:
+%s the %d%s pick in round %d.	%s %d%s 순위(%d라운드).
+%s the %d%s pick in round %d and %s (%s).	%s %d%s 순위(%d라운드)와 %s(%s).
+%s the %d%s pick in round %d, %s (%s), and %s (%s).	%s %d%s 순위(%d라운드), %s(%s), %s(%s).
+%s a %d%s round pick.	%s %d%s 라운드 지명권.
+%s a %d%s round pick and %s (%s).	%s %d%s 라운드 지명권과 %s(%s).
+%s a %d%s round pick, %s (%s), and %s (%s).	%s %d%s 라운드 지명권, %s(%s), %s(%s).
+Scrambling	스크램블
+Pass Rushing	패스 러시
+Run Stopping	런 저지
+Coverage	커버리지
+Hard Hitting	강한 태클
+Accurate	정확함
+Pocket Passer 	포켓 패서
+Balanced	균형형
+Tack Loss	태클 포 로스
+Tot Tack	총 태클
+Pass Defl	패스 저지
+Fumb Yds	펌블 야드
+QB Hurry	QB 압박
+Int Long	최장 인터셉트
+XP Block	XP 블록
+FG Block	FG 블록
+Pass Comp	패스 성공
+Pass Hurry	패스 압박
+Pass Long	최장 패스
+Pass Sack	피색
+Punt Block	펀트 블록
+Punt Long	최장 펀트
+Rec Long	최장 리셉션
+Rush 2Pt	러싱 2점
+Rush Fumb	러싱 펌블
+Rush Long	최장 러싱
+After 1st Hit	첫 접촉 후
+Tack	태클
+Defl	저지
+Hurry	압박
+Started	선발
+Block	블록
+Sack	색
+In 20	20야드 안
+Fumb	펌블
+1st Hit	첫 접촉
+ALL MADDEN	올매든
+Coffin Corner Punt	코핀 코너 펀트
+Swat passes down	패스 쳐내기
+Run to the target and catch the ball	목표로 달려가 공 잡기
+Score TDs against opponent	상대에게 TD 기록하기
+TD Passes	TD 패스
+Completion Pct	패스 성공률
+Rushing Avg	러싱 평균
+Rushing TDs	러싱 TD
+Receiving TDs	리시빙 TD
+Receiving Yards	리시빙 야드
+Average YAC	평균 YAC
+Fumble Recoveries	펌블 리커버
+Defensive TDs	수비 TD
+Maximum number of cards played.	사용 가능한 카드 수가 최대입니다.
+Please insert a	꽂아 주세요:
+Other device	다른 장치
+Incompatible	호환 안 됨
+Releasing %s will result in a cap penalty of %s that will count against your team's salary starting the next off-season.	%s을(를) 방출하면 %s의 캡 페널티가 생기며, 다음 오프시즌부터 팀 연봉에 반영됩니다.
+Confirm release of %s?	%s을(를) 방출하시겠습니까?
+Roster is full	로스터가 가득 참
+Cannot Re-Sign players on Injured Reserve	부상자 명단 선수와는 재계약할 수 없습니다
+This player is a restricted free agent. You must go to the Restricted Free Agents screen in the Off-Season Schedule to re-sign him.	제한적 FA 선수입니다. 재계약하려면 오프시즌 일정의 제한적 FA 화면으로 가야 합니다.
+You have reached the max number of trade proposals allowed. Proposals can be deleted in the Trade Block screen.	트레이드 제안 수가 최대입니다. 트레이드 블록 화면에서 제안을 삭제할 수 있습니다.
+Pass Heavy	패스 위주
+Run Heavy	런 위주
+West Coast	웨스트 코스트
+Pass Defense	패스 수비
+Run Defense	런 수비
+Blitz Heavy	블리츠 위주
+Zone Heavy	존 위주
+Man Coverage	맨 커버리지
+Run Stop	런 저지
+Pass Cover	패스 커버
+Place in slot left...	왼쪽 슬롯에 배치...
+Place in slot right...	오른쪽 슬롯에 배치...
+Place at tight end...	타이트 엔드에 배치...
+Place in split left...	왼쪽 스플릿에 배치...
+Place in split right...	오른쪽 스플릿에 배치...
+Place at running back...	러닝백에 배치...
+Place under center...	언더 센터에 배치...
+Place in shotgun...	샷건에 배치...
+place your players...	선수를 배치하세요...
+player personnel set...	선수 구성 완료...
+only the QB can be placed here.	여기에는 QB만 둘 수 있습니다.
+set personnel to continue...	계속하려면 선수 구성을 정하세요...
+tackles are not covered...	태클이 가려지지 않았습니다...
+there are not enough players on the %s side of the line.	라인의 %s쪽에 선수가 부족합니다.
+there are not enough players on the line of scrimmage.	스크리미지 라인에 선수가 부족합니다.
+not enough players on line...	라인 선수 부족...
+there are too many players on the line of scrimmage.	스크리미지 라인에 선수가 너무 많습니다.
+too many players on line...	라인 선수 초과...
+an unknown error has occured.	알 수 없는 오류가 발생했습니다.
+this name already exists.	이미 있는 이름입니다.
+this formation already exists.	이미 있는 포메이션입니다.
+the maximum number of formations has been created.	포메이션 수가 최대입니다.
+Place at right corner back...	오른쪽 코너백에 배치...
+Place at left corner back...	왼쪽 코너백에 배치...
+Place at free safety...	프리 세이프티에 배치...
+Place at strong safety...	스트롱 세이프티에 배치...
+Place at right linebacker...	오른쪽 라인배커에 배치...
+Place at left linebacker...	왼쪽 라인배커에 배치...
+Place at middle linebacker...	미들 라인배커에 배치...
+Place at right end...	오른쪽 엔드에 배치...
+Place at left end...	왼쪽 엔드에 배치...
+Place at defensive tackle...	디펜시브 태클에 배치...
+player is set...	선수 배치 완료...
+unexpected error	예기치 못한 오류
+lineman is set..	라인맨 배치 완료..
+linebacker is set..	라인배커 배치 완료..
+defensive back is set..	디펜시브 백 배치 완료..
+an unknown error has occured..	알 수 없는 오류가 발생했습니다..
+this name already exists..	이미 있는 이름입니다..
+this formation already exists..	이미 있는 포메이션입니다..
+the maximum number of formations has been created..	포메이션 수가 최대입니다..
+1 sec delay	1초 지연
+2 sec delay	2초 지연
+3 sec delay	3초 지연
+Custom Route	커스텀 루트
+Drop %.0f Yards	%.0f야드 드롭
+Create Formation	포메이션 만들기
+Blitz Middle	가운데 블리츠
+Blitz Lt	왼쪽 블리츠
+Blitz Rt	오른쪽 블리츠
+Flat Zone	플랫 존
+Hook Zone	훅 존
+Curl Flat Zone	컬 플랫 존
+Deep Zone	딥 존
+Deepest Man	가장 깊은 선수
+Request accepted.	요청이 받아들여졌습니다.
+The player is not injured.	부상 선수가 아닙니다.
+The player is already on the IR.	이미 부상자 명단에 있는 선수입니다.
+Injured players cannot be substituted when the game is over.	경기가 끝나면 부상 선수를 교체할 수 없습니다.
+User cannot substitute an injured player on a team they don't control.	조작하지 않는 팀의 부상 선수는 교체할 수 없습니다.
+%c.%s is already playing injured	%c.%s은(는) 이미 부상 중 출전하고 있습니다
+Offering Relocation Packages...	이전 패키지 제안 중...
+Progressing Coaches...	코치 성장 처리 중...
+Retiring Coaches...	코치 은퇴 처리 중...

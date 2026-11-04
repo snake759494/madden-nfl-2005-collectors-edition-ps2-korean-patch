@@ -1,0 +1,104 @@
+# ELF 길이 제한용 축약 번역 (앞 파일 번역을 덮어씀)
+Out of Bounds	아웃바운즈
+EA SPORTS° Bio	EA SPORTS° Bio
+Please Wait...	기다리세요...
+You need me, and I need money. Give me a new contract.	팀엔 제가, 전 돈이 필요해요. 새 계약을 주세요.
+Trade me now. I need a fresh start.	당장 트레이드해요. 새 출발이 필요해요.
+Draft Round: %d	지명 라운드: %d
+   West Coast	   웨스트코스트
+ST Coordinator	ST 코디네이터
+League OPY/DPY	리그 공/수 MVP
+Winning Seasons	5할 이상 시즌
+Biggest Win	최대 점수차 승
+Worst Loss	최대 점수차 패
+An unexpected error occurred.	예기치 못한 오류 발생.
+%sTOP %d:0%d, 	%s공격 %d:0%d,
+%sTOP %d:%d, 	%s공격 %d:%d,
+Rejected: %s roster is full.	거부: %s 로스터 가득 참.
+Simulating Game	경기 시뮬 중
+Simulating Week	주간 시뮬 중
+Rnd %d, pick %d	%d라운드 %d순위
+Trade rejected: %s is not available.	트레이드 거부: %s 트레이드 불가.
+Trade rejected: %s cannot be traded while injured.	트레이드 거부: %s은(는) 부상 중이라 불가합니다.
+Trade will put %s below minimum %ss	%s 팀의 %s 인원이 최소 미달이 됩니다
+Off RZ Att	공격 RZ 시도
+Def RZ Att	수비 RZ 시도
+Please Wait	기다리세요
+Unknown	미확인
+Passwords do not match.	비밀번호 불일치.
+User ID	ID
+Loading %s from %s in %s. Do not remove the %s, controller, reset or power off.	%s을(를) %s(%s)에서 로드 중. %s, 컨트롤러를 빼거나 리셋, 전원을 끄지 마세요.
+Unable to load %s from %s in %s.  The file is corrupt.	%s을(를) %s(%s)에서 불러올 수 없습니다. 손상된 파일.
+Top 100	상위100
+User aborted operation.	사용자가 중단함.
+Password too short.	비밀번호가 짧습니다.
+ACL sprain	ACL 염좌
+PCL sprain	PCL 염좌
+Pulled groin	사타구니 손상
+Offense pick a play!	공격 플레이 선택!
+Defense pick a play!	수비 플레이 선택!
+Out of Bounds!	아웃바운즈!
+Cust. Alt. Away	커스텀 대체원정
+injured his %s on the play.	이번 플레이에서 %s 부상인 듯.
+DELAY OF GAME	딜레이 오브게임
+5yd FACEMASK	5야드 마스크
+15yd FACEMASK	15야드 마스크
+Fake Punt Pass	페이크펀트 패스
+RB Direct Snap Handoff	RB 다이렉트 핸드오프
+RB Direct Snap	RB 다이렉트스냅
+Fake FG - Pass	페이크FG-패스
+Off Redzone Att	공격 RZ 시도
+Off RZ Scoring	공격 RZ 득점
+Def Redzone Att	수비 RZ 시도
+Def RZ Scoring	수비 RZ 득점
+The %s %s (%s) is holding out for a better contract.	%s %s(%s), 더 나은 계약을 요구하며 계약 거부.
+The %s have released %s (%s).	%s 팀, %s(%s) 방출.
+Score as many TDs as you can	최대한 많은 TD를 기록하세요
+Maximum number of cards played.	카드 사용 수가 최대입니다.
+Confirm release of %s?	%s 방출하시겠습니까?
+Roster is full	로스터 가득 참
+set personnel to continue...	선수 구성을 정하세요...
+an unknown error has occured..	알 수 없는 오류 발생..
+Request accepted.	요청 수락됨.
+%c.%s is already playing injured	%c.%s은(는) 이미 부상 중 출전 중
+Simulating Playoffs	플레이오프 시뮬 중
+unexpected error has occured.	예기치 못한 오류 발생.
+Enter username	이름 입력
+Loading %s from %s in %s. Do not remove %s, reset, power off, or disconnect any controllers.	%s을(를) %s(%s)에서 로드 중. %s을(를) 빼거나 리셋, 전원 끄기, 컨트롤러 분리를 하지 마세요.
+Error loading %s from %s in %s.	%s 로드 오류: %s(%s).
+Error saving %s to %s in %s.	%s 저장 오류: %s(%s).
+The %s in %s is unformatted.	%s(%s) 포맷 안 됨.
+|^Retry|Save new|Cancel	|^재시도|새로 저장|취소
+PLEASE WAIT	기다리세요
+ has signed out	 접속 종료
+No supported network adaptor detected.	지원하는 네트워크 어댑터가 없습니다.
+Invalid new Password given.Please enter a valid Password and try again.	새 비밀번호가 잘못되었습니다. 올바른 비밀번호로 다시 시도하세요.
+Please delete a Persona and try again.	페르소나를 삭제하고 다시 시도하세요.
+1 in %d	1/%d
+REC TD:	리시TD:
+Int Yds	INT야드
+Int TD	INT TD
+KR Long	KR최장
+KR TD	KR TD
+KR Yds	KR야드
+Pancake	팬케익
+Pass KD	패스KD
+PR Long	PR최장
+PR TD	PR TD
+PR Yds	PR야드
+In 20	20안
+Rec 2Pt	리시2점
+QB RAT	QB평점
+In NFL	NFL
+IN 20	20안
+KR Avg	KR평균
+KR TDs	KR TD
+PR Avg	PR평균
+PR TDs	PR TD
+FG Pct	FG%
+TO Diff	TO차
+No Play	없음
+                                              Round: %d	                                             라운드:%d
+%s (%s #%d) of the %s has suffered a career ending %s.	%s(%s #%d, %s), 은퇴할 정도의 %s 부상.
+Insufficient space on %s in %s. %s requires %s of free space.\nWARNING! Not saving will lose current %s.	%s(%s) 공간 부족. %s 저장에 %s 필요.\n경고! 저장하지 않으면 현재 %s이(가) 사라집니다.
+\nFG Att	\nFG시도

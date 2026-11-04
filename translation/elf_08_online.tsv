@@ -1,0 +1,38 @@
+# ONLINE.DAT 오버레이(온라인 모듈) DNAS/네트워크 오류 문구 - tools/gen_online_tsv.py 로 생성
+DNAS Error (-101)\nThe network authentication server is busy. Please try again later.	DNAS 오류 (-101)\n네트워크 인증 서버가 혼잡합니다. 나중에 다시 시도하세요.
+DNAS Error (-102)\nThis software title is not in service. 	DNAS 오류 (-102)\n이 타이틀은 서비스하지 않습니다. 
+DNAS Error (-103)\nThis software title is not in service. 	DNAS 오류 (-103)\n이 타이틀은 서비스하지 않습니다. 
+DNAS Error (-104)\nThe network authentication server is not in service.	DNAS 오류 (-104)\n네트워크 인증 서버가 서비스 중이 아닙니다.
+DNAS Error (-105)\nConnection to the network authentication server has timed out. Please try again later.	DNAS 오류 (-105)\n네트워크 인증 서버 연결 시간이 초과되었습니다. 나중에 다시 시도하세요.
+DNAS Error (-106)\nA network authentication system error has occurred.	DNAS 오류 (-106)\n네트워크 인증 시스템 오류가 발생했습니다.
+DNAS Error (-107)\nA network authentication system error has occurred.	DNAS 오류 (-107)\n네트워크 인증 시스템 오류가 발생했습니다.
+DNAS Error (-108)\nA network authentication system error has occurred.	DNAS 오류 (-108)\n네트워크 인증 시스템 오류가 발생했습니다.
+Network Error (-601)\nNetwork connection has been aborted.	네트워크 오류 (-601)\n네트워크 연결이 중단되었습니다.
+Network Error (-602)\nError in proxy setting.	네트워크 오류 (-602)\n프록시 설정 오류입니다.
+Network Error (-603)\nConnection timed out. Please try connecting again at a later time.	네트워크 오류 (-603)\n연결 시간이 초과되었습니다. 나중에 다시 연결하세요.
+Network Error (-610)\nConnection to the DNAS server failed.	네트워크 오류 (-610)\nDNAS 서버 연결에 실패했습니다.
+Network Error (-611)\nThere was an error in the response from the DNS server. Please check your network configuration.	네트워크 오류 (-611)\nDNS 서버 응답에 오류가 있습니다. 네트워크 설정을 확인하세요.
+Network Error (-612)\nThere was no response from the DNS server. Please check your network configuration.	네트워크 오류 (-612)\nDNS 서버가 응답하지 않습니다. 네트워크 설정을 확인하세요.
+Network Error (-613)\nThere was an error in the response from the DNS server. Please check your network configuration.	네트워크 오류 (-613)\nDNS 서버 응답에 오류가 있습니다. 네트워크 설정을 확인하세요.
+Network Error (-614)\nThere was an error in the response from the DNS server. Please check your network configuration.	네트워크 오류 (-614)\nDNS 서버 응답에 오류가 있습니다. 네트워크 설정을 확인하세요.
+Network Error (-615)\nThere was a DNS error. Please check your network configuration.	네트워크 오류 (-615)\nDNS 오류입니다. 네트워크 설정을 확인하세요.
+Network Error (-616)\nConnection to the DNAS server failed.	네트워크 오류 (-616)\nDNAS 서버 연결에 실패했습니다.
+Network Error (-617)\nConnection timed out. Please try connecting again at a later time.	네트워크 오류 (-617)\n연결 시간이 초과되었습니다. 나중에 다시 연결하세요.
+Network Error (-618)\nConnection to the DNAS server failed.	네트워크 오류 (-618)\nDNAS 서버 연결에 실패했습니다.
+Network Error (-619)\nConnection to the DNAS server failed.	네트워크 오류 (-619)\nDNAS 서버 연결에 실패했습니다.
+Network Error (-620)\nConnection to the DNAS server failed.	네트워크 오류 (-620)\nDNAS 서버 연결에 실패했습니다.
+Network Error (-621)\nThere was a connection error.	네트워크 오류 (-621)\n연결 오류가 발생했습니다.
+Network Error (-622)\nThere was a connection error.	네트워크 오류 (-622)\n연결 오류가 발생했습니다.
+Network Error (-623)\nThere was a connection error.	네트워크 오류 (-623)\n연결 오류가 발생했습니다.
+Network Error (-624)\nThere was a connection error.	네트워크 오류 (-624)\n연결 오류가 발생했습니다.
+Network Error (-625)\nThere was a connection error.	네트워크 오류 (-625)\n연결 오류가 발생했습니다.
+Network Error (-626)\nConnection to the DNAS server failed.	네트워크 오류 (-626)\nDNAS 서버 연결에 실패했습니다.
+DNAS Error (-xxx)\nAn authentication error has occurred. 	DNAS 오류 (-xxx)\n인증 오류가 발생했습니다. 
+Operation Cancelled by User	사용자가 작업을 취소함
+Unknown Client Error	알 수 없는 클라이언트 오류
+Please write down the error code number, and contact SCEA at 1-866-466-5333 or via SCEA's website, www.us.playstation.com.	오류 코드 번호를 적어 두고 SCEA(1-866-466-5333, www.us.playstation.com)에 문의하세요.
+Please check the start and end dates for this online title at Central Station using the Network Access Disc or refer to PlayStation.com.	네트워크 접속 디스크로 Central Station에 들어가거나 PlayStation.com에서 이 타이틀의 온라인 서비스 기간을 확인하세요.
+Please go to Central Station using the Network Access Disc for more information, or refer to PlayStation.com.	자세한 내용은 네트워크 접속 디스크로 Central Station에 들어가거나 PlayStation.com을 참고하세요.
+If you continue to experience the same problem please contact your local PlayStation Customer Care line on the number provided in the software manual.	같은 문제가 계속되면 설명서에 적힌 PlayStation 고객 센터로 문의하세요.
+Please contact your local PlayStation Customer Care line on the number provided in the software manual for assistance.	설명서에 적힌 PlayStation 고객 센터로 문의하세요.
+Try cleaning the disc using an approved method as detailed on Central Station (access using Network Access Disc)\nand PlayStation.com. If the problem continues to occur please contact your local PlayStation Customer Care line on the number provided in the software manual.	Central Station(네트워크 접속 디스크로 접속)과 PlayStation.com에 안내된 방법으로\n디스크를 닦아 보세요. 문제가 계속되면 설명서에 적힌 PlayStation 고객 센터로 문의하세요.

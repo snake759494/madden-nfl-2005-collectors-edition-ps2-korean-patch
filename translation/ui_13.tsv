@@ -1,0 +1,437 @@
+# 구단주 모드 / 경기 기록 / 뎁스 차트 / 퀴즈
+Grant Mercy	자비 베풀기
+Entering Game...	경기 입장 중...
+Waiting for Opponent...	상대를 기다리는 중...
+Waiting for you...	당신을 기다리는 중...
+PAUSES LEFT	남은 일시정지
+The game is paused.  	경기가 일시정지되었습니다.
+Mute self (only during voice chat)	내 음성 끄기 (음성 채팅 중만)
+Mute other (only during voice chat)	상대 음성 끄기 (음성 채팅 중만)
+send message	메시지 보내기
+camera view	카메라 시점
+friendly quit	합의 종료
+Are you sure you want to advance to the off-season?	오프시즌으로 진행하시겠습니까?
+The %s need to	%s 팀은 다음을 해야 합니다:
+sign an %s	%s 계약
+sign a %s	%s 계약
+|^Go to Staffing|Let CPU sign|Cancel	|^스태프 관리로|CPU가 계약|취소
+Let CPU fill all open coach positions?	CPU가 비어 있는 코치 자리를 모두 채우게 하시겠습니까?
+%s has retired from the %s	%s이(가) %s에서 은퇴했습니다
+The %s %s have relocated	%s %s 팀이
+to %s and become	%s(으)로 이전해
+the %s %s	%s %s 팀이 되었습니다
+Franchise Owner Year %d	프랜차이즈 구단주 %d년차
+Balance Sheet	대차대조표
+%s Bankrupt	%s 파산
+Currently the %s are operating in the red. You cannot afford the salaries of your players and coaching staff. You should look into relocation or lower your costs.	현재 %s 팀은 적자 운영 중입니다. 선수와 코칭 스태프의 연봉을 감당할 수 없습니다. 연고지 이전이나 비용 절감을 검토하세요.
+The %s have operated in the red for two consecutive seasons. If you cannot turn this franchise around, you are in jeopardy of losing your team. You should look into relocation or lower costs.	%s 팀은 두 시즌 연속 적자입니다. 상황을 반전시키지 못하면 팀을 잃을 수 있습니다. 연고지 이전이나 비용 절감을 검토하세요.
+The creditors have foreclosed on the %s. There are no other teams in this franchise for you to control. You have no choice but to sell your team.	채권자들이 %s 팀을 압류했습니다. 이 프랜차이즈에 조작할 다른 팀이 없습니다. 팀을 매각할 수밖에 없습니다.
+Leave Franchise	프랜차이즈 떠나기
+The creditors have foreclosed on the %s. You must sell your	채권자들이 %s 팀을 압류했습니다. 계속하려면
+Sell Value: %s	매각 가치: %s
+Quit franchise	프랜차이즈 그만두기
+%s interest in the team if you wish to continue. You should be able to purchase another team in the league if you sell now. %s	%s 팀 지분을 팔아야 합니다. 지금 팔면 리그의 다른 팀을 인수할 수 있을 것입니다. %s
+|^Sell|%s	|^매각|%s
+Are you sure you want to quit the Franchise?	정말 프랜차이즈를 그만두시겠습니까?
+The creditors have foreclosed on the %s. This is the last user controlled team and there are no teams available for purchase. You have no choice but to end the current franchise.	채권자들이 %s 팀을 압류했습니다. 마지막 사용자 팀이며 인수할 팀도 없습니다. 현재 프랜차이즈를 끝낼 수밖에 없습니다.
+|^Exit Franchise	|^프랜차이즈 나가기
+Ownership Tasks Main Menu	구단주 업무 메인 메뉴
+Access all of the Ownership tasks from	이 화면에서 모든 구단주 업무를
+this screen. Change coaches, check	이용합니다. 감독 교체, 재정 확인,
+your finances or even move the team.	팀 이전까지 할 수 있습니다.
+OFF-SEASON MENU	오프시즌 메뉴
+STAFFING	스태프 관리
+STADIUM	경기장
+Staffing	스태프 관리
+Coaching Staff	코칭 스태프
+The screens in this area allow you to	이 영역의 화면에서 구단주로서
+manage your coaching staff as an owner.	코칭 스태프를 관리합니다.
+SIGN COACH	코치 계약
+COACHING STAFF	코칭 스태프
+TRAINING STAFF	트레이닝 스태프
+CHANGE OWNERS	구단주 변경
+Franchise Owner Info	프랜차이즈 구단주 정보
+Select from the available options to 	옵션을 골라 프랜차이즈의
+view any type of information about your 	다양한 정보를
+franchise. 	확인합니다.
+ATTENDANCE	관중
+INCOME	수입
+FRANCHISE/TEAM	프랜차이즈/팀
+CITY INFO	도시 정보
+OWNER RATINGS	구단주 평가
+Owner's Box	구단주 박스
+The Owner's Box allows you to access all	구단주 박스에서 시즌 중 모든
+mid-season ownership tasks. You can set 	구단주 업무를 이용합니다. 가격을
+prices, view information, and even check	정하고 정보를 보며, 자문 위원에게
+with your advisors to see how things are going.	상황을 물어볼 수도 있습니다.
+Toggle user teams	사용자 팀 전환
+Balance sheet	대차대조표
+Cash Assets	현금 자산
+Attendance	관중
+Current Record	현재 전적
+Advisors	자문 위원
+HOME GAMES	홈 경기
+This screen breaks down the attendance	이 화면은 팀별 관중을 보여 줍니다.
+per team. Attendance can be viewed by 	관중은 경기별 또는 시즌별로
+game or by season. Attendance is only 	볼 수 있으며, 홈 경기만
+tracked per home game.	집계됩니다.
+Toggle by game/season	경기별/시즌별 전환
+FAN ATTENDANCE	팬 관중
+Motivation	동기 부여
+Work Ethic	직업 윤리
+Chemistry	팀워크
+Team Needs	팀 요구
+Sign Coach	코치 계약
+Sign new coaches to your team from this 	이 화면에서 새 코치와 계약합니다.
+screen. Offers are not finalized until 	제안은 오프시즌이 시작되어야
+the off-season begins. Use the category	확정됩니다. 분류 전환으로
+toggle to narrow your search.	검색 범위를 좁히세요.
+Make offer to highlighted coach	선택 코치에게 제안
+Sign highlighted coach	선택 코치와 계약
+Release Coach	코치 해고
+Promote/Release Coach	코치 승격/해고
+|Promote to Head Coach|Release Coach|^Cancel	|감독으로 승격|코치 해고|^취소
+Are you sure you want to replace your current head coach?  You will have to pay off the full amount remaining in his contract, %s.	정말 현재 감독을 교체하시겠습니까? 남은 계약금 %s을(를) 모두 지급해야 합니다.
+%s?  You will have to	%s? 남은 계약금
+in his contract, %s.	%s을(를) 모두 지급해야 합니다.
+Are you sure you want to release %s pay off the full amount remaining %s	정말 %s을(를) 해고하시겠습니까? 남은 금액 %s을(를) 모두 지급해야 합니다
+Record w/Team	팀 성적
+Current Salary	현재 연봉
+Coach of the Year	올해의 감독
+Manage your coaching staff from this 	이 화면에서 코칭 스태프를 관리합니다.
+screen. Your team will need a full staff	오프시즌으로 가려면 스태프가
+in order to continue to the off-season.	모두 채워져 있어야 합니다.
+Promote/release coach	코치 승격/해고
+Position Ratings	포지션 평가
+AFC CHAMPIONSHIP LOSS	AFC 챔피언십 패배
+Congratulations on your relocation!  Your new stadium will be built next regular season, so you will move at the end of next year.  A word of warning, your fans are not pleased with you packing up the team, so be prepared for a rough year overall.	연고지 이전을 축하합니다! 새 경기장은 다음 정규 시즌에 지어지며, 내년 말에 이전합니다. 경고하자면 팬들은 팀이 떠나는 것을 좋아하지 않으니 힘든 한 해를 각오하세요.
+You may not cancel once the relocation has been approved.	이전이 승인되면 취소할 수 없습니다.
+Are you sure you want to cancel your relocation plans?	정말 이전 계획을 취소하시겠습니까?
+Sending your proposal out for a vote means your fans will learn about your intent to move the team, whether you get approval or not. Do you still wish to continue?	제안을 투표에 부치면 승인 여부와 관계없이 팬들이 팀 이전 의도를 알게 됩니다. 그래도 계속하시겠습니까?
+Your proposal to move to %s has been accepted.	%s(으)로의 이전 제안이 승인되었습니다.
+Your bid to move to %s has been denied due to lack of support. You may not try to relocate again until the end of next season.	지지 부족으로 %s(으)로의 이전이 거부되었습니다. 다음 시즌이 끝날 때까지 다시 이전을 시도할 수 없습니다.
+|^Return to Stadium Central	|^경기장 센트럴로 돌아가기
+RELOCATION MAIN MENU	연고지 이전 메인 메뉴
+Relocation Main Menu	연고지 이전 메인 메뉴
+This menu will guide you through	이 메뉴에서 팀 이전 과정을
+relocating your team. Choose a city,	안내합니다. 도시를 고르고
+get approval and then create your	승인을 받은 뒤 새 팀을
+new team.	만드세요.
+1 - Select Location	1 - 장소 선택
+2 - Design Stadium	2 - 경기장 디자인
+3 - Secure Funds	3 - 자금 확보
+4 - Submit Proposal	4 - 제안 제출
+5 - Change Nickname	5 - 팀명 변경
+6 - Change Uniform	6 - 유니폼 변경
+7 - Finalize	7 - 마무리
+Salary Info (NFL Rank)	연봉 정보 (NFL 순위)
+Cap Penalty	캡 페널티
+Avg. Starter Salary	주전 평균 연봉
+Position Ratings (League Average)	포지션 평가 (리그 평균)
+Avg. QB Overall	QB 평균 종합
+Avg. WR/TE Overall	WR/TE 평균 종합
+Avg. LB Overall	LB 평균 종합
+Avg. RB Overall	RB 평균 종합
+Avg. OL Overall	OL 평균 종합
+Avg. DL Overall	DL 평균 종합
+Avg. DB Overall	DB 평균 종합
+Avg. K/P Overall	K/P 평균 종합
+Conf.	컨퍼런스
+Division	지구
+Highest Paid Players	최고 연봉 선수
+Head Coach	감독
+Off. Coordinator	공격 코디네이터
+Def. Coordinator	수비 코디네이터
+ST Coordinator	스페셜 팀 코디네이터
+Training Staff	트레이닝 스태프
+Total Salaries	총 연봉
+Coach Ratings (League Average)	코치 평가 (리그 평균)
+Franchise/Team Info	프랜차이즈/팀 정보
+This is where you can view all of the 	이 화면에서 프랜차이즈의 모든
+information your franchise generates. 	정보를 봅니다.
+View averages, coach stats, and compare	평균, 코치 기록을 보고 팀 능력치를
+your team ratings to the rest of the league.	리그의 다른 팀과 비교하세요.
+Change between player/coach info	선수/코치 정보 전환
+Select Location	장소 선택
+Sort Spreadsheet	표 정렬
+CHOOSE A CITY	도시 선택
+Choose the city you wish to relocate to	이 화면에서 이전할 도시를 고르세요.
+in this screen. Cities with a high	NFL 팀을 간절히 원하는 도시일수록
+desire for an NFL team will support your	팀을 더 열렬히
+team more than cities with low desire.	응원합니다.
+Change highlighted city	선택 도시 변경
+Change column	열 변경
+Sort	정렬
+Select highlighted city	선택 도시 결정
+Secure Funds	자금 확보
+New Stadium Info	새 경기장 정보
+Approximate Capacity	예상 수용 인원
+Approximate Cost	예상 비용
+Est. Date of Completion	예상 완공일
+City Funding	시 지원금
+Likelihood of Approval	승인 가능성
+*PSL's will help you raise money, but will hurt fan support when the deal is finalized\r\n	*PSL은 자금 마련에 도움이 되지만 계약이 확정되면 팬 지지도가 떨어집니다\r\n
+Relocation Funds	이전 자금
+Here is where you secure the funds for 	여기서 경기장 자금을 확보합니다.
+your stadium. You can either pay out of	자비로 내거나 시의 지원금을
+pocket or try to get funding from the	받을 수 있습니다
+city (requires approval).	(승인 필요).
+Change funding value	지원 금액 변경
+Scroll highlighted option	선택 항목 스크롤
+Team Contribution	팀 부담금
+Relocation Package Contribution	이전 패키지 지원금
+*Personal Seat Licenses	*좌석 소유권(PSL)
+City Information	도시 정보
+View information of each city from this 	이 화면에서 각 도시의 정보를 봅니다
+Would you like to hire %s?	%s을(를) 고용하시겠습니까?
+Current Staff	현재 스태프
+Sign a new training staff from this 	이 화면에서 새 트레이닝 스태프와 계약합니다.
+screen. Training Staffs are signed for three 	트레이닝 스태프는 3년 계약이며
+years and then are free to sign with a new 	그 후에는 새 팀과 자유롭게
+team.	계약할 수 있습니다.
+Change highlighted staff	선택 스태프 변경
+Make offer to highlighted staff	선택 스태프에게 제안
+Owner Ratings	구단주 평가
+View your current and yearly	여기서 현재 및 연도별
+owner ratings here.	구단주 평가를 봅니다.
+ABOVE AVERAGE	평균 이상
+Current Owner Ranking	현재 구단주 순위
+Cities that have not made you an offer are less willing to contribute large sums of money towards your relocation. Proceed anyways?	제안하지 않은 도시는 이전 비용을 크게 지원할 의향이 적습니다. 그래도 진행하시겠습니까?
+VIEW OFFERS	제안 보기
+CHOOSE A RELOCATION PACKAGE	이전 패키지를 고르거나
+OR SELECT 'OTHER CITIES'	'기타 도시'를 선택
+You may not seek out other forms of funding other than your own personal finances to renovate your stadium. Would you still like to renovate your stadium?	경기장 개축은 자기 자금으로만 할 수 있습니다. 그래도 개축하시겠습니까?
+Rebuilding your stadium will discard your previous one.  You must have enough fan support and money available to gain approval from the city. Are you sure you want to build a new stadium?	경기장을 새로 지으면 기존 경기장은 없어집니다. 시의 승인을 받으려면 팬 지지도와 자금이 충분해야 합니다. 정말 새 경기장을 지으시겠습니까?
+STADIUM CENTRAL	경기장 센트럴
+Stadium Central	경기장 센트럴
+In this screen you can rename, renovate,	이 화면에서 경기장 이름 변경, 개축,
+relocate, rebuild, or purchase upgrades	이전, 신축, 개선 구입을 할 수 있습니다.
+to your stadium. Note: Only	참고: 사용자가 만든 경기장만
+user-created stadiums may be renovated.	개축할 수 있습니다.
+Rebuild	신축
+Relocate	이전
+Rename	이름 변경
+Renovate	개축
+Upgrade	개선
+Your new stadium will be built during the next regular season, and will be ready at the end of next year.	새 경기장은 다음 정규 시즌 동안 지어져 내년 말에 완공됩니다.
+You may not cancel once the new stadium proposal has been approved.	새 경기장 제안이 승인되면 취소할 수 없습니다.
+Are you sure you want to cancel your rebuilding plans?	정말 신축 계획을 취소하시겠습니까?
+You can only submit a proposal to the city once per year.  If denied, you must wait until the next off-season to resubmit. Do you still wish to continue?	시에 제안은 1년에 한 번만 할 수 있습니다. 거부되면 다음 오프시즌까지 기다려야 합니다. 그래도 계속하시겠습니까?
+Your proposal to build a new stadium has been approved.	새 경기장 건설 제안이 승인되었습니다.
+Your proposal to build a new stadium has been denied.  Unfortunately there was not enough support for the vote to pass.  You may not try to rebuild again until the end of next season.	새 경기장 건설 제안이 거부되었습니다. 안타깝게도 투표를 통과할 만큼 지지가 없었습니다. 다음 시즌이 끝날 때까지 다시 시도할 수 없습니다.
+REBUILD MAIN MENU	신축 메인 메뉴
+Stadium Rebuild	경기장 신축
+through the stadium rebuilding	경기장 신축 과정을 안내합니다.
+process. Design the stadium, secure 	이 화면에서 경기장을 디자인하고
+funds, submit the proposal from this screen.	자금을 확보해 제안을 제출하세요.
+1 - Design Stadium	1 - 경기장 디자인
+2 - Secure Funds	2 - 자금 확보
+3 - Submit Proposal	3 - 제안 제출
+4 - Finalize	4 - 마무리
+PURCHASED	구입함
+You have already purchased this upgrade.	이미 구입한 개선 항목입니다.
+Purchase %s?	%s을(를) 구입하시겠습니까?
+Upgrade Stadium	경기장 개선
+Total Assets	총 자산
+Available Upgrades	구입 가능한 개선
+After Purchase	구입 후
+Purchase Upgrades	개선 구입
+View available stadium upgrades in	구입 가능한 경기장 개선을 봅니다
+Select highlighted upgrade	선택 개선 결정
+Current Deal	현재 계약
+You must wait %s for your current deal\nto expire before renaming your stadium.	경기장 이름을 바꾸려면 현재 계약이\n끝날 때까지 %s 기다려야 합니다.
+Rename Stadium	경기장 이름 변경
+Choose the sponsor who will	경기장 명명권을 사 줄
+pay you for the naming rights to your	스폰서를 고르세요.
+stadium. You must meet the specific	조건을 충족해야 대금을
+expectations to receive payment.	받을 수 있습니다.
+Select highlighted offer	선택 제안 결정
+GAMES	경기
+FOR %s	%s
+income for each team. Income can be	각 팀의 수입. 수입은 경기별,
+viewed by game or by season, as well as	시즌별, 지난 홈 경기, 현재 시즌
+by last home game or current season.	기준으로 볼 수 있습니다.
+INCOME (IN MILLIONS)	수입 (백만 달러)
+TOTAL INCOME	총수입
+FOR SEASON	시즌 합계
+Cost	비용
+Purchase	구입
+Assets After Purchase	구입 후 자산
+Available Teams	인수 가능한 팀
+Purchase a new team to	다음 시즌을 함께할
+start the next season with.	새 팀을 인수하세요.
+Purchase highlighted team	선택 팀 인수
+You must have at least one user controlled team.	사용자 팀이 하나 이상 있어야 합니다.
+Net Assets	순자산
+Owner	구단주
+Change Owners	구단주 변경
+Switch between user or CPU control for	리그의 모든 팀에 대해 사용자/CPU
+any team in the league.	조작을 바꿉니다.
+Toggle user/CPU control	사용자/CPU 조작 전환
+5 years 	5년
+The %s have earned\na Local Media Contract worth\n%s a year for %s.	%s 팀이\n연간 %s, %s 기간의\n지역 방송 계약을 따냈습니다.
+Media Contract Awarded	방송 계약 체결
+You have earned a media contract.	방송 계약을 따냈습니다.
+Tackles	태클
+Sacks	색
+Forced Fumbles	펌블 유도
+Today's Game  	오늘 경기
+This Season  	이번 시즌
+Career Total  	통산
+Halftime Stats	하프타임 기록
+First Downs	퍼스트 다운
+Pass Yards	패싱 야드
+Rush Yards	러싱 야드
+Time of Poss.	공격 시간
+Season Average	시즌 평균
+Today's Game	오늘 경기
+ Points/Game	 경기당 득점
+ Points Allowed/Game	 경기당 실점
+ Total Offense	 총 공격
+ Yds Allowed/Game	 경기당 허용 야드
+ Rushing	 러싱
+ Passing	 패싱
+%s Standings	%s 순위
+Consecutive Completions	연속 패스 성공
+Completions	패스 성공
+Today	오늘
+Season	시즌
+FGs Made	필드골 성공
+FGs Attempted	필드골 시도
+This Season	이번 시즌
+FG PCT.	필드골 성공률
+Career Total	통산
+Wins	승
+Losses	패
+Pct	승률
+Running Back Comparison	러닝백 비교
+Rushes	러싱 시도
+Touchdowns	터치다운
+Wide Reciever Comparison	와이드 리시버 비교
+Receptions	리셉션
+Quarterback Comparison	쿼터백 비교
+Attempts	시도
+Passing Breakdown	패싱 분석
+Running Breakdown	러싱 분석
+%d Yards	%d야드
+Left:	왼쪽:
+Middle:	중앙:
+Right:	오른쪽:
+Punts	펀트
+Inside 20	20야드 안
+Defensive QB Pressure	수비 QB 압박
+Hurries	허리
+Knockdown	넉다운
+Avg Score	평균 점수
+Avg Points Given Up	평균 실점
+Avg Passing Yardage	평균 패싱 야드
+Avg Rushing Yardage	평균 러싱 야드
+Online	온라인
+COMP	성공
+Timeouts Remaining	남은 타임아웃
+Time of Possession	공격 시간
+Passing Yards	패싱 야드
+Rushing Yards	러싱 야드
+3rd Down Efficiency	3다운 성공률
+Conversions	성공
+4th Down Efficiency	4다운 성공률
+Penalty Comparison	반칙 비교
+Fumbles	펌블
+INTs	인터셉트
+Offensive Production	공격 생산력
+Rushing Yds	러싱 야드
+Yds After Contact	접촉 후 야드
+CONGRATULATIONS!\r\n	축하합니다!\r\n
+You have won the\r\nSuper Bowl!!	슈퍼볼에서\r\n우승했습니다!!
+LOADING	불러오는 중
+Tie	무승부
+Won %d	%d승
+Key Players	핵심 선수
+Avg. Points For	평균 득점
+Avg. Points Against	평균 실점
+Rush Yards For	러싱 야드
+Pass Yards For	패싱 야드
+Series Record	상대 전적
+Current Streak	현재 연속
+No Injuries	부상 없음
+Player of the Game	경기 MVP
+No Player	선수 없음
+Game Injuries	경기 중 부상
+Best Season Stats	최고 시즌 기록
+All Madden	올매든
+Individual Stats	개인 기록
+View individual stats from this screen.	이 화면에서 개인 기록을 봅니다.
+Player management (front end only)	선수 관리 (메뉴에서만)
+Player information (front end only)	선수 정보 (메뉴에서만)
+View career stats from this screen.	이 화면에서 통산 기록을 봅니다.
+Depth charts for unassisted USER coaches will not be reordered.	CPU 지원이 없는 사용자 감독의 뎁스 차트는 재정렬되지 않습니다.
+|Continue|Reorder all|^Cancel	|계속|모두 재정렬|^취소
+Player already appears at a depth for this position.	이 선수는 이미 이 포지션의 뎁스 차트에 있습니다.
+Sub %s %d with:	%s %d 교체 대상:
+The reorder depth charts option under coach options is set to "CPU". This option must be set to "User" in order to perform this task.	감독 옵션의 뎁스 차트 재정렬이 "CPU"로 설정되어 있습니다. 이 작업을 하려면 "사용자"로 설정해야 합니다.
+Auto-reorder depth chart?	뎁스 차트를 자동 재정렬하시겠습니까?
+Auto-reorder	자동 재정렬
+Select Sub	교체 선수 선택
+Set depth chart by position.	포지션별 뎁스 차트를 설정합니다.
+Top: Auto re-order	위: 자동 재정렬
+Bottom: Sort by highlighted column	아래: 선택 열로 정렬
+Go to player information (Main Menu)	선수 정보로 이동 (메인 메뉴)
+Continue (Offseason only)	계속 (오프시즌만)
+to sub player in game.	경기 중 선수 교체.
+to enter Player Management screen.	선수 관리 화면으로.
+Put injured %s back in the game?	부상당한 %s을(를) 다시 경기에 투입하시겠습니까?
+%s is too hurt to play.	%s은(는) 부상이 심해 뛸 수 없습니다.
+Placing player on IR will make him inactive for the rest of the season.	선수를 부상자 명단에 올리면 남은 시즌 동안 출전할 수 없습니다.
+Type	유형
+injuries	부상
+See which players are injured.	부상 선수를 확인합니다.
+Sub player back in (in game only)	선수 재투입 (경기 중만)
+Player management screen	선수 관리 화면
+     (front end only)	     (메뉴에서만)
+Sort by name / injury length	이름 / 부상 기간으로 정렬
+No Data Available	데이터 없음
+This profile is already in use.	이미 사용 중인 프로필입니다.
+Trivia Challenge	퀴즈 챌린지
+|^One Player|Two Players	|^1인 플레이|2인 플레이
+Load Profile	프로필 불러오기
+Maximum number of profiles loaded. Please use the Profile Manager to replace a loaded profile.	불러올 수 있는 프로필 수가 최대입니다. 프로필 관리에서 불러온 프로필을 교체하세요.
+Player 2	플레이어 2
+Press        to Begin	        버튼으로 시작
+Player 1	플레이어 1
+Select a Profile	프로필 선택
+Insert Controller	컨트롤러를 연결하세요
+Prepare for the trivia game.	퀴즈 게임을 준비하세요.
+Grade	등급
+View the High Scores for Trivia.	퀴즈의 최고 점수를 봅니다.
+Earn your spot in the high score list by answering\r\nthe questions as quickly as possible.\r\n	최대한 빨리 문제에 답해\r\n최고 점수 목록에 이름을 올리세요.\r\n
+Select your answer by pressing        ,       ,        or       .	       ,       ,        ,       버튼으로 답을 고르세요.
+Be careful when you buzz in!  You will           points\r\nfor every wrong answer.	버저를 조심해서 누르세요! 틀릴 때마다 점수를           \r\n
+lose	잃습니다
+The faster you answer, the more points you will\r\nreceive.	빨리 답할수록 더 많은 점수를\r\n받습니다.
+Welcome to Trivia	퀴즈에 오신 것을 환영합니다
+Welcome to the Trivia game.	퀴즈 게임에 오신 것을 환영합니다.
+Prove your Madden IQ!	매든 IQ를 증명하세요!
+Quit to Main Menu?	메인 메뉴로 나가시겠습니까?
+Quit (Between Questions)	그만두기 (문제 사이)
+Think your opponent doesn't\r\nhave a clue?	상대가 답을 모를 것 같나요?\r\n
+Press        to skip	        버튼으로 건너뛰기
+Force him to answer by pressing      \r\n(can be used once per game)	     버튼으로 상대에게 답을 강요하세요\r\n(경기당 1회)
+Trivia	퀴즈
+Play Trivia!	퀴즈 시작!
+Buzz in	버저 누르기
+Issue Challenge	도전하기
+Quit trivia	퀴즈 그만두기
+Challenge!	도전!
+Steal your opponent's points on a bad guess	상대가 틀리면 점수를 빼앗습니다
+If your opponent guesses correctly, he will receive double the point value	상대가 맞히면 상대가 두 배의 점수를 받습니다
+Exit Trivia Challenge and return to main menu?	퀴즈 챌린지를 나가 메인 메뉴로 돌아가시겠습니까?
+Play again with the same user profiles?	같은 사용자 프로필로 다시 하시겠습니까?
+|Yes|Change Profiles|^Cancel	|예|프로필 변경|^취소
+%s Final Score	%s 최종 점수
+%s is the Winner!	%s 승리!
+Correct Answers	정답
+Incorrect Answers	오답
+Final Scores	최종 점수
+The final scores are shown from this screen.	이 화면에서 최종 점수를 보여 줍니다.
+Play Again	다시 하기
+NEW	새 기능

@@ -1,0 +1,319 @@
+# 패키지 / 매든 카드 / 선수 만들기
+Lose changes to this Package?	이 패키지의 변경 사항을 버리시겠습니까?
+This package name is invalid because the name already exists.	이미 있는 이름이라 사용할 수 없습니다.
+Replace With	교체 대상
+Choose Formation	포메이션 선택
+Choose Set	세트 선택
+Choose Position	포지션 선택
+Replace Position	포지션 교체
+Custom Packages - Defense	커스텀 패키지 - 수비
+Custom Packages - Offense	커스텀 패키지 - 공격
+Formation	포메이션
+Set	세트
+Package	패키지
+This screen allows you to create	이 화면에서 프로필에 저장되는
+custom packages that will get saved	커스텀 패키지를
+in your profile.	만들 수 있습니다.
+Active Profile	활성 프로필
+Challenge Status	챌린지 현황
+Level %d	레벨 %d
+Level %d Token Scale	레벨 %d 토큰 등급
+help	도움말
+Tokens	토큰
+Lvl 1	레벨 1
+Lvl 2	레벨 2
+Lvl 3	레벨 3
+Lvl 4	레벨 4
+Lvl 5	레벨 5
+Earned	획득
+Spent	사용
+Balance	잔액
+Rookie	루키
+Pro	프로
+All-Pro	올프로
+All-Madden	올매든
+Tokens Earned	획득 토큰
+The status screen gives an overview	현황 화면에서는 완료한 모든
+of all challenges completed, as well	챌린지와 획득한 토큰을 보여 줍니다.
+as tokens earned.  Earn tokens to buy	챌린지를 완료해 토큰을 모으고
+cards by completing challenges.	카드를 구입하세요.
+Change highlighted task	선택 과제 변경
+Change task level	과제 레벨 변경
+Tasks	과제
+Madden Cards	매든 카드
+My Madden	마이 매든
+Use these screens to work with	이 화면에서 매든 카드를
+Madden Cards.	관리합니다.
+card book	카드북
+status	현황
+trade	트레이드
+Madden Codes	매든 코드
+madden cards	매든 카드
+Trade Cards	카드 트레이드
+Do both users accept the trade?	두 사용자 모두 트레이드에 동의하십니까?
+A trade cannot be submitted until two users add at least one card.	두 사용자가 각각 카드를 1장 이상 추가해야 트레이드할 수 있습니다.
+View Trade	트레이드 보기
+Submit Trade	트레이드 제출
+Complete Set	세트 완성
+Bronze	브론즈
+Silver	실버
+Gold	골드
+Trade cards with another user from	이 화면에서 다른 사용자와 카드를
+this screen.  Note:  You must have two	트레이드합니다. 주의: 카드를 가진
+profiles with cards in order to trade	프로필이 2개 있어야
+cards.	트레이드할 수 있습니다.
+Scroll through cards	카드 넘기기
+View card/add to trade (after card	카드 보기/트레이드 추가 (카드를
+     is viewed and flipped)	     보고 뒤집은 후)
+View current trade	현재 트레이드 보기
+Change user profile	사용자 프로필 변경
+Flip page	페이지 넘기기
+Submit/accept trade	트레이드 제출/수락
+this screen.	이 화면에서.
+View card / add to trade	카드 보기 / 트레이드 추가
+Submit trade	트레이드 제출
+Old Pittsburgh Stadium	올드 피츠버그 스타디움
+Record Breakers	기록 경신
+Select Card	카드 선택
+This screen displays all of the record	이 화면에서 모든 기록 경신 카드를
+breaker cards.  When an all-time	보여 줍니다. 역대 기록이 깨지면
+record is broken, the corresponding	해당 카드가 여기서
+card is updated here.	갱신됩니다.
+View Record Breaker Card	기록 경신 카드 보기
+Card Book	카드북
+To unlock this Madden Card, you must %s	이 매든 카드를 열려면 %s
+To unlock this Madden Card, you must connect only a Nintendo GameCube° Game Boy± Advance cable and a Game Boy± Advance to the Nintendo GameCube°.  Remove any games or accessories.	이 매든 카드를 열려면 닌텐도 게임큐브°에 게임보이± 어드밴스 케이블과 게임보이± 어드밴스만 연결하세요. 게임이나 주변기기는 모두 빼세요.
+To unlock this Madden Card, you must connect a Nintendo GameCube° Game Boy± Advance cable and a Game Boy± Advance with a Madden NFL 2004 Game Pak to the Nintendo GameCube°.	이 매든 카드를 열려면 닌텐도 게임큐브°에 게임보이± 어드밴스 케이블과 Madden NFL 2004 게임팩을 꽂은 게임보이± 어드밴스를 연결하세요.
+Buy new pack?	새 팩을 구입하시겠습니까?
+You don't have enough tokens to buy a pack.	팩을 구입할 토큰이 부족합니다.
+Buy Cards (100 Tokens)	카드 구입 (100 토큰)
+Tokens Remaining	남은 토큰
+The Card Book displays all cards earned	카드북에서는 각 사용자 프로필이
+by each user profile.  Use the tokens	얻은 모든 카드를 보여 줍니다. 매든
+earned by completing Madden Challenge	챌린지 과제로 얻은 토큰으로
+tasks to buy cards.	카드를 구입하세요.
+View user-owned card	보유 카드 보기
+Buy cards	카드 구입
+Card %d of %d	카드 %d / %d
+Record Holder	기록 보유자
+Broken With	경신 기록
+Date Broken	경신 날짜
+Broken Against	경신 상대
+View Record	기록 보기
+Look at an expanded version of a	기록 경신 카드를
+record breaker card.	크게 봅니다.
+Scroll through pages	페이지 넘기기
+Record Breaker	기록 경신
+Page	페이지
+New Card	새 카드
+Flip Card	카드 뒤집기
+Card %d of 15	카드 %d / 15
+Browse New Cards	새 카드 보기
+Browse through recently purchased	최근 구입한 카드 보기
+Flip card	카드 뒤집기
+New Cards	새 카드
+3 Quarters	3쿼터
+Card #	카드 #
+No cards have been added to the trade.	트레이드에 추가된 카드가 없습니다.
+Total Value:	총 가치:
+for	교환
+Current Trade	현재 트레이드
+Displays cards to be traded.	트레이드할 카드를 보여 줍니다.
+CURRENT TRADE	현재 트레이드
+Play Card	카드 사용
+Sell Card	카드 판매
+Add	추가
+Remove	제거
+Add To Risk	리스크에 추가
+Remove From Risk	리스크에서 제거
+Are you sure you want to sell this card?	이 카드를 판매하시겠습니까?
+Are you sure?	확실합니까?
+No Card	카드 없음
+View Cards	카드 보기
+Examine a card in the large view.  Flip	카드를 크게 봅니다. 카드를 뒤집어
+the card to see what power the card	어떤 능력이 있는지 확인하세요.
+has.  The card options may also be	카드 옵션도 여기서
+selected here.	선택할 수 있습니다.
+View each level of card	카드의 각 레벨 보기
+-- On back --	-- 뒷면 --
+view card	카드 보기
+Enter Code.	코드를 입력하세요.
+Madden Code Entry	매든 코드 입력
+Congratulations you have just unlocked the Madden Card: %s	축하합니다! 매든 카드를 열었습니다: %s
+!Incorrect Code	!잘못된 코드
+Please enter valid code.	올바른 코드를 입력하세요.
+Press      to\r\nenter code.	     버튼으로\r\n코드 입력.
+APPEARANCE	외모
+Create-A-Player	선수 만들기
+Light	밝음
+Medium	중간
+Dark	어두움
+Black	검정
+Blonde	금발
+Brown	갈색
+Red	빨강
+L. Brown	밝은 갈색
+Grey	회색
+Bald	대머리
+Bald (2)	대머리 (2)
+Balding	탈모
+Balding (2)	탈모 (2)
+Fade	페이드
+Fade (2)	페이드 (2)
+Buzzcut	버즈컷
+Buzzcut (2)	버즈컷 (2)
+Close Crop	짧은 머리
+Afro	아프로
+Flat Top	플랫톱
+Corn Rows	콘로
+Long	장발
+Dreadlocks	드레드록
+Mullet	멀릿
+None	없음
+Patch1	패치1
+Patch2	패치2
+Patch3	패치3
+Patch4	패치4
+Patch5	패치5
+Patch6	패치6
+Band1	밴드1
+Band2	밴드2
+Band3	밴드3
+Band4	밴드4
+Band5	밴드5
+Band6	밴드6
+%d lbs	%d파운드
+Unique	고유
+Edit Appearance	외모 편집
+Edit the player's appearance from	이 화면에서 선수의 외모를
+Rotate player model	선수 모델 회전
+Edit the player's appearance from 	이 화면에서 선수의 외모를
+Face	얼굴
+Face Shape	얼굴형
+Hair Color	머리색
+Skin	피부
+Hairstyle	머리 모양
+Left Tattoo	왼쪽 문신
+Right Tattoo	오른쪽 문신
+ATTRIBUTES	능력치
+Creating the player will put the team salary, including salaries for players on IR, over the salary cap. You will not be able to play a game in Franchise Mode with the %s, while the team salary is over the cap. Proceed?	선수를 만들면 부상자 명단 선수를 포함한 팀 연봉이 샐러리캡을 넘습니다. 팀 연봉이 캡을 넘는 동안 프랜차이즈 모드에서 %s 팀으로 경기할 수 없습니다. 계속하시겠습니까?
+This will put the team over the salary cap, turning off the salary cap option which cannot be turned back on until your console is restarted. Proceed?	팀이 샐러리캡을 넘게 되어 샐러리캡 옵션이 꺼지며, 본체를 다시 켜기 전까지 다시 켤 수 없습니다. 계속하시겠습니까?
+  -- Invalid Tendency -- 	  -- 잘못된 성향 --
+Create Player?	선수를 만드시겠습니까?
+All changes will be lost. Do you wish to continue?	모든 변경 사항이 사라집니다. 계속하시겠습니까?
+Tendency	성향
+Cap Salary	캡 연봉
+Years Left	남은 연수
+Contract Len	계약 기간
+Edit Attributes	능력치 편집
+Adjust the player's ratings from this	이 화면에서 선수 능력치를
+screen. Some ratings have maximum 	조정합니다. 일부 능력치에는
+values.	최대값이 있습니다.
+Create player	선수 만들기
+- Acceleration -	- 가속력 -
+features	부가 기능
+EQUIPMENT	장비
+2-Bar	2바
+3-Bar	3바
+Half-cage	하프 케이지
+Full cage	풀 케이지
+1-Bar	1바
+3-Bar QB	3바 QB
+2-Bar RB	2바 RB
+3-Bar RB	3바 RB
+RB robots	RB 로봇
+RB bull	RB 불
+Style 1	스타일 1
+Style 2	스타일 2
+Style 3	스타일 3
+Revolution	레볼루션
+Clear	투명
+Amber	호박색
+White	흰색
+Team color	팀 색상
+Neck roll	넥 롤
+BK extended	검정 확장형
+TC extended	팀 색상 확장형
+Normal	일반
+Turf tape	터프 테이프
+Rubber pad	고무 패드
+Black pad	검정 패드
+White pad	흰색 패드
+BK TC pad	검정/팀색 패드
+WT TC pad	흰색/팀색 패드
+BK wrist	검정 손목밴드
+WT wrist	흰색 손목밴드
+TC wrist	팀색 손목밴드
+QB wrist	QB 손목밴드
+WT wrist double	흰색 손목밴드 2겹
+BK wrist double	검정 손목밴드 2겹
+TC wrist double	팀색 손목밴드 2겹
+Taped	테이핑
+BK glove	검정 장갑
+WT glove	흰색 장갑
+TC glove	팀색 장갑
+WT RB glove	흰색 RB 장갑
+BK RB glove	검정 RB 장갑
+TC RB glove	팀색 RB 장갑
+Team Color	팀 색상
+WT half	흰색 반쪽
+BK half	검정 반쪽
+TC half	팀색 반쪽
+Brace	보호대
+WT taped	흰색 테이핑
+BK taped	검정 테이핑
+TC taped	팀색 테이핑
+Solid	단색
+%s (Same)	%s (동일)
+%s (Varies)	%s (다름)
+Both	모두
+Turf	인조 잔디
+Grass	천연 잔디
+Edit Equipment	장비 편집
+Edit a player's equipment.  Certain	선수 장비를 편집합니다. 일부
+pieces are set based on the surface	장비는 경기장 잔디 종류에
+being played upon.	따라 정해집니다.
+Change surface type	잔디 종류 변경
+INFORMATION	정보
+Free Agent list is full.	FA 명단이 가득 찼습니다.
+Maximum created players reached.	만들 수 있는 선수 수가 최대입니다.
+You have changed the player's position. The depth chart will be updated accordingly.	선수 포지션을 바꿨습니다. 뎁스 차트가 그에 맞게 갱신됩니다.
+Exit and lose current player?	현재 선수를 버리고 나가시겠습니까?
+Edit Information	정보 편집
+Enter the new player's name and other	이 화면에서 새 선수의 이름과
+biographical information from this	기타 신상 정보를 입력하세요
+Edit the player's name and other	이 화면에서 선수의 이름과
+biographical information from this 	기타 신상 정보를 편집하세요
+First	이름
+Hand	손
+Last	성
+Jersey #	등번호
+Position	포지션
+Years Pro	경력
+Style	스타일
+Exit and lose current team?	현재 팀을 버리고 나가시겠습니까?
+CHANGE NICKNAME	팀명 변경
+RELOCATION	연고지 이전
+Team Information	팀 정보
+Enter all of your team's	이 화면에서 팀의 모든
+information from this screen.	정보를 입력하세요.
+You pick the logo, nickname, and 	로고, 팀명, 연고 도시를
+city.	고르세요.
+   (not available in Franchise Mode)	   (프랜차이즈 모드에서는 불가)
+You pick the logo, nickname, and	로고, 팀명, 연고 도시를
+Abbreviation	약칭
+City	도시
+Team Name	팀 이름
+Primary Color	주 색상
+Secondary Color	보조 색상
+State	주
+Team Logo	팀 로고
+Team First Name	팀 연고명
+Team Type	팀 유형
+Change Uniform	유니폼 변경
+Uniform Editor	유니폼 편집기
+Create-A-Team	팀 만들기
+Jersey	저지
+Pants	바지
+Home	홈
+Away	원정

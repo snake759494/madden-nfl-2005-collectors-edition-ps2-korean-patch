@@ -1,0 +1,299 @@
+# 오프시즌 / 드래프트 / 기록
+ROOKIE	신인
+No	아니요
+Players	선수
+PRO BOWL ROOKIE	프로 볼 신인
+PRO BOWL	프로 볼
+Retirements	은퇴
+No Players	선수 없음
+Advance through player retirements?	선수 은퇴 단계를 진행하시겠습니까?
+Player Information	선수 정보
+PLAYERS	선수
+Yrs Pro	경력
+Age	나이
+Retired Players	은퇴 선수
+See which players have decided to hang	은퇴를 결정한 선수들을
+it up.	확인합니다.
+Change highlighted column	선택 열 변경
+Sort by highlighted column	선택 열로 정렬
+Change position	포지션 변경
+Go to player information	선수 정보로 이동
+Advance to next stage	다음 단계로 진행
+HOLDOUT	계약 거부
+"TRADE ME"	"트레이드 요청"
+MORALE	사기
+PRESTIGE	명성
+No Offers	제안 없음
+30 years	30년
+Interest in Joining the %s	%s 입단 관심도
+%s %slbs	%s %s파운드
+Cap Room	캡 여유
+Team Salary	팀 연봉
+Overall	종합
+Contract Negotiation	계약 협상
+Offer a contract from this screen.	이 화면에서 계약을 제안합니다.
+Contract Negotiations	계약 협상
+Yearly Breakdown	연도별 내역
+Player's Interests	선수 관심 사항
+Submit Offer	제안 제출
+Withdraw Offer	제안 철회
+Length	기간
+Signing Bonus	계약 보너스
+Total Salary	총 연봉
+1 day	1일
+All	전체
+%d days	%d일
+Use this screen to advance through	이 화면에서 FA 기간을
+free agency.	진행합니다.
+How many days do you\r\nwant to advance?	며칠을\r\n진행하시겠습니까?
+Soda Break!!!	음료수 타임!!!
+NFL Draft	NFL 드래프트
+Draft Speed User Defined	드래프트 속도 사용자 지정
+Simulate the rest of the NFL draft?	NFL 드래프트의 나머지를 시뮬레이션하시겠습니까?
+Draft %s?	%s을(를) 지명하시겠습니까?
+Rookie Report	신인 보고서
+Simulate Draft	드래프트 시뮬레이션
+Processing...	처리 중...
+Press      to\nstart NFL draft.	     버튼을 눌러\nNFL 드래프트 시작.
+Round	라운드
+Pick	지명
+Draft Speed	드래프트 속도
+Draft available players from this	이 화면에서 지명 가능한 선수를
+Draft selected player	선택 선수 지명
+Change category	분류 변경
+Change draft speed	드래프트 속도 변경
+Change information	정보 변경
+Let CPU finish draft	CPU가 드래프트 마무리
+Rookie report	신인 보고서
+SLOW	느림
+FAST	빠름
+NFL Draft is complete.\r\nPress        to continue	NFL 드래프트가 끝났습니다.\r\n        버튼을 눌러 계속
+Press      to\r\nstart NFL Draft.	     버튼을 눌러\r\nNFL 드래프트 시작.
+Sign Draft Picks	지명 선수 계약
+The sign draft picks option under coach options is set to "CPU". This option must be set to "User" in order to perform this task.	감독 옵션의 지명 선수 계약이 "CPU"로 설정되어 있습니다. 이 작업을 하려면 "사용자"로 설정해야 합니다.
+Remaining unsigned draft picks for unassisted USER coaches will NOT be signed.	CPU 지원이 없는 사용자 감독의 미계약 지명 선수는 계약되지 않습니다.
+|Cut Remaining|CPU Sign|^Cancel	|나머지 방출|CPU 계약|^취소
+Simulate the rest of the Draft Pick signing period?	지명 선수 계약 기간의 나머지를 시뮬레이션하시겠습니까?
+Height	키
+Weight	몸무게
+Pick #	지명 #
+NAME	이름
+Sign draft picks at this screen.	이 화면에서 지명 선수와 계약합니다.
+Negotiate contract	계약 협상
+Player information	선수 정보
+NFL DRAFT INFO	NFL 드래프트 정보
+Off-Season Year %d	오프시즌 %d년차
+Off-Season Menu	오프시즌 메뉴
+The Off-Season begins here.	오프시즌이 시작됩니다.
+NFL Draft Info	NFL 드래프트 정보
+order	순서
+preview	미리 보기
+summary	요약
+grades	평가
+Use the screens in this area to preview	이 영역의 화면에서 다가오는
+the upcoming NFL draft.	NFL 드래프트를 미리 봅니다.
+recap	결과
+off-season	오프시즌
+NFL draft info	NFL 드래프트 정보
+Off-Season Rosters	오프시즌 로스터
+Use this screen to manipulate	이 화면에서 오프시즌 로스터를
+rosters in the off-season.	관리합니다.
+progression	성장
+Last Season Stats	지난 시즌 기록
+Use this screen to view statistics	이 화면에서 지난 시즌의
+from last season.	기록을 봅니다.
+Rookie Scouting	신인 스카우팅
+Off-season	오프시즌
+NFL Draft Preview	NFL 드래프트 미리 보기
+-- unknown --	-- 알 수 없음 --
+------- Advance Scouting Stage ----------	------- 스카우팅 단계 진행 ----------
+combine	컴바인
+workout	워크아웃
+list	목록
+Advance to the scouting %s?	스카우팅 %s 단계로 진행하시겠습니까?
+Scouting list is full	스카우팅 목록이 가득 찼습니다
+Players Scouted : %d/15	스카우팅한 선수: %d/15
+Scout	스카우트
+Pos	포지션
+College	대학
+Rookie Scouting has ended.  Press        to exit.	신인 스카우팅이 끝났습니다.         버튼으로 나가기.
+Draft Preview	드래프트 미리 보기
+View the players eligible for this	올해 NFL 드래프트 대상
+year's NFL draft.  	선수를 봅니다.
+View rookie report	신인 보고서 보기
+year's NFL draft.  You can scout 15	선수를 봅니다. 각 스카우팅 단계마다
+total players in each level of rookie	총 15명을 스카우팅할 수
+scouting.	있습니다.
+You can scout 15 total players in 	각 스카우팅 단계마다 총 15명을
+each level of rookie scouting.	스카우팅할 수 있습니다.
+Select player to be scouted	스카우팅할 선수 선택
+Advance stage	단계 진행
+Press        to advance.	        버튼으로 진행.
+NFL Draft Order	NFL 드래프트 순서
+Control	조작
+Ovr Pick	전체 순번
+ ALL ROUNDS 	 전 라운드
+ROUND	라운드
+Draft Order	드래프트 순서
+View this year's draft order.	올해 드래프트 순서를 봅니다.
+Change round	라운드 변경
+No players drafted	지명된 선수 없음
+Draft Recap	드래프트 결과
+Round Picked	지명 라운드
+Overall Pick	전체 순번
+Recap each team's draft picks.	각 팀의 지명 결과를 봅니다.
+The %s are over the salary cap.	%s 팀이 샐러리캡을 초과했습니다.
+prior to Restricted Free Agents.	제한적 FA 이전까지
+prior to Re-Sign Players.	선수 재계약 이전까지
+prior to Rookie Scouting Preview.	신인 스카우팅 미리 보기 이전까지
+prior to NFL Draft.	NFL 드래프트 이전까지
+prior to Sign Draft Picks.	지명 선수 계약 이전까지
+prior to Free Agent Signing.	FA 영입 이전까지
+prior to Depth Charts.	뎁스 차트 이전까지
+prior to Start New Season.	새 시즌 시작 이전까지
+This will skip all off-season tasks %s	%s 모든 오프시즌 작업을 건너뜁니다.
+|Accept|^Cancel	|수락|^취소
+Off-Season Schedule	오프시즌 일정
+Select Task	작업 선택
+This screen highlights the path	이 화면은 오프시즌 진행 순서를
+through the Off-Season.  Use the	보여 줍니다. 감독 관리 화면에서
+Coach Management screen to 	일부 작업을
+let the CPU handle certain tasks.	CPU에게 맡길 수 있습니다.
+Activate highlighted option	선택 항목 실행
+1 - Retired Players	1 - 은퇴 선수
+2 - Restricted Free Agents	2 - 제한적 FA
+3 - Re-Sign Players	3 - 선수 재계약
+4 - Rookie Scouting	4 - 신인 스카우팅
+5 - NFL Draft	5 - NFL 드래프트
+6 - Sign Draft Picks	6 - 지명 선수 계약
+7 - Free Agent Signing	7 - FA 영입
+8 - Re-Order Depth Charts	8 - 뎁스 차트 재정렬
+9 - Start New Season	9 - 새 시즌 시작
+Free Agent Signing	FA 영입
+This player has already been signed.	이미 계약한 선수입니다.
+Roster is full.	로스터가 가득 찼습니다.
+Over salary cap. Transaction cannot be completed.	샐러리캡 초과. 거래를 완료할 수 없습니다.
+The Free Agent Signing period has ended.	FA 영입 기간이 끝났습니다.
+No days remaining.	남은 날이 없습니다.
+1 day remaining. Press START button to advance time.	1일 남았습니다. START 버튼으로 시간을 진행합니다.
+1 day remaining. Press START to advance time.	1일 남았습니다. START로 시간을 진행합니다.
+%d days remaining. Press START button to advance time.	%d일 남았습니다. START 버튼으로 시간을 진행합니다.
+%d days remaining. Press START to advance time.	%d일 남았습니다. START로 시간을 진행합니다.
+Make Offer	제안하기
+Player	선수
+Current Offers	현재 제안
+Best Offer	최고 제안
+Sign free agents from this screen.	이 화면에서 FA 선수와 계약합니다.
+Offer contract	계약 제안
+Advance days	날짜 진행
+Press         to return to Off-Season schedule.	         버튼으로 오프시즌 일정으로 돌아갑니다.
+Round 	라운드
+Draft Summary	드래프트 요약
+This screen allows you to view a	이 화면에서 이전 라운드에
+summary of the players drafted	지명된 선수의 요약을
+in previous rounds.	볼 수 있습니다.
+Toggles through players	선수 순환
+Toggles through rounds	라운드 순환
+Advance round / end draft	라운드 진행 / 드래프트 종료
+All NFL draft screens are found here.	모든 NFL 드래프트 화면이 여기 있습니다.
+NFL draft	NFL 드래프트
+draft recap	드래프트 결과
+Sign free agents to fill	FA 선수와 계약해
+holes in your roster.	로스터의 빈자리를 채우세요.
+Check the breakdown to	구성을 확인해
+see your team's needs.	팀에 필요한 포지션을 보세요.
+free agent signing	FA 영입
+view rosters	로스터 보기
+Sign your draft picks and	지명 선수와 계약하고
+see how they fill out your roster.	로스터를 어떻게 채우는지 보세요.
+sign draft picks	지명 선수 계약
+draft grades	드래프트 평가
+!WARNING	!경고
+By continuing, you will complete the restricted free agent signing period.	계속하면 제한적 FA 계약 기간이 종료됩니다.
+The player did not receive a qualifying offer from his team. You will have to wait till the Free Agent Signing period to offer him a contract.	이 선수는 소속 팀의 퀄리파잉 오퍼를 받지 못했습니다. FA 영입 기간이 되어야 계약을 제안할 수 있습니다.
+|^Ok	|^확인
+You can no longer make qualifying offers to restricted free agents.	더 이상 제한적 FA 선수에게 퀄리파잉 오퍼를 할 수 없습니다.
+No Players Available.	가능한 선수가 없습니다.
+Restricted Free Agents	제한적 FA
+View all restricted free agents from around 	리그 전체의 제한적 FA 선수를 보고
+the league.  Make offers on any free agents 	원하는 선수에게
+you want.	제안하세요.
+Select highlighted player	선택 선수 결정
+Sort highlighted column	선택 열 정렬
+Change positions	포지션 변경
+Complete RFA signing period	제한적 FA 기간 종료
+USER STATS	사용자 기록
+User Name	사용자 이름
+No profiles found in memory	불러온 프로필이 없습니다
+Total	합계
+Avg/Game	경기당 평균
+Records	기록
+Total Offense	총 공격
+Rush Offense	러싱 공격
+Pass Offense	패싱 공격
+Efficiency	효율
+Special Teams	스페셜 팀
+Turnovers	턴오버
+Overall User Stats	사용자 종합 기록
+Look at all loaded user profile stats.	불러온 모든 사용자 프로필의 기록을 봅니다.
+Change highlighted profile	선택 프로필 변경
+Toggle display	표시 전환
+Change stat category	기록 분류 변경
+OVERALL USER STATS	사용자 종합 기록
+User Records	사용자 기록
+Record	기록
+Personal Best	개인 최고 기록
+Madden tracks personal bests.  This	매든은 개인 최고 기록을 저장합니다.
+screen displays all categories and best	이 화면에서 모든 분야의
+performances.	최고 기록을 보여 줍니다.
+Change record	기록 변경
+User Vs. User	사용자 대 사용자
+Do you want to move this opponent's stats to 'Other?'	이 상대의 기록을 '기타'로 옮기시겠습니까?
+Only individual opponents' stats can be added to 'Other.'	개별 상대의 기록만 '기타'에 추가할 수 있습니다.
+Last 10 Games	최근 10경기
+No Stats	기록 없음
+VS.	VS.
+Select Profile	프로필 선택
+Move current opponent's stats to 'Other' category	현재 상대의 기록을 '기타'로 이동
+User vs. User	사용자 대 사용자
+User vs User stats show how one player	사용자 대 사용자 기록은 한 플레이어가
+does against another.	다른 플레이어를 상대로 낸 성적입니다.
+Change opponent	상대 변경
+Switch profile	프로필 전환
+Move opponent to 'Other'	상대를 '기타'로 이동
+Change display	표시 변경
+Use these screens to view user 	이 화면에서 사용자 기록을
+statistics.	봅니다.
+Memory Unit	메모리 유닛
+Use these screens to load or save all	이 화면에서 모든 게임 파일을
+game files.	불러오거나 저장합니다.
+Memory Card	메모리 카드
+Use these screens to load or save all 	이 화면에서 모든 게임 파일을
+USER VS. USER	사용자 대 사용자
+USER RECORDS	사용자 기록
+RECORD BREAKERS	기록 경신
+COACH	감독
+HIGH SCORES	최고 점수
+my madden	마이 매든
+Rushing Attack stats show how one player	러싱 어택 기록은 한 플레이어의 성적을
+Select profile	프로필 선택
+Two Minute Drill - Head To Head	2분 드릴 - 대전
+Two Minute Drill	2분 드릴
+Two Minute Drill stats show how you have 	2분 드릴 기록은 2분 드릴에서
+done against other users or the CPU in	다른 사용자나 CPU를 상대로
+Two Minute Drill.	낸 성적입니다.
+No Packages	패키지 없음
+CUSTOM PACKAGES PER SET	세트별 커스텀 패키지
+Maximum Packages reached	패키지 수가 최대입니다
+?Delete package?	?패키지 삭제?
+By choosing Yes, this custom package will be lost. Are you sure you want to delete?	예를 고르면 이 커스텀 패키지가 사라집니다. 정말 삭제하시겠습니까?
+CREATE NEW PACKAGE	새 패키지 만들기
+Custom Packages	커스텀 패키지
+Create a new package or choose from	새 패키지를 만들거나
+existing packages.  	기존 패키지를 선택하세요.
+Change offense/defense	공격/수비 전환
+CREATE A NEW PACKAGE	새 패키지 만들기
+Choose a Formation	포메이션 선택
+Rename package before exiting?	나가기 전에 패키지 이름을 바꾸시겠습니까?
+|Yes|No|^Cancel	|예|아니요|^취소
+Lose changes to all your Custom Packages and exit?	모든 커스텀 패키지 변경 사항을 버리고 나가시겠습니까?

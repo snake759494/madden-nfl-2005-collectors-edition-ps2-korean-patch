@@ -1,0 +1,1332 @@
+ Corners	 코너
+ Counter Weak	 카운터 위크
+ Cross Under	 크로스 언더
+ Curls	 컬
+ Deep Corner	 딥 코너
+ FB Dive	 FB 다이브
+ HB Blast	 HB 블라스트
+ HB Draw	 HB 드로
+ HB Fly	 HB 플라이
+ HB Off Tackle	 HB 오프 태클
+ HB Pitch	 HB 피치
+ HB Screen	 HB 스크린
+ HB Slam	 HB 슬램
+ HB Sprint	 HB 스프린트
+ HB Toss	 HB 토스
+ HB Trap	 HB 트랩
+ Play Action	 플레이 액션
+ Post Corner	 포스트 코너
+ Power Toss	 파워 토스
+ QB Draw	 QB 드로
+ Slant Corner	 슬랜트 코너
+ Slants	 슬랜트
+ Slot Out	 슬롯 아웃
+ Slot Post	 슬롯 포스트
+ Slot Streak	 슬롯 스트리크
+ TE Cross	 TE 크로스
+ TE Flat	 TE 플랫
+ Toss Weak	 토스 위크
+ WR Middle Cross	 WR 미들 크로스
+ WR Post	 WR 포스트
+ WR Post Corner	 WR 포스트 코너
+%FHB1 22 Dive	%FHB1 22 다이브
+%FHB1 Check	%FHB1 체크
+%FHB1 Counter	%FHB1 카운터
+%FHB1 Draw	%FHB1 드로
+%FHB1 Option 	%FHB1 옵션 
+%FHB1 Screen	%FHB1 스크린
+%FHB1 Slash	%FHB1 슬래시
+%FHB1 Toss	%FHB1 토스
+%FTE1 Screen	%FTE1 스크린
+%FWR1 Reverse	%FWR1 리버스
+%FWR1 Screen	%FWR1 스크린
+%FWR2 Option 	%FWR2 옵션 
+%FWR3 Option	%FWR3 옵션
+%FWR3 Option 	%FWR3 옵션 
+%LCB2 Blitz	%LCB2 블리츠
+%LCB3 Blitz	%LCB3 블리츠
+%LFB1 Option	%LFB1 옵션
+%LFB1 Option 	%LFB1 옵션 
+%LFS1 Blitz	%LFS1 블리츠
+%LHB1 22 Dive	%LHB1 22 다이브
+%LHB1 Blast	%LHB1 블라스트
+%LHB1 Check	%LHB1 체크
+%LHB1 Circle	%LHB1 서클
+%LHB1 Counter	%LHB1 카운터
+%LHB1 Draw	%LHB1 드로
+%LHB1 Option	%LHB1 옵션
+%LHB1 Option 	%LHB1 옵션 
+%LHB1 Option  	%LHB1 옵션  
+%LHB1 Release	%LHB1 릴리스
+%LHB1 Screen	%LHB1 스크린
+%LHB1 Slash	%LHB1 슬래시
+%LHB1 Swing	%LHB1 스윙
+%LHB1 Swing Screen	%LHB1 스윙 스크린
+%LHB1 Toss	%LHB1 토스
+%LLOLB1 Blitz	%LLOLB1 블리츠
+%LMLB1 Blitz	%LMLB1 블리츠
+%LQB1 PA Sweep	%LQB1 PA 스윕
+%LROLB1 Blitz	%LROLB1 블리츠
+%LSS1 Blitz	%LSS1 블리츠
+%LTE1 Option	%LTE1 옵션
+%LTE1 Option 	%LTE1 옵션 
+%LTE1 Option  	%LTE1 옵션  
+%LTE1 Option In	%LTE1 옵션 인
+%LTE1 Option In 	%LTE1 옵션 인 
+%LTE1 Option Out	%LTE1 옵션 아웃
+%LTE1 Screen	%LTE1 스크린
+%LTE2 Option 	%LTE2 옵션 
+%LWR1 Fly	%LWR1 플라이
+%LWR1 Option	%LWR1 옵션
+%LWR1 Option 	%LWR1 옵션 
+%LWR1 Option  	%LWR1 옵션  
+%LWR1 PA Fly	%LWR1 PA 플라이
+%LWR1 Post	%LWR1 포스트
+%LWR1 Quick In	%LWR1 퀵 인
+%LWR1 Reverse	%LWR1 리버스
+%LWR1 Screen	%LWR1 스크린
+%LWR2 Option	%LWR2 옵션
+%LWR2 Option 	%LWR2 옵션 
+%LWR2 Option  	%LWR2 옵션  
+%LWR2 Option   	%LWR2 옵션   
+%LWR2 Post	%LWR2 포스트
+%LWR2 Special	%LWR2 스페셜
+%LWR2 Wheel	%LWR2 휠
+%LWR2 Z Out	%LWR2 Z 아웃
+%LWR3 Option	%LWR3 옵션
+%LWR3 Option 	%LWR3 옵션 
+%LWR3 Option  	%LWR3 옵션  
+%LWR3 Option In 	%LWR3 옵션 인 
+1 Man CB Snake	1 맨 CB 스네이크
+1 Man DB Strike	1 맨 DB 스트라이크
+1 Robber	1 로버
+1 Robber FS Lurk	1 로버 FS 러크
+10 Stack	10 스택
+2 Deep	2 딥
+2 Deep Blitz	2 딥 블리츠
+2 Deep Fire	2 딥 파이어
+2 Deep Gap Shoot	2 딥 갭 슛
+2 Deep LB Fire	2 딥 LB 파이어
+2 Deep MLB Spy	2 딥 MLB 스파이
+2 Deep Robber	2 딥 로버
+2 Deep Zone	2 딥 존
+2 Man Spy	2 맨 스파이
+2 Man Under	2 맨 언더
+2 Man Under 	2 맨 언더 
+2 Man Under Spy	2 맨 언더 스파이
+2 Overload Fire	2 오버로드 파이어
+208 Z Qk Out	208 Z 퀵 아웃
+22 Slam	22 슬램
+24 Dive Fake Z	24 다이브 페이크 Z
+3 Deep	3 딥
+3 Deep Base	3 딥 베이스
+3 Deep Blitz	3 딥 블리츠
+3 Deep Man	3 딥 맨
+3 Deep QB-Spy	3 딥 QB 스파이
+3 Deep Safe	3 딥 세이프
+3 Deep Under	3 딥 언더
+3 Man Under	3 맨 언더
+3 Man Under Spy	3 맨 언더 스파이
+3 Weak Roll	3 위크 롤
+4 Across	4 어크로스
+4 Deep DT Stunt	4 딥 DT 스턴트
+4 Deep Man Spy	4 딥 맨 스파이
+4 Deep Quarters	4 딥 쿼터스
+4 Deep Safe	4 딥 세이프
+45 Quick Base	45 퀵 베이스
+46 Mid Blitz	46 미드 블리츠
+46 Swap	46 스와프
+4WR Falcon	4WR 팰컨
+4th CB	4번 CB
+5WR Bunch	5WR 번치
+9 Velcro	9 벨크로
+Ace Curls	에이스 컬
+Ace Curls In	에이스 컬 인
+Ace Overload	에이스 오버로드
+Ace Play Action	에이스 플레이 액션
+Ace Posts	에이스 포스트
+Ace TE Drag	에이스 TE 드래그
+Ace TE Post	에이스 TE 포스트
+Ace WR Drop	에이스 WR 드롭
+Ace WR Long	에이스 WR 롱
+Ace WR Out	에이스 WR 아웃
+Ace WR Qk Drop	에이스 WR 퀵 드롭
+Ace WR Reverse	에이스 WR 리버스
+Ace WR Streak	에이스 WR 스트리크
+Ace WR Stretch	에이스 WR 스트레치
+Aggie Cloud Star	애기 클라우드 스타
+All Cross	올 크로스
+All Curls	올 컬
+All Streaks	올 스트리크
+Backfield Swap	백필드 스와프
+Backside Drag	백사이드 드래그
+Backside Screen	백사이드 스크린
+Bandit Reverse	밴딧 리버스
+Base	베이스
+Bear	베어
+Big	빅
+Big 3TE	빅 3TE
+Big Offset Strong	빅 오프셋 스트롱
+Big Offset Weak	빅 오프셋 위크
+Big Tight	빅 타이트
+Big Twin WR	빅 트윈 WR
+Bills FL Screen	빌스 FL 스크린
+Bills HB Screen	빌스 HB 스크린
+Bills Slot Read	빌스 슬롯 리드
+Blitz	블리츠
+Blitz A	블리츠 A
+Blitz B	블리츠 B
+Blitz C	블리츠 C
+Boss Sweep	보스 스윕
+Bubble Screen	버블 스크린
+Bucs Counter Wk	벅스 카운터 위크
+Bunch	번치
+Bunch Cross	번치 크로스
+Bunch Reverse	번치 리버스
+Bunch Under	번치 언더
+Button Hook	버튼 훅
+Buzz Duo	버즈 듀오
+Buzz Weak	버즈 위크
+CB Blitz	CB 블리츠
+CB Dogs Blitz	CB 도그스 블리츠
+CB Fox Blitz	CB 폭스 블리츠
+CB Fox Blitz 	CB 폭스 블리츠 
+CB Fox Blitz 3	CB 폭스 블리츠 3
+CB Swap	CB 스와프
+Center Pass	센터 패스
+Charger Cross	차저 크로스
+Chiefs 24 Smash	치프스 24 스매시
+Chiefs Cross	치프스 크로스
+Circle	서클
+Circle 	서클 
+Clear Deep	클리어 딥
+Clear SE Option	클리어 SE 옵션
+Clearout FL In	클리어아웃 FL 인
+Clearout SE Opt	클리어아웃 SE 옵션
+Clearout SE Out	클리어아웃 SE 아웃
+Clearouts	클리어아웃
+Cloud Zone	클라우드 존
+Colt Gut	콜트 거트
+Colts FL Screen	콜츠 FL 스크린
+Colts Flood	콜츠 플러드
+Colts HB Screen	콜츠 HB 스크린
+Comebacks	컴백
+Comet Pass	코밋 패스
+Corner - Threat	코너 - 위협
+Corner Blitz	코너 블리츠
+Corner Post	코너 포스트
+Corner Threat	코너 위협
+Corners	코너
+Corners HB Go	코너 HB 고
+Counter Dive	카운터 다이브
+Counter Lead	카운터 리드
+Counter Lead 	카운터 리드 
+Counter Strong	카운터 스트롱
+Counter Trap	카운터 트랩
+Counter Weak	카운터 위크
+Counter Weak 	카운터 위크 
+Counter Wk	카운터 위크
+Cover 1	커버 1
+Cover 1 	커버 1 
+Cover 1  	커버 1  
+Cover 1   	커버 1   
+Cover 1 LB Fire	커버 1 LB 파이어
+Cover 1 LB Spy	커버 1 LB 스파이
+Cover 1 Robber	커버 1 로버
+Cover 1 Robber 	커버 1 로버 
+Cover 2	커버 2
+Cover 2 	커버 2 
+Cover 2  Edge	커버 2  에지
+Cover 2  Pinch	커버 2  핀치
+Cover 2  QB Spy	커버 2  QB 스파이
+Cover 2 Man 1	커버 2 맨 1
+Cover 2 Storm	커버 2 스톰
+Cover 2 Stunt	커버 2 스턴트
+Cover 3	커버 3
+Cover 3 	커버 3 
+Cover 3  	커버 3  
+Cover 3 Flat	커버 3 플랫
+Cover 4	커버 4
+Cover 4 Buzz	커버 4 버즈
+Coverage Flip	커버리지 플립
+Coverage Swap	커버리지스와프
+Crash Blitz	크래시 블리츠
+Crash Left	크래시 왼쪽
+Crash Right	크래시 오른쪽
+Criss Cross	크리스 크로스
+Cross Corner	크로스 코너
+Cross In	크로스 인
+Cross Under	크로스 언더
+Cross Under 	크로스 언더 
+Cross Up	크로스 업
+Cross Ups	크로스 업
+Cross Wheel	크로스 휠
+Crosses	크로스
+Ctr Fk Reverse	센터 페이크 리버스
+Curl - Drag	컬 - 드래그
+Curl Drag	컬 드래그
+Curl Flats	컬 플랫
+Curl Flats 	컬 플랫 
+Curl Flats  	컬 플랫  
+Curl N Post	컬 앤 포스트
+Curls	컬
+Curls Attack	컬 어택
+DB Blitz	DB 블리츠
+DB Contain	DB 컨테인
+DB Contain 	DB 컨테인 
+DB Strike 1	DB 스트라이크 1
+DB Swap	DB 스와프
+DBL TE Bracket	더블 TE 브래킷
+DBL X Bracket	더블 X 브래킷
+DBL X Bracket 	더블 X 브래킷 
+DBL Z Bracket	더블 Z 브래킷
+DE Contain	DE 컨테인
+DE Contain 	DE 컨테인 
+DE Contain  	DE 컨테인  
+Dbl WR Screen	더블 WR 스크린
+Deep Attack	딥 어택
+Deep Corner	딥 코너
+Deep Corners	딥 코너
+Deep Cross	딥 크로스
+Deep In	딥 인
+Deep Mid Iso	딥 미드 아이소
+Deep Outs	딥 아웃
+Deep Pass	딥 패스
+Deep Post	딥 포스트
+Deep Posts	딥 포스트
+Deep Slants	딥 슬랜트
+Deep Stings	딥 스팅
+Deep Threats	딥 위협
+Desperado	데스페라도
+Destroy	디스트로이
+Deuce	듀스
+Dice	다이스
+Dime	다임
+Direct Snaps	다이렉트 스냅
+Dolphin Cross	돌핀 크로스
+Double Blitz	더블 블리츠
+Double Drag	더블 드래그
+Double Drags	더블 드래그
+Double Flags	더블 플래그
+Double Flares	더블 플레어
+Double Hitch	더블 히치
+Double Hook	더블 훅
+Double Ins	더블 인
+Double Man	더블 맨
+Double Outs	더블 아웃
+Double Outs 	더블 아웃 
+Double Outside	더블 아웃사이드
+Double PA Pass	더블 PA 패스
+Double Posts	더블 포스트
+Double QB Spy	더블 QB 스파이
+Double Screen	더블 스크린
+Double Screen 	더블 스크린 
+Double Slant	더블 슬랜트
+Double Slants	더블 슬랜트
+Double Slot	더블 슬롯
+Double Swing	더블 스윙
+Double TE	더블 TE
+Double Under	더블 언더
+Double Wide	더블 와이드
+Double X	더블 X
+Double X 	더블 X 
+Double X  	더블 X  
+Double X LB Spy	더블 X LB 스파이
+Double Z	더블 Z
+Double Z 	더블 Z 
+Double Z  	더블 Z  
+Double Z LB Spy	더블 Z LB 스파이
+Drag Combo	드래그 콤보
+Drag In	드래그 인
+Drag Smash	드래그 스매시
+Drag Under	드래그 언더
+Drop Zone	드롭 존
+Dual Drag	듀얼 드래그
+Dual Drag 	듀얼 드래그 
+Dual Drags	듀얼 드래그
+Dual HB	듀얼 HB
+Dual Strong	듀얼 스트롱
+Dual TE Flat	듀얼 TE 플랫
+Dual Weak	듀얼 위크
+Eagles HB Dive	이글스 HB 다이브
+Eagles WR Hand	이글스 WR 손
+Edge Circle	에지 서클
+Edge Flare	에지 플레어
+Edge Sting	에지 스팅
+Empty 4 WR	엠티 4 WR
+Empty 5 WR	엠티 5 WR
+End Around	엔드 어라운드
+Engage Eight	인게이지 에이트
+Engage Eight 	인게이지 에이트 
+Engage Eight  	인게이지 에이트  
+Exchange	익스체인지
+FB Belly	FB 벨리
+FB Blast	FB 블라스트
+FB Block Release	FB 블록 릴리스
+FB Counter	FB 카운터
+FB Counter Wk	FB 카운터 위크
+FB Curl	FB 컬
+FB Dive	FB 다이브
+FB Dive 	FB 다이브 
+FB Dive Strong	FB 다이브 스트롱
+FB Dive Weak	FB 다이브 위크
+FB Fake HB Toss	FB 페이크 HB 토스
+FB Flare	FB 플레어
+FB Flat	FB 플랫
+FB Go	FB 고
+FB Go Weak	FB 고 위크
+FB Hook	FB 훅
+FB Inside	FB 인사이드
+FB Lead	FB 리드
+FB Middle	FB 미들
+FB Out	FB 아웃
+FB Out N Up	FB 아웃 앤 업
+FB Power	FB 파워
+FB Quick Hit	FB 퀵 히트
+FB Quick In	FB 퀵 인
+FB Screen	FB 스크린
+FB Short Curl	FB 쇼트 컬
+FB Slam	FB 슬램
+FB Slant Out	FB 슬랜트 아웃
+FB Spot	FB 스폿
+FB Streak	FB 스트리크
+FB Stretch	FB 스트레치
+FB Swap	FB 스와프
+FB Trap	FB 트랩
+FB Under	FB 언더
+FB Weak	FB 위크
+FG Block	FG 블록
+FG Safe Man	FG 세이프 맨
+FG Safe Zone	FG 세이프 존
+FL Clearout	FL 클리어아웃
+FL Corner	FL 코너
+FL Curl	FL 컬
+FL Deep Curl	FL 딥 컬
+FL Drag	FL 드래그
+FL Drag Under	FL 드래그 언더
+FL Flat	FL 플랫
+FL Fly	FL 플라이
+FL Go	FL 고
+FL Hitch	FL 히치
+FL Hitch-n-Go	FL 히치앤고
+FL Hook	FL 훅
+FL Option 	FL 옵션 
+FL Out	FL 아웃
+FL Out Stop	FL 아웃 스톱
+FL Post	FL 포스트
+FL Post In	FL 포스트 인
+FL Quick In	FL 퀵 인
+FL Screen	FL 스크린
+FL Slant	FL 슬랜트
+FL Streak	FL 스트리크
+FL Stretch	FL 스트레치
+FL Z Clearout	FL Z 클리어아웃
+FL Zig Out	FL 지그 아웃
+FS Blitz	FS 블리츠
+FS Snake Blitz	FS 스네이크 블리츠
+FS Snake Blitz 3	FS 스네이크 블리츠 3
+FS Storm Slant 3	FS 스톰 슬랜트 3
+Fake Dive Boot	페이크 다이브 부트
+Fake Dive Pitch	페이크 다이브 피치
+Fake FG - Pass	페이크 FG 패스
+Fake FG - Run	페이크 FG 런
+Fake Pitch Boot	페이크 피치 부트
+Fake Punt Pass	페이크 펀트 패스
+Fake Punt Pass 2	페이크 펀트 패스 2
+Fake Reverse	페이크 리버스
+Fake Spike	페이크 스파이크
+FakePuntDirectSnap	페이크 펀트 스냅
+Falcon QB Draw	팰컨 QB 드로
+Falcon QB Sweep	팰컨 QB 스윕
+Far	파
+Field Goal	필드골
+Field Goal 2	필드골 2
+Field Goal Block	필드골 블록
+Fire Blitz	파이어 블리츠
+Fire Man	파이어 맨
+Fk Rev HB Pass	페이크리버스 HB 패스
+Flag	플래그
+Flanker Shake	플랭커 세이크
+Flanker Swap	플랭커 스와프
+Flare Pass	플레어 패스
+Flares	플레어
+Flares 	플레어 
+Flat	플랫
+Flat Buzz	플랫 버즈
+Flat Corner	플랫 코너
+Flat Four	플랫 포
+Flat Pressure	플랫 프레셔
+Flat Read	플랫 리드
+Flat Slide	플랫 슬라이드
+Flat TE Hitch	플랫 TE 히치
+Flat Thirds	플랫 서즈
+Flats	플랫
+Flats Attack	플랫 어택
+Flea Flicker 	플리 플리커 
+Flea Flicker  	플리 플리커  
+Flood	플러드
+Flood Right	플러드 오른쪽
+Free Fire	프리 파이어
+Free Middle	프리 미들
+Full House	풀 하우스
+Gap Press	갭 프레스
+Gaps Fire	갭 파이어
+Giant Cross Ups	자이언트 크로스 업
+Giants 22 Counter	자이언츠 22 카운터
+Giants 24 Lead	자이언츠 24 리드
+Giants 25 Counter	자이언츠 25 카운터
+Goal Line	골라인
+Goaline	골라인
+Greenside Drag	그린사이드 드래그
+HB Belly Strong	HB 벨리 스트롱
+HB Belly Weak	HB 벨리 위크
+HB Blast	HB 블라스트
+HB Blunt Dive	HB 블런트 다이브
+HB Check	HB 체크
+HB Checkdown	HB 체크다운
+HB Circle	HB 서클
+HB Circle Rt	HB 서클 우
+HB Clearout	HB 클리어아웃
+HB Corner	HB 코너
+HB Counter	HB 카운터
+HB Counter 	HB 카운터 
+HB Counter Pass	HB 카운터 패스
+HB Counter Str	HB 카운터 스트롱
+HB Counter Strg	HB 카운터 스트롱
+HB Counter Trap	HB 카운터 트랩
+HB Counter Wk	HB 카운터 위크
+HB Crash	HB 크래시
+HB Cutback	HB 컷백
+HB Deep	HB 딥
+HB Delay	HB 딜레이
+HB Direct Snap	HB 다이렉트 스냅
+HB Dive	HB 다이브
+HB Dive 	HB 다이브 
+HB Dive Weak	HB 다이브 위크
+HB Dive Weak 	HB 다이브 위크 
+HB Draw	HB 드로
+HB Draw 	HB 드로 
+HB Flanker Lt	HB 플랭커 좌
+HB Flanker Rt	HB 플랭커 우
+HB Flare	HB 플레어
+HB Flat	HB 플랫
+HB Flea Flick	HB 플리 플리커
+HB Fly	HB 플라이
+HB Gap Counter	HB 갭 카운터
+HB Go	HB 고
+HB Gut	HB 거트
+HB Gut 	HB 거트 
+HB Hook	HB 훅
+HB Inside	HB 인사이드
+HB Lead	HB 리드
+HB Lead Blast	HB 리드 블라스트
+HB Lead Dive	HB 리드 다이브
+HB Lead Toss	HB 리드 토스
+HB Lead Toss 	HB 리드 토스 
+HB Left	HB 왼쪽
+HB Mid Draw	HB 미드 드로
+HB Mid Draw 	HB 미드 드로 
+HB Mid Draw (1)	HB 미드 드로 (1)
+HB Middle	HB 미들
+HB Off Tackle	HB 오프 태클
+HB Option	HB 옵션
+HB Out	HB 아웃
+HB Pass	HB 패스
+HB Pitch	HB 피치
+HB Plunge	HB 플런지
+HB Plunge 	HB 플런지 
+HB Power	HB 파워
+HB Quick Base	HB 퀵 베이스
+HB Quick Pitch	HB 퀵 피치
+HB Release Mid	HB 릴리스 미드
+HB Right	HB 오른쪽
+HB Screen	HB 스크린
+HB Screen 	HB 스크린 
+HB Screen Wk	HB 스크린 위크
+HB Slam	HB 슬램
+HB Slam 	HB 슬램 
+HB Slant 18	HB 슬랜트 18
+HB Slash	HB 슬래시
+HB Slip Left	HB 슬립 왼쪽
+HB Slot	HB 슬롯
+HB Smash	HB 스매시
+HB Smash 	HB 스매시 
+HB Smash Strg	HB 스매시 스트롱
+HB Solo	HB 솔로
+HB Spell	HB 스펠
+HB Sprint	HB 스프린트
+HB Sprint 	HB 스프린트 
+HB Sting	HB 스팅
+HB Streak	HB 스트리크
+HB Sweep	HB 스윕
+HB Sweep 	HB 스윕 
+HB Sweep Strg	HB 스윕 스트롱
+HB Swing	HB 스윙
+HB Toss	HB 토스
+HB Toss 	HB 토스 
+HB Toss Strg	HB 토스 스트롱
+HB Toss Strong	HB 토스 스트롱
+HB Toss Strong 	HB 토스 스트롱 
+HB Toss Weak	HB 토스 위크
+HB Trap	HB 트랩
+HB Weak Dive	HB 위크 다이브
+HB Weak Sweep	HB 위크 스윕
+HB Wham	HB 왬
+HB Wheel	HB 휠
+HB Wideout	HB 와이드아웃
+HB Wk Screen	HB 위크 스크린
+Hail Mary	헤일 메리
+Half Quarter	하프 쿼터
+Hard Slants	하드 슬랜트
+Heat	히트
+Hero Stunt	히어로 스턴트
+Hi-Lo Strong	하이로 스트롱
+Hitch	히치
+Hitch Corner	히치 코너
+Hitch Corners	히치 코너
+Hitch N Go	히치 앤 고
+Hitch Posts 	히치 포스트 
+Hog Buck 3	호그 벅 3
+Hook	훅
+Hook Ins	훅 인
+Hook Outs	훅 아웃
+House Blitz	하우스 블리츠
+I Form	I 포메이션
+I Form 	I 포메이션 
+In And Under	인 앤드 언더
+In Corner	인 코너
+In N Out	인 앤 아웃
+In-N-Out	인앤아웃
+Ins Left	인 왼쪽
+Inside Blitz	인사이드 블리츠
+Inside LB Fire	인사이드 LB 파이어
+Isolation	아이솔레이션
+Jailbreak Screen	제일브레이크 스크린
+Jam Cover 1	잼 커버 1
+Jam Middle	잼 미들
+Jumbo	점보
+Jumbo Backfield	점보 백필드
+Jumbo Strong	점보 스트롱
+Jumbo T	점보 T
+Jumbo Weak	점보 위크
+Kick Return	킥 리턴
+Kickoff	킥오프
+Kickoff Left	킥오프 왼쪽
+Kickoff Middle	킥오프 미들
+Kickoff Right	킥오프 오른쪽
+LB Blitz	LB 블리츠
+LB Contain	LB 컨테인
+LB Contain 	LB 컨테인 
+LB Coverage	LB 커버리지
+LB Drill	LB 드릴
+LB Ends	LB 엔드
+LB Fire	LB 파이어
+LB Flip	LB 플립
+LB Pass Rush	LB 패스 러시
+LB Ram Dogs	LB 램 도그스
+LB Storm 3	LB 스톰 3
+LB Swap	LB 스와프
+LB Weak Blitz	LB 위크 블리츠
+LB/DE Swap	LB/DE 스와프
+LOLB Left	LOLB 왼쪽
+LOLB Right	LOLB 오른쪽
+LOLB Swap	LOLB 스와프
+Lead Toss Weak	리드 토스 위크
+Left Drags	왼쪽 드래그
+Linebackers	라인배커
+MID Split	미드 스플릿
+MLB Cross Fire	MLB 크로스 파이어
+MLB Flip	MLB 플립
+MLB Left	MLB 왼쪽
+MLB Right	MLB 오른쪽
+MLB Storm Blitz	MLB 스톰 블리츠
+Man - QB Spy	맨 - QB 스파이
+Man 2 Under	맨 2 언더
+Man 3 Shoot Blitz	맨 3 슛 블리츠
+Man Buzz	맨 버즈
+Man Cover 1	맨 커버 1
+Man Cover 2	맨 커버 2
+Man Flats	맨 플랫
+Man Lock	맨 록
+Man Lock Spy	맨 록 스파이
+Man Prevent	맨 프리벤트
+Man QB Spy	맨 QB 스파이
+Man QB-Spy	맨 QB 스파이
+Man Quarters	맨 쿼터스
+Man Short Zone	맨 쇼트 존
+Man Under	맨 언더
+Man Up 3 Deep	맨 업 3 딥
+Man Zone	맨 존
+Man Zone 3 Deep	맨 존 3 딥
+Max Cover Punt	맥스 커버 펀트
+Max Prot. Pass	맥스 프로텍트 패스
+Max Prot. Punt	맥스 프로텍트 펀트
+Max Protect	맥스 프로텍트
+Max Protect 	맥스 프로텍트 
+Medium Ins	미디엄 인
+Miami	마이애미
+Mid Attack	미드 어택
+Mid Cross	미드 크로스
+Mid Cross 	미드 크로스 
+Mid Gut Rush	미드 거트 러시
+Mid Rush	미드 러시
+Mid Rush 	미드 러시 
+Mid Slants	미드 슬랜트
+Mid Split	미드 스플릿
+Mid Strike	미드 스트라이크
+Middle Attack	미들 어택
+Middle Blitz	미들 블리츠
+Middle Cross	미들 크로스
+Middle Curls	미들 컬
+Middle Hook	미들 훅
+Middle Screen	미들 스크린
+Mike Blitz	마이크 블리츠
+Mike Fire	마이크 파이어
+Monster Blitz	몬스터 블리츠
+Monster Blitz 2	몬스터 블리츠 2
+Motion Pitch	모션 피치
+NB Blitz	NB 블리츠
+Near	니어
+New Goal Line	뉴 골라인
+Nickel	니켈
+Normal	노멀
+Normal Offset Wk	노멀 오프셋 위크
+OLB Blitz	OLB 블리츠
+OLB Dogs Fire	OLB 도그스 파이어
+OLB Dogs Fire 2	OLB 도그스 파이어 2
+OLB Fire 3	OLB 파이어 3
+OLB Fire Man	OLB 파이어 맨
+OLB Flip	OLB 플립
+OLB Stud Spy	OLB 스터드 스파이
+OLB Swap	OLB 스와프
+Off Tackle	오프 태클
+Off Tackle Wk	오프 태클 위크
+Offset Drags	오프셋 드래그
+Offset Strong	오프셋 스트롱
+Offset Wk	오프셋 위크
+Onside	온사이드
+Onside Kick	온사이드 킥
+Onside Recover	온사이드 리커버
+Onside Return	온사이드 리턴
+Openfield Drag	오픈필드 드래그
+Out N Up	아웃 앤 업
+Out N Ups	아웃 앤 업
+Outer Corners 	아우터 코너 
+Outs	아웃
+Outside Blitz	아웃사이드 블리츠
+Outside Contain	아웃사이드 컨테인
+Outside Corners	아웃사이드 코너
+Outside Curls	아웃사이드 컬
+Outside Posts	아웃사이드 포스트
+Over	오버
+Over 2	오버 2
+Over 3 Strong	오버 3 스트롱
+Over 4	오버 4
+Over Storm Brave	오버 스톰 브레이브
+Over Strong	오버 스트롱
+Over Weak	오버 위크
+Overload	오버로드
+Overload Blitz	오버로드 블리츠
+Overload Fire	오버로드 파이어
+Overload Strg	오버로드 스트롱
+PA 218 Marvin	PA 218 마빈
+PA All Go	PA 올 고
+PA Attack	PA 어택
+PA Boot	PA 부트
+PA Clearout	PA 클리어아웃
+PA Corners	PA 코너
+PA Counter Flat	PA 카운터 플랫
+PA Counter Flat 	PA 카운터 플랫 
+PA Cross Up	PA 크로스 업
+PA Ctr 335	PA 센터 335
+PA Ctr Streak 	PA 센터 스트리크 
+PA Ctr Streak  	PA 센터 스트리크  
+PA Curl - Drag	PA 컬 - 드래그
+PA Dbl Posts	PA 더블 포스트
+PA Deep Attack	PA 딥 어택
+PA Deep In	PA 딥 인
+PA Deep Outs	PA 딥 아웃
+PA Deep Post	PA 딥 포스트
+PA Deep Post 	PA 딥 포스트 
+PA Deep Threat	PA 딥 위협
+PA Drop In	PA 드롭 인
+PA Drop Ins	PA 드롭 인
+PA FB Flat	PA FB 플랫
+PA FB Flat 	PA FB 플랫 
+PA FB Screen	PA FB 스크린
+PA FB Streak	PA FB 스트리크
+PA FB Up	PA FB 업
+PA FL Corner	PA FL 코너
+PA FL Fly	PA FL 플라이
+PA FL Hook	PA FL 훅
+PA FL Streak	PA FL 스트리크
+PA FL Stretch	PA FL 스트레치
+PA FL Stretch 	PA FL 스트레치 
+PA Flats	PA 플랫
+PA Flood	PA 플러드
+PA HB Curl	PA HB 컬
+PA HB Flat	PA HB 플랫
+PA HB Look	PA HB 룩
+PA HB Out	PA HB 아웃
+PA HB Streak	PA HB 스트리크
+PA Misdirection	PA 미스디렉션
+PA Outside Curls	PA 아웃사이드 컬
+PA Pass	PA 패스
+PA Pin Deep	PA 핀 딥
+PA Post Corner	PA 포스트 코너
+PA QB Draw	PA QB 드로
+PA QB Sweep	PA QB 스윕
+PA Quick Hit	PA 퀵 히트
+PA Rollout	PA 롤아웃
+PA Rollout 	PA 롤아웃 
+PA Slot Corner	PA 슬롯 코너
+PA Slot Crosses	PA 슬롯 크로스
+PA Slot Drag	PA 슬롯 드래그
+PA Slot In	PA 슬롯 인
+PA Slot Options 	PA 슬롯 옵션 
+PA Slot Post	PA 슬롯 포스트
+PA Slot Wheels	PA 슬롯 휠
+PA Split	PA 스플릿
+PA Split 	PA 스플릿 
+PA Streak	PA 스트리크
+PA Streaks	PA 스트리크
+PA TE Corner	PA TE 코너
+PA TE Cross	PA TE 크로스
+PA TE Deep	PA TE 딥
+PA TE Drag	PA TE 드래그
+PA TE Hitch	PA TE 히치
+PA TE Leak	PA TE 리크
+PA TE Post	PA TE 포스트
+PA TE Under	PA TE 언더
+PA Trap 505	PA 트랩 505
+PA Trap X-Clown	PA 트랩 X-클라운
+PA Trap Y Dig	PA 트랩 Y 디그
+PA Volunteer	PA 볼런티어
+PA WR Cross	PA WR 크로스
+PA WR Drag	PA WR 드래그
+PA Waggle	PA 왜글
+PA Weak Flat	PA 위크 플랫
+PA Z Comeback	PA Z 컴백
+PR Left	PR 왼쪽
+PR Middle	PR 미들
+PR Right	PR 오른쪽
+PR Safe Man	PR 세이프 맨
+PR Safe Zone	PR 세이프 존
+Packer 24 Dive	패커 24 다이브
+Packers Attack	패커스 어택
+Packers Screen	패커스 스크린
+Panther Cross	팬서 크로스
+Parallel Slants	패럴렐 슬랜트
+Pass	패스
+Patriot Screen	패트리엇 스크린
+Phin Counter	핀 카운터
+Phin Counter Wk	핀 카운터 위크
+Phins Circle	핀스 서클
+Phins Counter	핀스 카운터
+Pinch	핀치
+Play Action	플레이 액션
+Plug Cover 1	플러그 커버 1
+Posse Slants	파시 슬랜트
+Post Corner	포스트 코너
+Post Corners	포스트 코너
+Post Curls	포스트 컬
+Post Drag	포스트 드래그
+Post Flags	포스트 플래그
+Posts	포스트
+Posts N Zags	포스트 앤 재그
+Power	파워
+Power Sweep	파워 스윕
+Power Toss	파워 토스
+Precision  Passing	정밀  패싱
+Pressure	프레셔
+Prevent	프리벤트
+Pump N Go	펌프 앤 고
+Punt	펀트
+Punt BL Return	펀트 BL 리턴
+Punt Block	펀트 블록
+Punt Block Man	펀트 블록 맨
+Punt Block Zone	펀트 블록 존
+Punt Left	펀트 왼쪽
+Punt Max Protect	펀트맥스프로텍트
+Punt Middle	펀트 미들
+Punt Return Block	펀트 리턴 블록
+Punt Return Normal	펀트 리턴 노멀
+Punt Right	펀트 오른쪽
+Punt/Kick	펀트/킥
+QB Contain	QB 컨테인
+QB Contain 	QB 컨테인 
+QB Draw	QB 드로
+QB Draw 	QB 드로 
+QB Kneel	QB 닐다운
+QB Rollout	QB 롤아웃
+QB Rollout 	QB 롤아웃 
+QB Sneak	QB 스니크
+QB Sprintout	QB 스프린트아웃
+QB Sprintout 	QB 스프린트아웃 
+QB Sprintout  	QB 스프린트아웃  
+QB Trap	QB 트랩
+QB Waggle	QB 왜글
+Qk Slants In	퀵 슬랜트 인
+Quad Curls	쿼드 컬
+Quad WR	쿼드 WR
+Quarter	쿼터
+Quarter Half	쿼터 하프
+Quarter Halves	쿼터 하브스
+Quarters Man	쿼터스 맨
+Quarters Safe	쿼터스 세이프
+Quarters Spy	쿼터스 스파이
+Quarters Zone	쿼터스 존
+Quick Curls	퀵 컬
+Quick Drag	퀵 드래그
+Quick Flat	퀵 플랫
+Quick Hits	퀵 히트
+Quick Hitter	퀵 히터
+Quick Hooks	퀵 훅
+Quick Hooks 	퀵 훅 
+Quick In	퀵 인
+Quick Ins	퀵 인
+Quick Looks	퀵 룩
+Quick Outs	퀵 아웃
+Quick Pitch	퀵 피치
+Quick Screen	퀵 스크린
+Quick Screen 	퀵 스크린 
+Quick Slant	퀵 슬랜트
+Quick Slants	퀵 슬랜트
+Quick Toss	퀵 토스
+Quick Toss 	퀵 토스 
+RB 25 Cut	RB 25 컷
+RB 26 Slam	RB 26 슬램
+RB Circles	RB 서클
+RB Cross	RB 크로스
+RB Direct Snap	RB 다이렉트 스냅
+RB Flood Left	RB 플러드 왼쪽
+RB Outs	RB 아웃
+ROLB Swap	ROLB 스와프
+RZ Stop	RZ 스톱
+Ram Buck 1	램 벅 1
+Ram Buck 1 Deep	램 벅 1 딥
+Rams 22 Draw	램스 22 드로
+Rams 24 Counter	램스 24 카운터
+Rams 25 Cutback	램스 25 컷백
+Rams 26 Counter	램스 26 카운터
+Rams 27 Counter	램스 27 카운터
+Rams Mid Attack	램스 미드 어택
+Rams Mid Press	램스 미드 프레스
+Read 	리드 
+Read Middle	리드 미들
+Redskins Screen	레드스킨스 스크린
+Renegade	레니게이드
+Return Left	리턴 왼쪽
+Return Middle	리턴 미들
+Return Right	리턴 오른쪽
+Robber	로버
+Rollout Screen	롤아웃 스크린
+Run	런
+Rush Outside	러시 아웃사이드
+SE Cross	SE 크로스
+SE Curl	SE 컬
+SE Curl In	SE 컬 인
+SE Drag	SE 드래그
+SE Fly	SE 플라이
+SE Hook In	SE 훅 인
+SE In	SE 인
+SE Post	SE 포스트
+SE Post Flag	SE 포스트 플래그
+SE Quick Hit	SE 퀵 히트
+SE Quick Out	SE 퀵 아웃
+SE Reverse	SE 리버스
+SE Slant	SE 슬랜트
+SE Streak	SE 스트리크
+SE Under	SE 언더
+SE Wheel	SE 휠
+SE Zig Out	SE 지그 아웃
+SPECIAL	스페셜
+SS Blitz	SS 블리츠
+SS Gut Blitz	SS 거트 블리츠
+SS Pressure	SS 프레셔
+SS Snake 3 Stay	SS 스네이크 3 스테이
+Safe	세이프
+Safe 3 Deep	세이프 3 딥
+Safe QB Spy	세이프 QB 스파이
+Safety Attack	세이프티 어택
+Safety Bait	세이프티 베이트
+Safety Blitz	세이프티 블리츠
+Safety Cross	세이프티 크로스
+Safety Fire	세이프티 파이어
+Safety Kick Return	세이프티 킥 리턴
+Safety Kick return	세이프티 킥 리턴
+Safety Kickoff	세이프티 킥오프
+Safety Press	세이프티 프레스
+Safety Punt	세이프티 펀트
+Safety Swap	세이프티스와프
+Saint Cross Ups	세인트 크로스 업
+Saints 22 Slam	세인츠 22 슬램
+Saints 25 Cut	세인츠 25 컷
+Saints 26 Slam	세인츠 26 슬램
+Saints HB Screen	세인츠 HB 스크린
+Saints Pitch	세인츠 피치
+Saints Qk Screen	세인츠 퀵 스크린
+Saints Slot Read	세인츠 슬롯 리드
+Saints Swing	세인츠 스윙
+Sam Blitz	샘 블리츠
+Sam Shoot Fire 2	샘 슛 파이어 2
+Sam Snake	샘 스네이크
+Sellout Blitz	셀아웃 블리츠
+Shallow Drags	샐로 드래그
+Short Attack	쇼트 어택
+Short Crosses	쇼트 크로스
+Short Curls	쇼트 컬
+Short Flood	쇼트 플러드
+Short Hook	쇼트 훅
+Short Hooks	쇼트 훅
+Short Ins	쇼트 인
+Short Ins N Outs	쇼트 인 앤 아웃
+Short Posts	쇼트 포스트
+Short Slants	쇼트 슬랜트
+Short Snap	쇼트 스냅
+Shotgun	샷건
+ShotgunNormalDirectSnap	샷건 노멀 스냅
+Sideline Drag	사이드라인 드래그
+Silver	실버
+Silver Pinch	실버 핀치
+Silver Shoot Pinch	실버 슛 핀치
+Singleback	싱글백
+Slant 1 OLB Fire	슬랜트 1 OLB 파이어
+Slant Attack	슬랜트 어택
+Slant Corner	슬랜트 코너
+Slant Crash Left	슬랜트 크래시 왼쪽
+Slant Hook	슬랜트 훅
+Slant N Go	슬랜트 앤 고
+Slant Overload	슬랜트 오버로드
+Slant Posts	슬랜트 포스트
+Slant Strong	슬랜트 스트롱
+Slant Under	슬랜트 언더
+Slants	슬랜트
+Slants 	슬랜트 
+Slants Middle	슬랜트 미들
+Slants N Drags	슬랜트 앤 드래그
+Slants Slot Flat	슬랜트 슬롯 플랫
+Slide	슬라이드
+Slot Angle Post	슬롯 앵글 포스트
+Slot Attack	슬롯 어택
+Slot Clearout	슬롯 클리어아웃
+Slot Clearouts	슬롯 클리어아웃
+Slot Comebacks	슬롯 컴백
+Slot Corner	슬롯 코너
+Slot Corners	슬롯 코너
+Slot Cross	슬롯 크로스
+Slot Cross 	슬롯 크로스 
+Slot Cross Ins	슬롯 크로스 인
+Slot Crossers	슬롯 크로서
+Slot Crosses	슬롯 크로스
+Slot Curl	슬롯 컬
+Slot Curls	슬롯 컬
+Slot Deep Post	슬롯 딥 포스트
+Slot Drag	슬롯 드래그
+Slot Flag	슬롯 플래그
+Slot Flags	슬롯 플래그
+Slot Flat	슬롯 플랫
+Slot Flats	슬롯 플랫
+Slot Fly	슬롯 플라이
+Slot Hitch	슬롯 히치
+Slot Hook	슬롯 훅
+Slot In Drag	슬롯 인 드래그
+Slot In N Up	슬롯 인 앤 업
+Slot Middle	슬롯 미들
+Slot Motion Curl	슬롯 모션 컬
+Slot N FL In	슬롯 앤 FL 인
+Slot Options	슬롯 옵션
+Slot Out	슬롯 아웃
+Slot Out N Up	슬롯 아웃 앤 업
+Slot Outs	슬롯 아웃
+Slot Outside	슬롯 아웃사이드
+Slot Pivot	슬롯 피벗
+Slot Post	슬롯 포스트
+Slot Quick Flat	슬롯 퀵 플랫
+Slot Read	슬롯 리드
+Slot Read 	슬롯 리드 
+Slot Reverse	슬롯 리버스
+Slot Screen	슬롯 스크린
+Slot Sidelines	슬롯 사이드라인
+Slot Streak	슬롯 스트리크
+Slot Strong	슬롯 스트롱
+Slot Swap	슬롯 스와프
+Slot Wheel	슬롯 휠
+Slot Z Chair	슬롯 Z 체어
+Slot Z Out	슬롯 Z 아웃
+Slot Zig Out	슬롯 지그 아웃
+Slot Zig Outs	슬롯 지그 아웃
+Slot Zig Outs 	슬롯 지그 아웃 
+Slots Attack	슬롯 어택
+Smash Blitz	스매시 블리츠
+Smash Corners	스매시 코너
+Smash Fork	스매시 포크
+Smash Posts	스매시 포스트
+Smash Slants	스매시 슬랜트
+Smash Slot Post	스매시 슬롯 포스트
+Smash Streaks	스매시 스트리크
+Sneak Outs	스니크 아웃
+Special	스페셜
+Special Teams	스페셜 팀
+Speed	스피드
+Spell HB	스펠 HB
+Spike Ball	스파이크
+Split Backs	스플릿 백스
+Split Belly	스플릿 벨리
+Sprint Rt Option	스프린트 우 옵션
+Square In	스퀘어 인
+Squib Left	스퀴브 왼쪽
+Squib Middle	스퀴브 미들
+Squib Right	스퀴브 오른쪽
+Stack	스택
+Stack Strong	스택 스트롱
+Stack Weak	스택 위크
+Stagger Posts	스태거 포스트
+Sting Left	스팅 왼쪽
+Sting Right	스팅 오른쪽
+Sting Screen	스팅 스크린
+Stop Clock	시계 정지
+Storm	스톰
+Storm Blitz	스톰 블리츠
+Storm Brave 1	스톰 브레이브 1
+Str Ram Buck 1	스트롱 램 벅 1
+Str Snake 3 Deep	스트롱 스네이크 3 딥
+Streaks	스트리크
+Strike	스트라이크
+Strike 2 Deep	스트라이크 2 딥
+Strike Post	스트라이크 포스트
+Strikeout	스트라이크아웃
+Strong	스트롱
+Strong 2 Zone	스트롱 2 존
+Strong Blitz	스트롱 블리츠
+Strong Flat 3	스트롱 플랫 3
+Strong Flood	스트롱 플러드
+Strong I	스트롱 I
+Strong I 	스트롱 I 
+Strong Man	스트롱 맨
+Strong Nickel	스트롱 니켈
+Strong Overload	스트롱 오버로드
+Strong Ram Buck 1	스트롱 램 벅 1
+Strong Screen	스트롱 스크린
+Strong Shift	스트롱 시프트
+Strong Slot	스트롱 슬롯
+Strong Slots	스트롱 슬롯
+Strong Solo	스트롱 솔로
+Strong Tight	스트롱 타이트
+Strong Toss	스트롱 토스
+Strong Zone	스트롱 존
+Stud	스터드
+Stunt Blitz	스턴트 블리츠
+Swing Posts	스윙 포스트
+Swing Screen	스윙 스크린
+Swing Slant	스윙 슬랜트
+TE Angle Post	TE 앵글 포스트
+TE Angle Post 	TE 앵글 포스트 
+TE Bubble Screen	TE 버블 스크린
+TE Corner	TE 코너
+TE Corners 	TE 코너 
+TE Cross	TE 크로스
+TE Curl	TE 컬
+TE Curl 	TE 컬 
+TE Deep In	TE 딥 인
+TE Delay	TE 딜레이
+TE Delay Drag 	TE 딜레이 드래그 
+TE Drag	TE 드래그
+TE Drag 	TE 드래그 
+TE Drag Under	TE 드래그 언더
+TE Drags	TE 드래그
+TE Fade	TE 페이드
+TE Flag	TE 플래그
+TE Flat	TE 플랫
+TE Flat 	TE 플랫 
+TE Flat Slant	TE 플랫 슬랜트
+TE Go	TE 고
+TE Hook In	TE 훅 인
+TE In	TE 인
+TE Left	TE 왼쪽
+TE Middle	TE 미들
+TE Option 	TE 옵션 
+TE Out	TE 아웃
+TE Out N Up	TE 아웃 앤 업
+TE Outs	TE 아웃
+TE Post	TE 포스트
+TE Post Corner	TE 포스트 코너
+TE Protect	TE 프로텍트
+TE Quick Hit	TE 퀵 히트
+TE Quick Out	TE 퀵 아웃
+TE Quick Screen	TE 퀵 스크린
+TE Right	TE 오른쪽
+TE Screen	TE 스크린
+TE Seam Option	TE 심 옵션
+TE Seam Option 	TE 심 옵션 
+TE Short	TE 쇼트
+TE Slant In	TE 슬랜트 인
+TE Slant Out	TE 슬랜트 아웃
+TE Slant Sit	TE 슬랜트 시트
+TE Slant Up	TE 슬랜트 업
+TE Slot	TE 슬롯
+TE Slot In	TE 슬롯 인
+TE Slot Out	TE 슬롯 아웃
+TE Streak	TE 스트리크
+TE Swap	TE 스와프
+TE Swap Strong	TE 스와프 강측
+TE Swap Weak	TE 스와프 위크
+TE Under	TE 언더
+TE Wheel	TE 휠
+TE Wideout	TE 와이드아웃
+TE Z Out	TE Z 아웃
+TE Zoom	TE 줌
+Tango	탱고
+Thunder Smoke	선더 스모크
+Tight	타이트
+Tight Screen	타이트 스크린
+Titan Corners	타이탄 코너
+Titan Cross	타이탄 크로스
+Titans 24 Blast	타이탄스 24 블라스트
+Titans FL Screen	타이탄스 FL 스크린
+Titans Slash	타이탄스 슬래시
+Toss Strong	토스 스트롱
+Toss Sweep	토스 스윕
+Toss Weak	토스 위크
+Trap Reverse	트랩 리버스
+Trio Sky Zone	트리오 스카이 존
+Trio Wham Lurk	트리오 왬 러크
+Trio Wham Lurk 	트리오 왬 러크 
+Trio Wham Lurk (1)	트리오 왬 러크 (1)
+Trio Whip Man	트리오 휩 맨
+Triple Outs	트리플 아웃
+Triple Posts	트리플 포스트
+Triple Slants	트리플 슬랜트
+Trips	트립스
+Trips Attack	트립스 어택
+Trips Bunch	트립스 번치
+Trips TE	트립스 TE
+Trips WR	트립스 WR
+Twin Fades	트윈 페이드
+Twin Outs	트윈 아웃
+Twin Posts	트윈 포스트
+Twin Streaks	트윈 스트리크
+Twin TE	트윈 TE
+Twin TE WR	트윈 TE WR
+Twin WR	트윈 WR
+Twins	트윈스
+Twins WR	트윈스 WR
+Under 2	언더 2
+Under 2 Deep	언더 2 딥
+Under 4	언더 4
+Under 7 Slice	언더 7 슬라이스
+Under Man	언더 맨
+Under Man 1 Deep	언더 맨 1 딥
+Under Man Zone	언더 맨 존
+Under Ram Buck	언더 램 벅
+Under Smoke	언더 스모크
+Under Strong	언더 스트롱
+Vert Pressure	버트 프레셔
+Viking Attack	바이킹 어택
+Viking Cross	바이킹 크로스
+Viking Screen	바이킹 스크린
+Viking Slants	바이킹 슬랜트
+Vikings Belly	바이킹스 벨리
+Vikings Blast	바이킹스 블라스트
+Vikings Wk Toss	바이킹스 위크 토스
+WR Ace Hitch	WR 에이스 히치
+WR Around	WR 어라운드
+WR Break Out	WR 브레이크 아웃
+WR Bunch	WR 번치
+WR Clear Ins 	WR 클리어 인 
+WR Clearouts	WR 클리어아웃
+WR Comeback	WR 컴백
+WR Comebacks	WR 컴백
+WR Corner	WR 코너
+WR Corners	WR 코너
+WR Cross	WR 크로스
+WR Curl	WR 컬
+WR Dash	WR 대시
+WR Deep Curls	WR 딥 컬
+WR Deep Hook	WR 딥 훅
+WR Deep In	WR 딥 인
+WR Deep Outs	WR 딥 아웃
+WR Deep Post	WR 딥 포스트
+WR Deep Posts	WR 딥 포스트
+WR Drag	WR 드래그
+WR Fade	WR 페이드
+WR Flag	WR 플래그
+WR Flats	WR 플랫
+WR Fly	WR 플라이
+WR Go	WR 고
+WR Hook Out	WR 훅 아웃
+WR Hook Outs	WR 훅 아웃
+WR Hookout	WR 훅아웃
+WR Hooks	WR 훅
+WR Ins	WR 인
+WR Middle Cross	WR 미들 크로스
+WR Middle Drag	WR 미들 드래그
+WR Misdirection Pitch	WR 미스디렉션 피치
+WR Option 	WR 옵션 
+WR Out	WR 아웃
+WR Out N Up	WR 아웃 앤 업
+WR Outs	WR 아웃
+WR Post	WR 포스트
+WR Post Corner	WR 포스트 코너
+WR Post Flags	WR 포스트 플래그
+WR Quick Drag	WR 퀵 드래그
+WR Quick In	WR 퀵 인
+WR Quick Out	WR 퀵 아웃
+WR Reverse	WR 리버스
+WR Reverse Pass	WR 리버스 패스
+WR Rotate	WR 로테이트
+WR Rotation	WR 로테이션
+WR Screen	WR 스크린
+WR Short Post	WR 쇼트 포스트
+WR Short Posts	WR 쇼트 포스트
+WR Sink Under	WR 싱크 언더
+WR Slant	WR 슬랜트
+WR Slant In	WR 슬랜트 인
+WR Slant Post	WR 슬랜트 포스트
+WR Slants	WR 슬랜트
+WR Smash	WR 스매시
+WR Streak	WR 스트리크
+WR Streaks	WR 스트리크
+WR Strong	WR 스트롱
+WR Strong Lt	WR 스트롱 좌
+WR Strong Rt	WR 스트롱 우
+WR Strong Weak	WR 스트롱 위크
+WR Swap	WR 스와프
+WR Swap Strong	WR 스와프 강측
+WR Wheel	WR 휠
+WR Zig Out	WR 지그 아웃
+Waggle	왜글
+Waggle Post	왜글 포스트
+Wall Cover 4	월 커버 4
+Wall Stunt	월 스턴트
+Weak	위크
+Weak 2 Deep	위크 2 딥
+Weak 3	위크 3
+Weak Attack	위크 어택
+Weak Blitz	위크 블리츠
+Weak Flat 3	위크 플랫 3
+Weak Flood	위크 플러드
+Weak I	위크 I
+Weak I 	위크 I 
+Weak Pressure	위크 프레셔
+Weak Storm Roll	위크 스톰 롤
+Weak Toss	위크 토스
+Wham Lurk	왬 러크
+Wide	와이드
+Wide Blitz	와이드 블리츠
+Wide Corners	와이드 코너
+X-Clown	X-클라운
+Z Breakout	Z 브레이크아웃
+Z Cross In	Z 크로스 인
+Zig Outs	지그 아웃
+Zig Zag	지그 재그
+Zig-Zags	지그재그
+Zip Shoot Gut	집 슛 거트
+Zone Blitz	존 블리츠
+Zone CB Man	존 CB 맨
+Zone Dog	존 도그
+Zone Man Blitz	존 맨 블리츠
+Zone Man X	존 맨 X
+Zone Read	존 리드
+Zone Stretch	존 스트레치
+no_name	이름 없음

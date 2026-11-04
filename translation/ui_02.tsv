@@ -1,0 +1,302 @@
+# 경기장 / 프랜차이즈
+Wind	바람
+Surface	잔디
+Capacity	수용 인원
+Custom	사용자 지정
+Random	무작위
+Select the stadium, time of day and	이 화면에서 경기장, 시간대와
+weather conditions from here. Selecting	날씨를 선택합니다. 시스템 시계를
+System Clock will set the time of the game and	선택하면 시스템 설정에 따라
+the weather based on your system settings.	경기 시간과 날씨가 정해집니다.
+Random stadium select	무작위 경기장 선택
+weather conditions from here.	날씨를 선택합니다.
+Preview Stadium	경기장 미리 보기
+Team	팀
+Time	시간
+Weather	날씨
+Grassy Turf	천연 잔디
+Hide	숨기기
+Exit	나가기
+PRESEASON-WEEKLY SCHEDULE	프리시즌 - 주간 일정
+WEEKLY SCHEDULE	주간 일정
+Simulate all games including this week?	이번 주를 포함해 모든 경기를 시뮬레이션하시겠습니까?
+Simulate all games through this round?	이번 라운드까지 모든 경기를 시뮬레이션하시겠습니까?
+Simulate entire Preseason?	프리시즌 전체를 시뮬레이션하시겠습니까?
+Simulate entire Regular Season?	정규 시즌 전체를 시뮬레이션하시겠습니까?
+Simulate entire Playoffs?	플레이오프 전체를 시뮬레이션하시겠습니까?
+%s team salary exceeds the cap. Select Cancel and release players to get back under the cap or select Clear Penalties to remove all cap penalties for your team. Clearing cap penalties will affect your team's prestige.	%s 팀 연봉이 샐러리캡을 초과했습니다. 취소를 골라 선수를 방출해 캡 아래로 맞추거나, 페널티 해제를 골라 팀의 모든 캡 페널티를 없애세요. 캡 페널티를 해제하면 팀 명성에 영향을 줍니다.
+|Clear Penalties|^Cancel	|페널티 해제|^취소
+%s team salary exceeds the cap. Release players to increase cap room.	%s 팀 연봉이 샐러리캡을 초과했습니다. 선수를 방출해 캡 여유를 늘리세요.
+|^Continue	|^계속
+%s have insufficient cap room for the CPU to fill your roster. Select Cancel and release players to increase your cap room or select Clear Penalties to remove all cap penalties for your team. Clearing cap penalties will affect your team's prestige.	%s 팀은 CPU가 로스터를 채울 캡 여유가 부족합니다. 취소를 골라 선수를 방출해 캡 여유를 늘리거나, 페널티 해제를 골라 팀의 모든 캡 페널티를 없애세요. 캡 페널티를 해제하면 팀 명성에 영향을 줍니다.
+%s have insufficient cap room for the CPU to fill your roster. Release players to increase cap room.	%s 팀은 CPU가 로스터를 채울 캡 여유가 부족합니다. 선수를 방출해 캡 여유를 늘리세요.
+%s cap penalty is excessive. The CPU cannot fill your roster unless your cap penalties are cleared. Clearing cap penalties will affect your team's prestige.	%s 팀의 캡 페널티가 너무 큽니다. 캡 페널티를 해제하지 않으면 CPU가 로스터를 채울 수 없습니다. 캡 페널티를 해제하면 팀 명성에 영향을 줍니다.
+The %s do not have enough %s. Please sign a player, trade for a player, or edit a player's position, to fill the position.	%s 팀은 %s 선수가 부족합니다. 선수를 영입하거나 트레이드하거나 포지션을 변경해 자리를 채우세요.
+The %s do not have enough %s. Please sign a player or edit a player's position, to fill the position.	%s 팀은 %s 선수가 부족합니다. 선수를 영입하거나 포지션을 변경해 자리를 채우세요.
+This matchup has not been determined.	아직 정해지지 않은 대진입니다.
+Advance to Regular Season?	정규 시즌으로 진행하시겠습니까?
+|Yes|^No|View Progression	|예|^아니요|성장 보기
+Congratulations!	축하합니다!
+You have completed 30 years of a franchise.	프랜차이즈 30년을 완주했습니다.
+Advance to Owner Mode Off-Season?	구단주 모드 오프시즌으로 진행하시겠습니까?
+Advance to Off-Season?	오프시즌으로 진행하시겠습니까?
+|Yes|^No|Import Draft Class	|예|^아니요|드래프트 클래스 가져오기
+Import a draft class? Selecting yes will automatically advance you to the off-season.	드래프트 클래스를 가져오시겠습니까? 예를 고르면 자동으로 오프시즌으로 진행합니다.
+Advance To Owner Mode Off-Season.	구단주 모드 오프시즌으로 진행.
+Advance To Off-Season Menu.	오프시즌 메뉴로 진행.
+Advance to Regular Season.	정규 시즌으로 진행.
+Select Game	경기 선택
+Team Matchup	팀 대진
+Box Score	박스 스코어
+The trading deadline is Week 6. There can be no trading after deadline.	트레이드 마감은 6주차입니다. 마감 후에는 트레이드할 수 없습니다.
+|OK|^Cancel	|확인|^취소
+Result	결과
+Date	날짜
+Game of the Week	이 주의 경기
+Press        to\r\n	        버튼:\r\n
+Play Week	주간 경기
+Play games from the Weekly	주간 일정 화면에서 경기를
+Schedule screen. View the box score	진행합니다. 이미 끝난 경기는
+for games that have already been	박스 스코어를 볼 수
+played.	있습니다.
+Change highlighted game	선택 경기 변경
+Change week	주 변경
+Play/simulate highlighted game	선택 경기 플레이/시뮬레이션
+Team matchup/box score	팀 대진/박스 스코어
+Simulating	시뮬레이션 중
+Hold	길게 누르면
+to Cancel Simulation	시뮬레이션 취소
+Simulate Game	경기 시뮬레이션
+Simulate Week	주간 시뮬레이션
+Simulate Preseason	프리시즌 시뮬레이션
+Simulate Season	시즌 시뮬레이션
+Simulate Round	라운드 시뮬레이션
+Simulate Playoffs	플레이오프 시뮬레이션
+Simulate ...	시뮬레이션...
+Simulate Games	경기 시뮬레이션
+Choose which game(s) to simulate.	시뮬레이션할 경기를 고르세요.
+SIMULATE	시뮬레이션
+FRANCHISE SETUP	프랜차이즈 설정
+Begin Franchise?	프랜차이즈를 시작하시겠습니까?
+The maximum number of teams have been replaced. You can not load any more teams.	교체 가능한 팀 수가 최대입니다. 더 이상 팀을 불러올 수 없습니다.
+Start Franchise	프랜차이즈 시작
+Select Teams	팀 선택
+Team Select	팀 선택
+Coach	감독
+Franchise Setup	프랜차이즈 설정
+Set the number of players and pick	플레이어 수를 정하고 새 프랜차이즈에
+the teams for a new franchise.	참가할 팀을 고르세요.
+Load created team	만든 팀 불러오기
+Start franchise	프랜차이즈 시작
+Select team(s)	팀 선택
+----- Team Select -----	----- 팀 선택 -----
+Toggle highlighted team	선택 팀 전환
+Number Of Users	사용자 수
+Fantasy Draft	판타지 드래프트
+Off	끔
+On	켬
+Trade Deadline	트레이드 마감
+Job Openings	감독 공석
+remove %s?	%s을(를) 제거하시겠습니까?
+Are you sure you want to %s	정말로 %s
+You cannot remove this coach.	이 감독은 제거할 수 없습니다.
+You cannot resign if your roster does not meet minimum requirements.  If you need cap room to sign players, disable the salary cap in gameplay settings - franchise.	로스터가 최소 요건을 채우지 못하면 사임할 수 없습니다. 선수 영입에 캡 여유가 필요하면 게임플레이 설정 - 프랜차이즈에서 샐러리캡을 끄세요.
+Job openings	감독 공석
+New/edit Coach	감독 신규/편집
+User Coaches	사용자 감독
+Edit a coach or change a coach's	이 화면에서 감독을 편집하거나
+team from this screen.	감독의 팀을 바꿀 수 있습니다.
+Change highlighted coach	선택 감독 변경
+Cycle through available teams	가능한 팀 순환
+New/edit coach	감독 신규/편집
+Simulate entire preseason?	프리시즌 전체를 시뮬레이션하시겠습니까?
+Simulate entire regular season?	정규 시즌 전체를 시뮬레이션하시겠습니까?
+%s have insufficient cap room for the CPU to fill your roster. Select Cancel and release players to increase your cap room or select Clear Penalties to remove all cap penalties for your team. Clearing cap penalties will affect your team's prestige,	%s 팀은 CPU가 로스터를 채울 캡 여유가 부족합니다. 취소를 골라 선수를 방출해 캡 여유를 늘리거나, 페널티 해제를 골라 팀의 모든 캡 페널티를 없애세요. 캡 페널티를 해제하면 팀 명성에 영향을 줍니다.
+CPU signed	CPU 영입
+Opponent	상대
+OPP W-L-T	상대 승-패-무
+PRESEASON-TEAM SCHEDULE	프리시즌 - 팀 일정
+TEAM SCHEDULE	팀 일정
+The trading deadline is week 6. There can be no trading after deadline.	트레이드 마감은 6주차입니다. 마감 후에는 트레이드할 수 없습니다.
+Week	주차
+Combined Opponents' Record	상대 팀 합산 전적
+Overall Record	전체 전적
+Team Schedule	팀 일정
+This screen displays a team's schedule	이 화면에서는 팀의 한 해
+for the year.	일정을 보여 줍니다.
+Change highlighted week	선택 주 변경
+COACH OPTIONS	감독 옵션
+HOT ROUTES	핫 루트
+PACKAGES	패키지
+SUBSTITUTIONS	선수 교체
+SCHEDULE	일정
+Madden Franchise Year %d	매든 프랜차이즈 %d년차
+PLAY WEEK	주간 경기
+TRAINING CAMP	트레이닝 캠프
+There must be at least 1 user coach to participate in a training camp drill. Advance to the pre-season?	트레이닝 캠프 훈련에 참가하려면 사용자 감독이 1명 이상 있어야 합니다. 프리시즌으로 진행하시겠습니까?
+Practice is unavailable during Pro Bowl week.	프로 볼 주간에는 연습할 수 없습니다.
+Practice is unavailable at the end of the preseason.	프리시즌 종료 시에는 연습할 수 없습니다.
+There must be at least 1 user coach to participate in a practice session.	연습에 참가하려면 사용자 감독이 1명 이상 있어야 합니다.
+Your team does not have the number of active players required for each position. Please check the roster breakdown.	팀의 포지션별 필요 선수 수가 부족합니다. 로스터 구성을 확인하세요.
+NEWSPAPER	신문
+E-MAIL	이메일
+EA SPORTS° RADIO	EA SPORTS° 라디오
+MY TEAM	나의 팀
+TEAM INFO	팀 정보
+EXPORT TEAM	팀 내보내기
+MODIFY UNIFORM	유니폼 수정
+STATS/INFO	기록/정보
+LEAGUE NEWS	리그 뉴스
+Franchise Menu	프랜차이즈 메뉴
+Access all Franchise Mode options	이 화면에서 프랜차이즈 모드의
+from this screen.	모든 옵션을 이용할 수 있습니다.
+OWNER'S BOX	구단주 박스
+Madden Franchise Home	매든 프랜차이즈 홈
+create player	선수 만들기
+view roster	로스터 보기
+breakdown	구성
+free agents	FA 선수
+release player	선수 방출
+trade player	선수 트레이드
+depth chart	뎁스 차트
+edit player	선수 편집
+delete player	선수 삭제
+Weekly Schedule, Team Schedule, Weekly	이 메뉴에서 주간 일정, 팀 일정,
+Gameplan, and Standings are available 	주간 작전과 순위를 볼 수
+from this menu.	있습니다.
+Change highlighted screen	선택 화면 변경
+Activate highlighted screen	선택 화면 열기
+weekly schedule	주간 일정
+team schedule	팀 일정
+weekly gameplan	주간 작전
+standings	순위
+franchise	프랜차이즈
+play week	주간 경기
+Rosters	로스터
+View Roster	로스터 보기
+Injury Report	부상자 명단
+Depth Chart	뎁스 차트
+Progression	성장
+Free Agents	FA 선수
+Trade Block	트레이드 블록
+Trade Player	선수 트레이드
+Breakdown	구성
+The screens in this area manipulate	이 영역의 화면에서 로스터를
+rosters.	관리합니다.
+position battles	주전 경쟁
+injury report	부상자 명단
+player progression	선수 성장
+trade block	트레이드 블록
+rosters	로스터
+Edit Coach - edit highlighed coach.	감독 편집 - 선택한 감독을 편집합니다.
+New Coach - create new coach.	새 감독 - 새 감독을 만듭니다.
+Remove Coach - remove coach.	감독 제거 - 감독을 제거합니다.
+Choose Option	옵션 선택
+Cancel	취소
+Edit Coach	감독 편집
+New Coach	새 감독
+Remove Coach	감독 제거
+Coach Name	감독 이름
+Model %d	모델 %d
+New/Edit Coach	감독 신규/편집
+Create or edit a coach from this screen.	이 화면에서 감독을 만들거나 편집합니다.
+Once a preset coach is edited, it	기본 감독은 한 번 편집하면
+cannot be reverted.	되돌릴 수 없습니다.
+Name	이름
+Body	체형
+Gameplay	게임플레이
+Settings	설정
+All settings are accessible from this	이 영역에서 모든 설정을
+area.	이용할 수 있습니다.
+game	게임
+custom game	사용자 지정 게임
+penalty	반칙
+EAsy play	EAsy 플레이
+Controller Settings	컨트롤러 설정
+settings	설정
+gameplay	게임플레이
+Select Coach	감독 선택
+Start the franchise, change the	이 화면에서 프랜차이즈를 시작하거나
+highlighted team's coach or create	선택한 팀의 감독을 바꾸거나
+a new coach from this screen.	새 감독을 만들 수 있습니다.
+No teams found.	팀을 찾을 수 없습니다.
+No Memory Card with valid team data was found.	유효한 팀 데이터가 있는 메모리 카드를 찾을 수 없습니다.
+|^Retry|Cancel	|^다시 시도|취소
+No Memory Card was found. Please insert Memory Card and try again.	메모리 카드가 없습니다. 메모리 카드를 꽂고 다시 시도하세요.
+No Memory Card (PS2) with valid team data was found.	유효한 팀 데이터가 있는 메모리 카드(PS2)를 찾을 수 없습니다.
+No Memory Card (PS2) was found. Please insert Memory Card (PS2) and try again.	메모리 카드(PS2)가 없습니다. 메모리 카드(PS2)를 꽂고 다시 시도하세요.
+No memory unit with valid team data was found.	유효한 팀 데이터가 있는 메모리 유닛을 찾을 수 없습니다.
+No memory unit was found. Please insert memory unit and try again.	메모리 유닛이 없습니다. 메모리 유닛을 꽂고 다시 시도하세요.
+More than one team replacing a roster.	둘 이상의 팀이 같은 로스터를 교체하고 있습니다.
+Load failed from %s	%s에서 불러오기 실패
+in %s %s.	(%s %s)
+You have exceeded the maximum of %d create-a-teams. Some teams may not be available.	만든 팀이 최대 %d개를 넘었습니다. 일부 팀은 사용할 수 없습니다.
+This created team cannot be used in the Franchise Mode. The team's salary exceeds the cap.	이 팀은 프랜차이즈 모드에서 사용할 수 없습니다. 팀 연봉이 샐러리캡을 초과합니다.
+Team Replaced	팀 교체됨
+Add Created Teams	만든 팀 추가
+This is where you will add created teams	이 화면에서 만든 팀을
+to your game mode.	게임 모드에 추가합니다.
+REPLACE NFL TEAM	만든 팀으로
+WITH A CREATE-A-TEAM	NFL 팀 교체
+Stat Book	기록집
+Stats/Info	기록/정보
+Access all stats and information	이 화면에서 모든 기록과
+screens from this screen.	정보 화면을 볼 수 있습니다.
+individual	개인
+career	통산
+team	팀
+rankings	순위
+coach	감독
+stat book	기록집
+%s Coach %s	%s 감독 %s
+has resigned. To coach another team,	사임했습니다. 다른 팀을 맡으려면 감독
+toggle through the available teams under	옵션 메뉴의 감독 공석에서
+Job Openings in the Coach Options menu.	가능한 팀을 고르세요.
+Coach Resign	감독 사임
+Your coach has resigned. Find another 	감독이 사임했습니다. 코칭 옵션
+team to coach under Positions in the 	메뉴의 포지션에서 맡을
+Coaching Options menu.	다른 팀을 찾으세요.
+Generate schedule and advance to preseason?	일정을 만들고 프리시즌으로 진행하시겠습니까?
+%s schedule is complete	%s 일정 완료
+%s choose 1 more opponent	%s 상대 1팀을 더 고르세요
+%s choose %d more opponents	%s 상대 %d팀을 더 고르세요
+Max games already setup for this opponent team.	이 상대 팀과는 이미 최대 경기 수가 잡혀 있습니다.
+Preseason Schedule	프리시즌 일정
+Check/Uncheck	선택/해제
+Some games previously scheduled needed to be changed in order to create a complete schedule.	전체 일정을 만들기 위해 기존에 잡힌 일부 경기가 변경되었습니다.
+Preseason Scheduler	프리시즌 일정 편성
+This screen allows you to select up to	이 화면에서 프리시즌 일정의
+four opponents for your preseason	상대를 최대 4팀까지 고를 수
+schedule.	있습니다.
+Check/un-check highlighted team	선택 팀 선택/해제
+Generate schedule	일정 만들기
+Display preseason info	프리시즌 정보 표시
+Change conference	컨퍼런스 변경
+Change focus of toggle	전환 대상 변경
+Export Team	팀 내보내기
+Cannot export this team.	이 팀은 내보낼 수 없습니다.
+No user-controlled teams	사용자 조작 팀 없음
+Export your franchise team for use	프랜차이즈 팀을 다른 게임 모드에서
+in other game modes.	쓸 수 있게 내보냅니다.
+Select team	팀 선택
+Export team	팀 내보내기
+FOR USE IN OTHER GAME MODES	다른 게임 모드에서 사용
+EXPORT YOUR CURRENT FRANCHISE TEAM	현재 프랜차이즈 팀 내보내기
+Franchise Team	프랜차이즈 팀
+Franchise	프랜차이즈
+This option cannot be turned back on.	이 옵션은 다시 켤 수 없습니다.
+|Continue|^Cancel	|계속|^취소
+Franchise Settings	프랜차이즈 설정
+Customize franchise settings	프랜차이즈 설정 변경
+Cap Penalties	캡 페널티
+Salary Cap	샐러리캡
+Coaching Changes	감독 교체
+Modify	수정
+Create New	새로 만들기
+Modify Uniform	유니폼 수정
+Features	부가 기능
+Modify Team Uniform	팀 유니폼 수정
+You can modify your team's uniform 	팀 유니폼을 수정할 수
+Create new uniform	새 유니폼 만들기
+Home / Away	홈 / 원정
+Current Uniform	현재 유니폼

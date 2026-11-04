@@ -1,0 +1,324 @@
+# 조작 / 게임 설정 / 오디오 / 플레이북 만들기
+Pump fake	펌프 페이크
+Turn passing icons on/off	패스 아이콘 켜기/끄기
++       Throw ball away	+       공 버리기
+Turn passing icons on / off	패스 아이콘 켜기/끄기
+Hurdle	허들
+Stiff arm right	오른쪽 스티프 암
+Juke left	왼쪽 페이크
+Juke right	오른쪽 페이크
+Stiff arm left	왼쪽 스티프 암
+Dive / QB Slide	다이브 / QB 슬라이드
+Spin	스핀
+Sprint	스프린트
+Cover up ball	공 감싸기
+Stiff arm Left / Right	스티프 암 좌 / 우
+Catch	캐치
+Dive	다이브
+Switch to closest receiver	가까운 리시버로 전환
+Jump / Catch	점프 / 캐치
+Strip ball / Rip or swim	공 빼앗기 / 립 또는 스윔
+Strafe / Rip or swim	스트레이프 / 립 또는 스윔
+Strip ball / Spin right	공 빼앗기 / 오른쪽 스핀
+Swat ball / Spin left	공 쳐내기 / 왼쪽 스핀
+Sprint / Shove blocker	스프린트 / 블로커 밀치기
+Switch to closest defender	가까운 수비수로 전환
+Jump / Catch / Block Pass	점프 / 캐치 / 패스 차단
+Strip ball	공 빼앗기
+Sprint / Shove Blocker	스프린트 / 블로커 밀치기
+Strafe	스트레이프
+Swat ball	공 쳐내기
+D-Line move Left / Right	D라인 이동 좌 / 우
+Swat ball / Rip or swim	공 쳐내기 / 립 또는 스윔
+Strip ball / Spin left	공 빼앗기 / 왼쪽 스핀
+Rip / Spin / Swat ball	립 / 스핀 / 공 쳐내기
+Rip / Spin / Strafe	립 / 스핀 / 스트레이프
+Jump	점프
+Cut block	컷 블록
+Power block	파워 블록
+Switch to closest blocker	가까운 블로커로 전환
+Sprint / Power block	스프린트 / 파워 블록
+Change run/blocking direction	런/블로킹 방향 변경
+Pre-play pass	플레이 전 패스
+Pre-play run	플레이 전 런
+Change primary receiver route	1순위 리시버 루트 변경
+During run	런 도중
+Directs closest blocker	가까운 블로커 지시
+Directs closest receiver	가까운 리시버 지시
+Passing icons up	패스 아이콘 표시
+Mid zone-DL/LB Deep zone CB/S	중간 존-DL/LB 딥 존 CB/S
+Pre-play	플레이 전
+Blitz assignment 	블리츠 지정
+QB Spy	QB 스파이
+Flat zone	플랫 존
+QB contain assignment\r\n	QB 봉쇄 지정\r\n
+View your controller layout	컨트롤러 배치 보기
+Change control mode	조작 모드 변경
+Passing	패싱
+Rushing	러싱
+Receiving	리시빙
+Blocking	블로킹
+Playmaker Offense	플레이메이커 공격
+Playmaker Defense	플레이메이커 수비
+A.I. Settings	AI 설정
+Human	사람
+QB Accuracy	QB 정확도
+Pass Blocking	패스 블로킹
+WR Catching	WR 캐치
+RB Ability	RB 능력
+Run Blocking	런 블로킹
+Awareness	판단력
+Knockdowns	패스 저지
+Interceptions	인터셉트
+Break Block	블록 돌파
+Tackling	태클
+FG Length	필드골 거리
+FG Accuracy	필드골 정확도
+Punt Length	펀트 거리
+Punt Accuracy	펀트 정확도
+Kickoff Length	킥오프 거리
+Fine tune A.I. settings for Offense,	패스, 캐치, 런 보조를 껐을 때
+Defense and Special Teams	공격, 수비, 스페셜 팀의
+when Pass, Catch and Run assists	AI 설정을
+are turned off.	세밀하게 조정합니다.
+Change A.I. category	AI 분류 변경
+Change player type	선수 유형 변경
+Catch Assist	캐치 보조
+Pass Assist	패스 보조
+Run Assist	런 보조
+EAsy Play Settings	EAsy 플레이 설정
+This option is unavailable for All-Pro or All-Madden skill level.	올프로 또는 올매든 난이도에서는 이 옵션을 쓸 수 없습니다.
+EAsy Play is a series of assists to help	EAsy 플레이는 초보자가 게임을
+new users play the game.	쉽게 즐기도록 돕는 보조 기능입니다.
+Kick Assist	킥 보조
+EAsy	EAsy
+Play Call Mode	작전 선택 모드
+Play Clock	플레이 클록
+Play Notification	플레이 알림
+Out Of Range	범위 밖
+Do you want to reset substitutions for this formation?	이 포메이션의 선수 교체를 초기화하시겠습니까?
+Maximum number of substitutions has been exceeded. You must clear substitutions before adding any more.	선수 교체 수가 최대를 넘었습니다. 더 추가하려면 교체를 지워야 합니다.
+Reset Subs	교체 초기화
+Sub players into certain formations	특정 포메이션에 선수 교체
+Change formation	포메이션 변경
+Change unit	유닛 변경
+Previous screen/Cancel sub	이전 화면/교체 취소
+-- After Player is Selected --	-- 선수 선택 후 --
+Select player to sub	교체할 선수 선택
+All options are currently unavailable	지금은 모든 옵션을 쓸 수 없습니다
+All existing injuries will remain until the player(s) have recovered. All future games will not allow injuries to occur.	현재 부상은 선수가 회복할 때까지 유지됩니다. 앞으로의 경기에서는 부상이 발생하지 않습니다.
+Setting Skill Level to All Pro or All Madden will turn off all EAsy Play options.	난이도를 올프로 또는 올매든으로 하면 모든 EAsy 플레이 옵션이 꺼집니다.
+Setting Skill Level to All Madden will turn off all auto assist options, for the Current Active Profile	난이도를 올매든으로 하면 현재 활성 프로필의 모든 자동 보조 옵션이 꺼집니다
+Setting Skill Level from All Madden will set all auto assist options to default, for the Current Active Profile.	난이도를 올매든에서 바꾸면 현재 활성 프로필의 모든 자동 보조 옵션이 기본값이 됩니다.
+1 Minute	1분
+2 Minutes	2분
+3 Minutes	3분
+4 Minutes	4분
+5 Minutes	5분
+6 Minutes	6분
+7 Minutes	7분
+8 Minutes	8분
+9 Minutes	9분
+10 Minutes	10분
+11 Minutes	11분
+12 Minutes	12분
+13 Minutes	13분
+14 Minutes	14분
+15 Minutes	15분
+Adjust gameplay settings from	여기서 게임플레이 설정을 조정합니다
+Game Fatigue	경기 피로도
+Injuries	부상
+Quarter Length	쿼터 길이
+Pre-Existing Injuries	기존 부상
+Accelerated Clock	빠른 시계
+Random Weather	무작위 날씨
+Coach Mode 	감독 모드
+Rumble	진동
+Active Team:	현재 팀:
+Active Profile:	활성 프로필:
+Custom Game Settings	사용자 지정 게임 설정
+Custom Game	사용자 지정 게임
+Custom settings are also saved with	사용자 지정 설정은 사용자 프로필에도
+user profiles and can be set per profile.	저장되며 프로필마다 설정할 수 있습니다.
+Note: Auto sub settings do not affect QBs	참고: 자동 교체 설정은 QB에게 적용되지 않습니다
+Custom settings can be changed on 	사용자 지정 설정은 다음에서 바꿀 수 있습니다:
+Auto Avoid	자동 회피
+Auto Sub In	자동 투입
+Auto Sub Out	자동 교체
+Auto-Subs	자동 교체
+Passing Mode	패스 모드
+Quick	빠름
+Player Lock	선수 고정
+Vibration	진동
+Auto Strafe	자동 스트레이프
+Offense Catch Assist	공격 캐치 보조
+Defense Pass Assist	수비 패스 보조
+Penalty Settings	반칙 설정
+Penalties cannot be turned off unless EAsy Play is on.	EAsy 플레이를 켜지 않으면 반칙을 끌 수 없습니다.
+Fine tune how often these penalties	이 반칙들이 얼마나 자주
+occur.	나오는지 조정합니다.
+Decrease/increase level	수준 내리기/올리기
+Change all levels	모든 수준 변경
+Offsides	오프사이드
+False Start	폴스 스타트
+Roughing The Passer	러핑 더 패서
+Roughing The Kicker	러핑 더 키커
+Holding	홀딩
+Face Mask	페이스 마스크
+Offensive Pass Interference	공격 패스 방해
+Defensive Pass Interference	수비 패스 방해
+KR/PR Catch Interference	KR/PR 캐치 방해
+Clipping	클리핑
+Intentional Grounding	인텐셔널 그라운딩
+Change which team is being	조작할 팀을
+controlled.	바꿉니다.
+Audio Settings	오디오 설정
+Madden Classic	매든 클래식
+Commentary Volume	해설 음량
+On the Field	필드
+PA Volume	장내 방송 음량
+In The Stands	관중석
+In The Booth	중계석
+User/Custom	사용자 지정
+Madden/Michaels	매든/마이클스
+Crowd Chatter	관중 소리
+Player Chatter	선수 대화
+Mono	모노
+Stereo	스테레오
+Dolby Pro Logic±II	돌비 프로 로직±II
+Adjust all audio settings from this	여기서 모든 오디오 설정을 조정합니다
+Commentary	해설
+Sound Mode	사운드 모드
+Audio Perspective	청취 위치
+Speech Volume	음성 음량
+Crowd Volume	관중 음량
+Field Volume	필드 음량
+Master Volume	전체 음량
+Menu Music Volume	메뉴 음악 음량
+Menu SFX Volume	메뉴 효과음 음량
+Visual Settings	화면 설정
+Standard (4:3 TV)	표준 (4:3 TV)
+Letterbox (4:3 TV)	레터박스 (4:3 TV)
+Widescreen (16:9 TV)	와이드 (16:9 TV)
+Number	등번호
+First Down	퍼스트 다운
+Madden Long	매든 롱
+User Defined	사용자 지정
+Adjust visual settings from this screen.	이 화면에서 화면 설정을 조정합니다.
+Auto Instant Replay	자동 인스턴트 리플레이
+Field Lines	필드 라인
+Player Displays	선수 표시
+Screen Format	화면 비율
+no	아니요
+players	선수
+Career stats are displayed at this	이 화면에서 통산 기록을 보여 줍니다
+EA SPORTS° Trax	EA SPORTS° 트랙
+EA SPORTS° TRAX	EA SPORTS° 트랙
+Not changed	변경 없음
+Two Minute Drill - Normal	2분 드릴 - 일반
+Two Minute Drill - Head to Head	2분 드릴 - 대전
+View the High Scores for Two Minute 	2분 드릴과 러싱 어택의
+Drill and Rushing Attack.	최고 점수를 봅니다.
+Change list	목록 변경
+You have no free tracks remaining.	남은 무료 트랙이 없습니다.
+No Tracks Available	트랙 없음
+Track	트랙
+Status	상태
+Madden NFL 2005 Soundtrack	Madden NFL 2005 사운드트랙
+On/Off	켬/끔
+Artist	아티스트
+Title	제목
+Album	앨범
+Soundtrack	사운드트랙
+Free Tracks	무료 트랙
+Soundtracks	사운드트랙
+Select which songs will play in 	Madden NFL 2005에서 재생할
+Madden NFL 2005.	곡을 고르세요.
+Change highlighted song	선택 곡 변경
+Toggle song on or off	곡 켜기/끄기
+Toggle Soundtrack	사운드트랙 전환
+Gamertag	게이머태그
+Persona	페르소나
+GENERAL	일반
+Adjust online settings from	여기서 온라인 설정을 조정합니다
+Fair Play Settings	페어플레이 설정
+In-Game Chat	경기 중 채팅
+In-Game Profanity Filter	경기 중 욕설 필터
+Click           to enter your name.	          버튼으로 이름 입력.
+Press           to enter your name.	          버튼으로 이름 입력.
+New Record	신기록
+Activated	활성화
+Free Tracks: %d	무료 트랙: %d
+Rock	록
+Hip-Hop	힙합
+There are no songs available	곡이 없습니다
+Selecting a different playbook,will erase all user defined formation audibles.	다른 플레이북을 고르면 사용자가 설정한 포메이션 오더블이 모두 지워집니다.
+Formations	포메이션
+View Formation Audibles	포메이션 오더블 보기
+View formation audibles for all formations	플레이북의 모든 포메이션에 대한
+within your playbook.	포메이션 오더블을 봅니다.
+Change highlighted formation	선택 포메이션 변경
+Change highlighted audible	선택 오더블 변경
+formation	포메이션
+Custom Hot Routes - %s	커스텀 핫 루트 - %s
+Custom Hot Routes	커스텀 핫 루트
+Customize your hot routes from this screen.	이 화면에서 핫 루트를 설정합니다.
+Note: Blocking hot routes will be automatically 	참고: 선수가 타이트엔드 사이에 있으면
+assigned to some buttons when the player is	일부 버튼에 블로킹 핫 루트가
+between the tight ends.	자동으로 지정됩니다.
+Change highlighted route	선택 루트 변경
+Select highlighted route	선택 루트 결정
+--- After route is selected ---	--- 루트 선택 후 ---
+Return to route select	루트 선택으로 돌아가기
+Add Plays - Defense	플레이 추가 - 수비
+Add Plays - Offense	플레이 추가 - 공격
+You cannot save an empty playbook.	빈 플레이북은 저장할 수 없습니다.
+You cannot add the same play twice.	같은 플레이를 두 번 추가할 수 없습니다.
+Your playbook cannot hold any more sets. Please remove a set before adding a new one.	플레이북에 세트를 더 넣을 수 없습니다. 새로 추가하려면 세트를 지우세요.
+Your playbook cannot hold any more plays. Please remove a play before adding a new one.	플레이북에 플레이를 더 넣을 수 없습니다. 새로 추가하려면 플레이를 지우세요.
+An unknown error has occurred	알 수 없는 오류가 발생했습니다
+Formation Preview	포메이션 미리 보기
+Play Preview	플레이 미리 보기
+playbook list	플레이북 목록
+Choose Playbook	플레이북 선택
+Remove Play/Set	플레이/세트 제거
+Add Play/Set	플레이/세트 추가
+Sets Selected	선택한 세트
+Current Set	현재 세트
+Modify Playbook	플레이북 수정
+Add or remove plays from your	플레이북에 플레이를
+playbook.	추가하거나 제거합니다.
+Change highlighted play	선택 플레이 변경
+Add/remove the play or set	플레이/세트 추가/제거
+Change play type	플레이 유형 변경
+Plays Selected	선택한 플레이
+PLAY LIST	플레이 목록
+Create-A-Playbook	플레이북 만들기
+A playbook must contain at least one play to be valid. Exit without saving?	플레이북에는 플레이가 하나 이상 있어야 합니다. 저장하지 않고 나가시겠습니까?
+Select Tab	탭 선택
+Create-a-playbook Menu	플레이북 만들기 메뉴
+All create-a-playbook options are	플레이북 만들기의 모든 옵션은
+available through these screens.	이 화면에서 이용할 수 있습니다.
+Save and exit	저장하고 나가기
+add plays	플레이 추가
+create formation	포메이션 만들기
+create play	플레이 만들기
+preview playbook	플레이북 미리 보기
+create-a-playbook	플레이북 만들기
+New Playbook	새 플레이북
+Edit Playbook	플레이북 편집
+Select your base playbook	여기서 기본 플레이북과
+and practice team here.	연습 팀을 고르세요.
+Base Playbook	기본 플레이북
+Practice Team	연습 팀
+Create Formation - Offense	포메이션 만들기 - 공격
+By exiting, the current formation will be lost. Are you sure you want to exit?	나가면 현재 포메이션이 사라집니다. 정말 나가시겠습니까?
+By exiting, changes to the current formation will be lost. Are you sure you want to exit?	나가면 현재 포메이션의 변경 사항이 사라집니다. 정말 나가시겠습니까?
+Your playbook is full. Please remove a formation before creating a new one.	플레이북이 가득 찼습니다. 새로 만들려면 포메이션을 지우세요.
+A formation with this player setup already exists.  Change player locations or use that formation to build your plays with.	같은 선수 배치의 포메이션이 이미 있습니다. 선수 위치를 바꾸거나 그 포메이션으로 플레이를 만드세요.
+You cannot place this player here.	이 선수를 여기에 둘 수 없습니다.
+You cannot place this player because %s	이 선수를 둘 수 없습니다: %s
+Delete this formation?	이 포메이션을 삭제하시겠습니까?
+Rename %s before exiting?	나가기 전에 %s의 이름을 바꾸시겠습니까?
+This formation is invalid because %s	잘못된 포메이션입니다: %s
+You cannot leave this player here. Please move him to a valid location.	이 선수를 여기에 둘 수 없습니다. 올바른 위치로 옮기세요.

@@ -1,0 +1,238 @@
+# 저장/불러오기 / 일시정지 / 플레이 선택
+Load Location	불러올 위치
+Save Location	저장할 위치
+Please insert a\nmemory card (PS2)	메모리 카드(PS2)를\n꽂아 주세요
+No Memory Card found\nin Slot A or Slot B	슬롯 A와 B에\n메모리 카드가 없습니다
+Load	불러오기
+Save	저장
+Status:	상태:
+Save/Load	저장/불러오기
+Where do you want to save or load?	어디에 저장하거나 불러오시겠습니까?
+Previous Screen	이전 화면
+No Memory Card found\r\nin Slot A or Slot B.	슬롯 A와 B에\r\n메모리 카드가 없습니다.
+Filename already exists.	같은 파일 이름이 있습니다.
+Select File	파일 선택
+Delete File	파일 삭제
+File Info	파일 정보
+Save File	파일 저장
+Save or delete your files here.	여기서 파일을 저장하거나 삭제합니다.
+Change file types	파일 종류 변경
+Select file	파일 선택
+Delete file	파일 삭제
+File Name	파일 이름
+Size:	크기:
+Date:	날짜:
+The profile you are replacing is unsaved.\nAny unsaved changes will be lost.	교체할 프로필이 저장되지 않았습니다.\n저장하지 않은 변경 사항은 사라집니다.
+|Continue without saving|^Cancel	|저장하지 않고 계속|^취소
+There are no\r\nitems available	사용 가능한\r\n항목이 없습니다
+Load File	파일 불러오기
+Load or delete your files here.	여기서 파일을 불러오거나 삭제합니다.
+Change file types (when available)	파일 종류 변경 (가능한 경우)
+CHOOSE A FILE TYPE TO SAVE	저장할 파일 종류 선택
+CHOOSE A FILE TYPE TO LOAD	불러올 파일 종류 선택
+Show Changed	변경된 것만
+Show All	모두 보기
+Select Data	데이터 선택
+Autosave: Off	자동 저장: 끔
+Autosave: On	자동 저장: 켬
+There are no items available	사용 가능한 항목이 없습니다
+File Select	파일 선택
+Select your files here to view,	여기서 파일을 골라 보기,
+save, load or delete them.	저장, 불러오기, 삭제를 합니다.
+Note: Save, load, or delete may not be	참고: 경우에 따라 저장, 불러오기, 삭제를
+available in some cases.	할 수 없을 수 있습니다.
+Change file type	파일 종류 변경
+Toggle autosave on/off	자동 저장 켜기/끄기
+Select data	데이터 선택
+Change highlighted data	선택 데이터 변경
+FILE MANAGEMENT	파일 관리
+Pause Menu	일시정지 메뉴
+Half Time	하프타임
+End of Game	경기 종료
+Controller Socket %s	컨트롤러 소켓 %s
+controller port 	컨트롤러 포트
+Quit	그만두기
+End Game	경기 종료
+Resume Game	경기 재개
+All penalties must be resolved before a challenge can be made.	챌린지하려면 먼저 모든 반칙 판정이 끝나야 합니다.
+Challenges cannot be made after accessing Instant Replay.	인스턴트 리플레이를 본 후에는 챌린지할 수 없습니다.
+|Quit|^Cancel	|그만두기|^취소
+|Save Game|Quit|^Cancel	|경기 저장|그만두기|^취소
+Madden challenge is disabled in all saved games.	저장한 경기에서는 매든 챌린지가 꺼집니다.
+Save Game	경기 저장
+Are you sure you want to quit? All current game progress will be lost.	정말 그만두시겠습니까? 현재 경기 진행 상황이 모두 사라집니다.
+|^Gameplay|System|Camera View	|^게임플레이|시스템|카메라 시점
+The game is paused.  Some features	경기가 일시정지되었습니다. 일부 기능은
+that are available are based on the team	일시정지한 팀에 따라
+that paused the game.	다릅니다.
+Quit/Save	그만두기/저장
+Instant Replay	인스턴트 리플레이
+Call Timeout	타임아웃 요청
+Challenge Play	판정 챌린지
+Coaching Strategy	코칭 전략
+Game Stats	경기 기록
+Compare game stats for each team.	양 팀의 경기 기록을 비교합니다.
+Scroll stats	기록 스크롤
+Scoring	득점
+Scoring Summary	득점 요약
+1st	1쿼터
+2nd	2쿼터
+3rd	3쿼터
+4th	4쿼터
+View all points scored in this game.	이 경기의 모든 득점을 봅니다.
+Scroll list	목록 스크롤
+stats/info	기록/정보
+All stats are accessible in this area.	이 영역에서 모든 기록을 볼 수 있습니다.
+scoring	득점
+drive summary	드라이브 요약
+pause	일시정지
+This will cancel the current risk.	현재 리스크가 취소됩니다.
+This will disable Madden Challenge.	매든 챌린지가 꺼집니다.
+market cam	마케팅 캠
+Gameplay settings are accessible from this	이 화면에서 게임플레이 설정을
+controller select	컨트롤러 선택
+Grudge Match	설욕전
+Do you want to restart the situation?	상황을 다시 시작하시겠습니까?
+Do you want to play a grudge match?	설욕전을 하시겠습니까?
+End Game Menu	경기 종료 메뉴
+The game has ended.	경기가 끝났습니다.
+Final Score	최종 점수
+Restart Situation	상황 다시 시작
+Tokens Earned This Game	이번 경기 획득 토큰
+Total Tokens Earned	총 획득 토큰
+Username	사용자 이름
+Level X Tasks	레벨 X 과제
+play	플레이
+Play Cards	카드 사용
+You currently have no Madden Cards to play.	지금 사용할 수 있는 매든 카드가 없습니다.
+No playable Madden Cards	사용 가능한 매든 카드 없음
+Player Cards Available	사용 가능한 선수 카드
+Cheat Cards Available	사용 가능한 치트 카드
+Profile Name	프로필 이름
+Select a card to play from the book.	카드북에서 사용할 카드를 고르세요.
+Each card has a different ability	카드마다 능력과 지속 시간이
+and duration.	다릅니다.
+Select card	카드 선택
+unplayed	미사용
+Substitutions	선수 교체
+Offensive Audibles	공격 오더블
+Defensive Audibles	수비 오더블
+Formation Audibles	포메이션 오더블
+Defensive Assignments	수비 마크 지정
+Coaching Strategies	코칭 전략
+These screens allow you to set	이 화면에서 오더블 설정,
+audibles, make depth chart changes	뎁스 차트 변경, 선수 교체를
+and substitutions.	할 수 있습니다.
+coaching strategy	코칭 전략
+end game	경기 종료
+resume game	경기 재개
+Paused	일시정지
+Controller Socket 	컨트롤러 소켓
+Are you sure you want to quit?	정말 그만두시겠습니까?
+EAsy Play Pause Menu	EAsy 플레이 일시정지 메뉴
+The game is paused. You can view 	경기가 일시정지되었습니다.
+instant replay and call a timeout	인스턴트 리플레이와 타임아웃을 쓸 수 있습니다
+Controller Select	컨트롤러 선택
+Marketing Cam	마케팅 캠
+None selected	선택 없음
+Forced Helmets: %s	강제 헬멧: %s
+enable/disable	켜기/끄기
+Name:	이름:
+Disabled	꺼짐
+Enabled	켜짐
+Drive Summary	드라이브 요약
+No Plays	플레이 없음
+View the drive summary from this screen.	이 화면에서 드라이브 요약을 봅니다.
+Total Plays	총 플레이
+Total Yards	총 야드
+Time Of Possession	공격 시간
+Penalty	반칙
+Pass	패스
+Run	런
+Plays	플레이
+Yards	야드
+audio	오디오
+visual	화면
+system	시스템
+Situation failed. Try again?	상황 실패. 다시 하시겠습니까?
+|^Yes|No	|^예|아니요
+Situation completed successfully.	상황을 성공적으로 완료했습니다.
+No Data	데이터 없음
+Automatic	자동
+Assign Player	선수 지정
+Offensive Player	공격 선수
+Defensive Player	수비 선수
+Set defensive assignments from this screen.	이 화면에서 수비 마크를 지정합니다.
+Assign specific defensive players coverage	특정 수비 선수가 특정 공격 선수를
+of specific offensive players.	맡도록 지정합니다.
+Camera Views	카메라 시점
+Change the gameplay camera from this	이 화면에서 경기 카메라를
+Change camera view	카메라 시점 변경
+Select (user defined)	선택 (사용자 지정)
+Rushing Camera	러싱 카메라
+Passing Camera	패싱 카메라
+Madden	매든
+Classic	클래식
+Zoom	줌
+Widescreen	와이드
+Up/Down	상하
+Tilt	기울기
+Foward	앞뒤
+Practice	연습
+Football 101	풋볼 101
+resume football 101	풋볼 101 재개
+Pause	일시정지
+Controller Socket	컨트롤러 소켓
+controller port	컨트롤러 포트
+Access pause menu screens from	여기서 일시정지 메뉴 화면을
+Return to game	경기로 돌아가기
+Resume Practice	연습 재개
+Re-Spot Ball	볼 위치 재설정
+Choose New Play	새 플레이 선택
+Practice Type	연습 종류
+Normal Plays	일반 플레이
+Offense Only	공격만
+Kickoffs	킥오프
+Select Practice Type	연습 종류 선택
+Change the practice type from	여기서 연습 종류를
+and earned %d tokens.	%d 토큰을 얻었습니다.
+You finished Football 101\r\n	풋볼 101을 마치고\r\n
+Press         to continue	         버튼으로 계속
+COMPLETED	완료
+Package:\n%s	패키지:\n%s
+Random play\n(Current Form.)	무작위 플레이\n(현재 포메이션)
+Random play (All)	무작위 플레이 (전체)
+Flip Play	좌우 반전
+Default	기본
+Select a Formation	포메이션 선택
+Select a Play	플레이 선택
+--- Select a formation ---	--- 포메이션 선택 ---
+Ask Madden	매든에게 묻기
+Package:\r\nCurrent Formation	패키지:\r\n현재 포메이션
+Man Lock	맨 락
+Kick	킥
+Return	리턴
+Defense select a play.	수비: 플레이 선택
+Offense select a play.	공격: 플레이 선택
+select a play.	플레이를 고르세요.
+pro bowl	프로 볼
+rookie	신인
+(NA) Total Points	(해당 없음) 총점
+This play has already	이 플레이는 이미
+been attempted 5 times.	5번 시도했습니다.
+%d Total Points	총 %d점
+%d Points	%d점
+ + %d Juke	 + %d 페이크
+ + %d Break Tackle	 + %d 태클 돌파
+Play Completion (%d)	플레이 성공 (%d)
+Yards Gained (%d)	획득 야드 (%d)
+Special Moves (%d)	특수 동작 (%d)
+Total Tokens	총 토큰
+Total Points	총점
+Pts. This Play	이번 플레이 점수
+Save replay?	리플레이를 저장하시겠습니까?
+WIND	바람
+4th and Inches	4th 앤 인치스
+Time Remaining	남은 시간
+PREVIEW	미리 보기
+DEMO	체험판

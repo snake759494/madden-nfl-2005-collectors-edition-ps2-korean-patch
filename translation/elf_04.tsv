@@ -1,0 +1,249 @@
+# ELF 문자열 4 (수상/경기 진행/반칙)
+Most valuable player of the year	올해의 MVP
+Quarterback of the year	올해의 쿼터백
+Running back of the year	올해의 러닝백
+Wide receiver of the year	올해의 와이드 리시버
+Offensive lineman of the year	올해의 공격 라인맨
+Defensive lineman of the year	올해의 수비 라인맨
+Linebacker of the year	올해의 라인배커
+Defensive back of the year	올해의 디펜시브 백
+Kicker of the year	올해의 키커
+Coach Of The Year	올해의 감독
+Generic Logos	일반 로고
+Alphabet Logos	알파벳 로고
+NFL Logos	NFL 로고
+Historic Logos	역대 로고
+Friends	친구
+Temporary	임시
+Friend Requests	친구 요청
+Tournament Opponents	토너먼트 상대
+Blocked	차단됨
+Games Played:	경기 수:
+Do you want to save?	저장하시겠습니까?
+1 Quarter	1쿼터
+Gene-Spliced Grass	유전자 개량 잔디
+Clear Dome	투명 돔
+Virtual Goal Posts	가상 골대
+Heated Grass	온열 잔디
+Medical Facility	의료 시설
+Laser Surgery Facility	레이저 수술 시설
+Oxygen Tents	산소 텐트
+Celebration	세리머니
+Halftime	하프타임
+Postgame	경기 후
+Ball Boys	볼 보이
+The booth reviews	비디오 판독:
+ the spot out of bounds	 아웃 오브 바운즈 지점
+ the catch	 캐치
+ the fumble	 펌블
+ the ball spot	 볼 위치
+Challenge: Play Reversed!	챌린지: 판정 번복!
+Challenge: Play Stands!	챌린지: 판정 유지!
+Challenge the spot out of bounds?	아웃 오브 바운즈 지점에 챌린지?
+Challenge the catch?	캐치에 챌린지?
+Challenge the fumble?	펌블에 챌린지?
+Challenge the spot of the ball?	볼 위치에 챌린지?
+Nothing to challenge!	챌린지할 것이 없습니다!
+CUSTOM LEAGUE CHAMPION	커스텀 리그 우승
+SUPER BOWL CHAMPION	슈퍼볼 우승
+Hot Route	핫 루트
+Defense pick a play!  %d	수비 측 플레이 선택!  %d
+Out of Bounds!	아웃 오브 바운즈!
+Touchback	터치백
+4th Down!	4th 다운!
+1st Down!	퍼스트 다운!
+Turnover on Downs!	다운 실패로 공수 교대!
+KICK IS GOOD	킥 성공
+CONVERSION SUCCESSFUL	전환 성공
+Formation Shift	포메이션 이동
+LB Audible	LB 오더블
+Line Audible	라인 오더블
+Coverage Audible	커버리지 오더블
+Stiff Arm	스티프 암
+Cover Ball	공 감싸기
+Onside Kick	온사이드 킥
+Max Prot. Punt	최대 보호 펀트
+Max Cover Punt	최대 커버 펀트
+Punt Left	왼쪽 펀트
+Punt Middle	가운데 펀트
+Punt Right	오른쪽 펀트
+Hit Stick	히트 스틱
+Interception	인터셉트
+Offense Recovers	공격 측 리커버
+Defense Recovers	수비 측 리커버
+Kicking Team Recovers	킥 팀 리커버
+%d yard pass from %s to %s	%d야드 패스 %s-%s
+Incomplete pass by %s	%s 패스 실패
+%d yard run by %s	%d야드 런 (%s)
+%d yard field goal by %s	%d야드 필드골 (%s)
+%d yard interception return by %s	%d야드 인터셉트 리턴 (%s)
+%d yard fumble return by %s	%d야드 펌블 리턴 (%s)
+Punt by %s	%s 펀트
+%d yard kick return by %s	%d야드 킥 리턴 (%s)
+Kickoff recovery for touchdown by %s	%s 킥오프 리커버 터치다운
+%d yard punt return by %s	%d야드 펀트 리턴 (%s)
+%d yard penalty	%d야드 반칙
+%s missed extra point	%s 추가 득점 실패
+2pt conversion by %s failed	%s 2점 전환 실패
+%s was sacked for a %d yard loss	%s 색, %d야드 손실
+ (%s Pass to %s)	 (%s-%s 패스)
+ (%s Run)	 (%s 런)
+ (%s Kick)	 (%s 킥)
+ (Extra Point failed)	 (추가 득점 실패)
+ (Conversion failed)	 (전환 실패)
+ (%s Penalty)	 (%s 반칙)
+Fair Catch	페어 캐치
+Press the START	START 버튼을
+button to continue.	눌러 계속하세요.
+All controllers	모든 컨트롤러의
+have been disconnected.	연결이 끊겼습니다.
+Please reconnect and press	다시 연결하고
+the START button to continue.	START 버튼을 눌러 계속하세요.
+in controller port %d has been	(컨트롤러 포트 %d) 연결이
+disconnected.  Please reconnect	끊겼습니다. 다시 연결해
+to continue.	계속하세요.
+ has been	 연결이
+disconnected. Please reconnect	끊겼습니다. 컨트롤러를 다시
+the controller to continue.	연결해 계속하세요.
+GREAT KICK	멋진 킥
+1 quarter	1쿼터
+%d quarters	%d쿼터
+%d weeks	%d주
+Cust. Alt. Home	커스텀 대체 홈
+Cust. Alt. Away	커스텀 대체 원정
+SYSTEM CLOCK	시스템 시계
+is playing %s	%s 출전 중
+No Plays.	플레이 없음.
+Is playing injured	부상 중 출전
+Player: %s %s	선수: %s %s
+Injury: %s	부상: %s
+Length: %s	기간: %s
+%s %s appears to have	%s %s,
+injured his %s on the play.	이번 플레이에서 %s 부상인 듯합니다.
+%d Yd TD Pass	%d야드 TD 패스
+%d Yd TD Run	%d야드 TD 런
+%d Yd TD Fum Ret	%d야드 TD 펌블 리턴
+%d Yd TD Int Ret	%d야드 TD 인터셉트 리턴
+%d Yd TD Ret	%d야드 TD 리턴
+Kick Recovery TD	킥 리커버 TD
+%d Yd FG Att	%d야드 FG 시도
+Safety Punt	세이프티 펀트
+Extra Point	추가 득점
+2 Pt Conv	2점 전환
+%s and Goal	%s 앤 골
+%s and inches	%s 앤 인치스
+%s and %d	%s 앤 %d
+End of 1st Quarter	1쿼터 종료
+End of 2nd Quarter	2쿼터 종료
+End of 3rd Quarter	3쿼터 종료
+End of Overtime Quarter	연장전 종료
+Quarter: %d	쿼터: %d
+%s quarter	%s 쿼터
+DELAY OF GAME	딜레이 오브 게임
+5yd FACEMASK	5야드 페이스마스크
+15yd FACEMASK	15야드 페이스마스크
+KICK CATCH INTERFERENCE	킥 캐치 방해
+FAIR CATCH INTERFERENCE	페어 캐치 방해
+FALSE START	폴스 스타트
+PASS INTERFERENCE	패스 방해
+INTENTIONAL GROUNDING	인텐셔널 그라운딩
+ROUGHING THE PASSER	러핑 더 패서
+RUNNING INTO THE KICKER	러닝 인투 더 키커
+ROUGHING THE KICKER	러핑 더 키커
+UNSPORTSMANLIKE CONDUCT	비신사적 행위
+PERSONAL FOUL	퍼스널 파울
+ILLEGAL PROCEDURE	일리걸 프로시저
+OFF PASS INTERFERENCE	공격 패스 방해
+DEF PASS INTERFERENCE	수비 패스 방해
+ on %s %d	 %s %d
+Attempt PAT	PAT 시도
+Turnover on downs	다운 실패
+%s & Goal	%s 앤 골
+%s & Short	%s 앤 쇼트
+Touchdown	터치다운
+PAT is good	PAT 성공
+Assess on kickoff	킥오프 때 적용
+%d Point	%d점
+Field Goal is good	필드골 성공
+%d (on Kickoff)	%d (킥오프 시)
+End Two Minute Drill	2분 드릴 종료
+End game	경기 종료
+ACCEPT: End Two Minute Drill	수락: 2분 드릴 종료
+ACCEPT: End Turn	수락: 턴 종료
+DECLINE: End Two Minute Drill	거부: 2분 드릴 종료
+DECLINE: End Turn	거부: 턴 종료
+Penalty Accepted!	반칙 수락!
+Penalty Declined!	반칙 거부!
+Max Prot. Pass	최대 보호 패스
+Fake Punt Pass	페이크 펀트 패스
+Fake Punt Pass 2	페이크 펀트 패스 2
+RB Direct Snap Handoff	RB 다이렉트 스냅 핸드오프
+Fake Punt PA Pass	페이크 펀트 PA 패스
+Fake Punt Handoff	페이크 펀트 핸드오프
+Fake Punt FB Pass	페이크 펀트 FB 패스
+RB Direct Snap	RB 다이렉트 스냅
+Fake FG - Pass	페이크 FG - 패스
+Fake FG - PA Pass	페이크 FG - PA 패스
+Fake FG - TE Pass	페이크 FG - TE 패스
+Fake FG-Run	페이크 FG-런
+Spike Ball	스파이크
+QB Kneel	QB 무릎 꿇기
+Fake Spike	페이크 스파이크
+No player available.	가능한 선수가 없습니다.
+%d OF %d FOR %d YARDS	%d/%d, %d야드
+%d TOUCHDOWN%c	%d 터치다운%c
+%d RUSHING TOUCHDOWN%c	%d 러싱 터치다운%c
+%d %s %d YARDS	%d %s %d야드
+%d TACKLES	%d 태클
+%d SACK%c	%d 색%c
+%d FUMBLE FORCED	%d 펌블 유도
+%d RECOVERED FUMBLE%c	%d 펌블 리커버%c
+1 TACKLE	1 태클
+%d Plays	%d 플레이
+%s, %d - %d MPH	%s, %d - %d MPH
+No Profile	프로필 없음
+Punt Max Protect	펀트 최대 보호
+Punt Return Block	펀트 리턴 블록
+Field Goal Block	필드골 블록
+Punt Return Normal	펀트 리턴 일반
+Setting Up Playbook...	플레이북 설정 중...
+No players available	가능한 선수 없음
+PR Yards	펀트 리턴 야드
+KR Yards	킥 리턴 야드
+Off Redzone Att	공격 레드존 시도
+Off Redzone TD	공격 레드존 TD
+Off Redzone FG	공격 레드존 FG
+Off RZ Scoring	공격 레드존 득점
+Def Redzone Att	수비 레드존 시도
+Def Redzone TD	수비 레드존 TD
+Def Redzone FG	수비 레드존 FG
+Def RZ Scoring	수비 레드존 득점
+Penalty  Yards	반칙 야드
+Possession Time	공격 시간
+No Scoring	득점 없음
+Downs	다운
+Ball Carrier	볼 캐리어
+Offense Coach	공격 코치
+Defense Coach	수비 코치
+wide receivers	와이드 리시버
+tight ends	타이트 엔드
+defensive ends	디펜시브 엔드
+defensive tackles	디펜시브 태클
+outside linebackers	아웃사이드 라인배커
+middle linebackers	미들 라인배커
+free safeties	프리 세이프티
+strong safeties	스트롱 세이프티
+active quarterbacks	현역 쿼터백
+active running backs	현역 러닝백
+active wide receivers	현역 와이드 리시버
+active tight ends	현역 타이트 엔드
+active offensive linemen	현역 공격 라인맨
+active defensive linemen	현역 수비 라인맨
+active linebackers	현역 라인배커
+active defensive backs	현역 디펜시브 백
+active kickers	현역 키커
+active punters	현역 펀터
+Maximum number of cards played for this play.	이번 플레이에 쓸 수 있는 카드 수가 최대입니다.
+Wild Card	와일드카드
+Conference	컨퍼런스
+Super Bowl	슈퍼볼

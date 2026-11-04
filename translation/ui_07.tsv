@@ -1,0 +1,224 @@
+# 경기 중 / 계약 / 메모리 카드 팝업
+Press any Button	아무 버튼이나 누르세요
+Press any button	아무 버튼이나 누르세요
+Press Any Button	아무 버튼이나 누르세요
+Show/Hide	보이기/숨기기
+Play	플레이
+Show Current Play	현재 플레이 보기
+2 Minute Warning!	2분 경고!
+timeout - %s	타임아웃 - %s
+Unknown Button	알 수 없는 버튼
+CHALLENGE REPLAY	챌린지 리플레이
+GOAL	골
+Offense pick a play!	공격: 플레이 선택!
+Defense pick a play!	수비: 플레이 선택!
+Field Goal	필드골
+Punt	펀트
+Kickoff	킥오프
+Done picking plays!	플레이 선택 완료!
+CLOCK	시계
+Madden Challenge	매든 챌린지
+POINTS	점수
+Injured Player	부상 선수
+Temp:	기온:
+Wind:	바람:
+End of 4th Quarter	4쿼터 종료
+Player: 	선수:
+Yards: 	야드:
+NFL Ticker	NFL 티커
+4th Quarter	4쿼터
+Horse Trailer Player of the Game	호스 트레일러 경기 MVP
+Turkey Leg Award	터키 레그 상
+PLAYS	플레이
+YARDS	야드
+3RD DOWN CONV.	3다운 성공
+FLAG	반칙
+HANG TIME	체공 시간
+TO REMAINING	남은 타임아웃
+     End of 3rd Quarter     	     3쿼터 종료
+POWER	파워
+ACCURACY	정확도
+Press\r\nto start	눌러서\r\n시작
+Great Kick!	멋진 킥!
+Are you sure that you want to tag the player?	이 선수를 지명(태그)하시겠습니까?
+Done	완료
+Tag Player	선수 태그
+Agent's Response	에이전트 응답
+AGENT'S RESPONSE	에이전트 응답
+You do not have enough salary cap to make this offer.	이 제안을 하기에 캡 여유가 부족합니다.
+1 Year  	1년
+Offer a contract from this screen. Set	이 화면에서 계약을 제안합니다. 선수의
+the player's signing bonus, salary, and 	계약 보너스, 연봉, 계약 기간을
+contract length. The signing bonus is	정하세요. 계약 보너스는 계약
+divided over the length of the contract.	기간에 나뉘어 반영됩니다.
+     after an offer is accepted)	     제안이 수락된 후)
+Edit Player	선수 편집
+Select area to edit.	편집할 항목을 고르세요.
+Appearance	외모
+Build	체격
+Attributes	능력치
+Information	정보
+Career	통산
+Year	연도
+Player information gives the year	선수 정보에서는 선수의 연도별
+by year statistics for a player as	기록과 기타 정보를
+well as other pieces of information.	보여 줍니다.
+Scroll statistics/players	기록/선수 스크롤
+Player information gives information 	선수 정보에서는 선수 능력치와
+such as player attributes and basic	기본 데이터 등을
+player data.	보여 줍니다.
+Scroll players	선수 스크롤
+Year Acquired	입단 연도
+League OPY/DPY	리그 공격/수비 MVP
+How Acquired	입단 경로
+League MVP	리그 MVP
+at %s	@ %s
+The team matchup is displayed at	팀 대진이 표시됩니다
+Overall Record (Streak)	전체 전적 (연속)
+Pass Defense (Rank)	패스 수비 (순위)
+Pass Offense (Rank)	패스 공격 (순위)
+Points/Game (Rank)	경기당 득점 (순위)
+Rush Defense (Rank)	러싱 수비 (순위)
+Rush Offense (Rank)	러싱 공격 (순위)
+Total Defense (Rank)	총 수비 (순위)
+Total Offense (Rank)	총 공격 (순위)
+Turnover Diff (Rank)	턴오버 차 (순위)
+twice on offense.	공격에서 두 번 주전으로 둘 수 없습니다.
+twice on defense.	수비에서 두 번 주전으로 둘 수 없습니다.
+You cannot start a player	한 선수를
+A player can only start in one	선수는 공격이나 수비에서 한
+position on offense or on defense.	포지션에만 주전으로 나설 수 있습니다.
+On defense, MLB2 is considered	수비에서 MLB2도
+a starting position.	주전 포지션으로 간주됩니다.
+twice on offense	공격에서 두 번 주전으로 둘 수 없습니다
+Select a user profile from this screen.	이 화면에서 사용자 프로필을 고르세요.
+Select highlighted profile	선택 프로필 결정
+SELECT PROFILE	프로필 선택
+Play Game - Play this game	경기 플레이 - 이 경기를 플레이
+Simulate Game - Simulate this game	경기 시뮬레이션 - 이 경기를 시뮬레이션
+Simulate Week - Simulate entire week	주간 시뮬레이션 - 한 주 전체 시뮬레이션
+Simulate Season - Simulate season	시즌 시뮬레이션 - 시즌 시뮬레이션
+Play Game	경기 플레이
+Coach %s,	%s 감독님,
+your %s have too few	%s 팀의 선수가 부족합니다:
+Please check roster breakdown.\r\n	로스터 구성을 확인하세요.\r\n
+Information screen	정보 화면
+You need more players on the roster. Go 	로스터에 선수가 더 필요합니다.
+to Rosters and sign free agents to meet	로스터에서 FA 선수와 계약해 요건을
+roster requirements or allow the CPU to 	채우거나 CPU가 자동으로
+handle this automatically for you.	처리하도록 하세요.
+active defensive linemen.	현역 수비 라인맨.
+CPU Sign Player	CPU 선수 계약
+User Sign Player	사용자 선수 계약
+ coach	 감독
+has resigned.	사임했습니다.
+Coach has been released.	감독이 해임되었습니다.
+Information Popup	정보 팝업
+Playbook error	플레이북 오류
+Opponent's Controller	상대 컨트롤러
+Opponent's controller	상대 컨트롤러가
+has been disconnected.	연결 해제되었습니다.
+\nPlease wait...	\n잠시 기다려 주세요...
+The Controller in	다음 컨트롤러가
+in controller port %d	컨트롤러 포트 %d
+controller port %s	컨트롤러 포트 %s
+has been disconnected.\nPlease reconnect and\npress START to continue.	연결 해제되었습니다.\n다시 연결하고\nSTART를 눌러 계속하세요.
+The multitap (for PlayStation± 2)	멀티탭(PlayStation± 2용)이
+The controller in	다음 컨트롤러가
+Warning	경고
+You have been removed from this game due to excessive Controller disconnects.	컨트롤러 연결 해제가 너무 많아 경기에서 제외되었습니다.
+You have been removed from this game due to excessive controller disconnects.	컨트롤러 연결 해제가 너무 많아 경기에서 제외되었습니다.
+You have been removed from this game due to excessive delay.	지연이 너무 심해 경기에서 제외되었습니다.
+|^Quit	|^그만두기
+A controller has been unplugged.	컨트롤러가 빠졌습니다.
+Please reconnect to continue.	다시 연결해 계속하세요.
+A Controller has been unplugged.	컨트롤러가 빠졌습니다.
+has been disconnected. \r\nPlease reconnect\r\nto continue.	연결 해제되었습니다. \r\n다시 연결해\r\n계속하세요.
+          The controller in          	          다음 컨트롤러가
+Formatting	포맷 중
+Renaming	이름 변경 중
+Loading	불러오는 중
+Deleting	삭제 중
+Saving	저장 중
+Do not reset, turn off power, or	리셋하거나 전원을 끄거나
+remove %s	%s을(를) 빼지 마세요
+from MEMORY CARD slot %s	(메모리 카드 슬롯 %s)
+to your %s?	%s에 저장하시겠습니까?
+Some game file(s) have changed.\r\nDo you want to save these changes\r\n	일부 게임 파일이 변경되었습니다.\r\n변경 사항을 저장하시겠습니까?\r\n
+Save Game File(s)	게임 파일 저장
+Use this shortcut to go directly to	이 바로 가기로
+the Memory Card (PS2) screen to	메모리 카드(PS2) 화면으로 가서
+save changed file(s).	변경된 파일을 저장합니다.
+the Memory Unit screen to save	메모리 유닛 화면으로 가서
+changed file(s).	변경된 파일을 저장합니다.
+the Memory Card screen to	메모리 카드 화면으로 가서
+Yes	예
+Continue Without Saving	저장하지 않고 계속
+There is insufficient space on the Memory Card in	다음 슬롯의 메모리 카드에 여유 공간이 부족해
+Memory Card Slot %s to save all types of new files.	메모리 카드 슬롯 %s에 새 파일을 모두 저장할 수 없습니다.
+Memory Card Manager	메모리 카드 관리
+There is insufficient space on each of the Memory Cards in	메모리 카드 슬롯 A와 B의 메모리 카드 모두
+Memory Card Slots A and B to save all types of new files.	새 파일을 모두 저장할 여유 공간이 부족합니다.
+Retry	다시 시도
+Controller is not connected.	컨트롤러가 연결되지 않았습니다.
+Do you want to display	프로그레시브 모드로
+in Progressive Mode?	표시하시겠습니까?
+%s is not inserted.	%s이(가) 꽂혀 있지 않습니다.
+At least %s is needed to save this	이 게임 데이터를 저장하려면 최소 %s이(가)
+game data.  Do you want to start?	필요합니다. 시작하시겠습니까?
+There is less than %s available on the	다음 위치의 여유 공간이 %s 미만입니다:
+%s in MEMORY CARD slot %s.	메모리 카드 슬롯 %s의 %s.
+Some files require up to %s of memory.	일부 파일은 최대 %s이(가) 필요합니다.
+unformatted Memory Card	포맷되지 않은 메모리 카드
+The Memory Card in Slot %s is unformatted and	슬롯 %s의 메모리 카드가 포맷되지 않아
+needs to be formatted. Do you want to format?	포맷이 필요합니다. 포맷하시겠습니까?
+incompatible Memory Card	호환되지 않는 메모리 카드
+corrupt Memory Card	손상된 메모리 카드
+The Memory Card in Slot %s is corrupt and	슬롯 %s의 메모리 카드가 손상되어
+damaged Memory Card	손상된 메모리 카드
+The Memory Card in Slot %s is	슬롯 %s의 메모리 카드가
+damaged and cannot be used.	손상되어 사용할 수 없습니다.
+warning	경고
+unsupported Device	지원하지 않는 장치
+The Device in Slot %s is unsupported. Insert a	슬롯 %s의 장치는 지원하지 않습니다. 저장하려면
+Memory Card to save. Do you wish to continue?	메모리 카드를 꽂으세요. 계속하시겠습니까?
+unformatted %s	포맷되지 않은 %s
+%s in %s	%s (%s)
+is unformatted.  Format now?	포맷되지 않았습니다. 지금 포맷하시겠습니까?
+Format	포맷
+All game data on %s in %s	%s (%s)의 모든 게임 데이터가
+will be erased.  Proceed with format?	지워집니다. 포맷하시겠습니까?
+Format failed.	포맷 실패.
+The %s in %s was removed.	%s (%s)이(가) 빠졌습니다.
+format failed	포맷 실패
+Ok	확인
+Failed to format the	포맷하지 못했습니다:
+damaged %s	손상된 %s
+The %s in %s is	%s (%s)이(가)
+format failed.	포맷 실패.
+load failed	불러오기 실패
+Continue without loading	불러오지 않고 계속
+Delete corrupt file	손상된 파일 삭제
+Delete damaged file	손상된 파일 삭제
+File deleted from %s	%s에서 파일을 삭제했습니다
+in %s %s 	(%s %s)
+file deleted	파일 삭제됨
+Unable to delete from %s	%s에서 삭제할 수 없습니다
+delete failed	삭제 실패
+Existing files may be loaded and overwritten.	기존 파일을 불러오거나 덮어쓸 수 있습니다.
+General Help	일반 도움말
+Note: Not all pop-ups have all of the	참고: 모든 팝업에 모든 옵션이
+options available.	있는 것은 아닙니다.
+Note: Not all pop-ups have all of the 	참고: 모든 팝업에 모든 옵션이
+Space	스페이스
+You cannot enter empty text. Please try again.	빈 텍스트는 입력할 수 없습니다. 다시 입력하세요.
+backspace	지우기
+Caps on/off	대문자 켜기/끄기
+Keyboard 	키보드
+Edit highlighted text from here.	여기서 선택한 텍스트를 편집합니다.
+Accept changes	변경 확정
+Spacebar	스페이스바
+Checking %s	%s 확인 중
+Insufficient Space	공간 부족
+Create New Profile	새 프로필 만들기
+Rename Profile	프로필 이름 변경

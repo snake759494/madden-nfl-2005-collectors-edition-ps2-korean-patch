@@ -1,0 +1,253 @@
+# ELF 문자열 1 (고유명사/도시/선수명은 원문 유지)
+2 Pt. Conv.	2점 전환
+Out of Bounds	아웃 오브 바운즈
+Forc. Fum.	펌블 유도
+Fum. Rec.	펌블 리커버
+Ret. Yds.	리턴 야드
+Blocked FG	FG 블록
+Pass Def.	패스 저지
+Knockout	넉아웃
+Turn. on Downs	다운 실패
+No Points	무득점
+Bonus Points	보너스 점수
+Penetration	돌파
+Goal Line	골라인
+Elapsed Time	경과 시간
+Warning: CHEATER!!!	경고: 반칙!!!
+Warning: Out of Pocket	경고: 포켓 이탈
+Wrong Receiver	잘못된 리시버
+No Receivers Open	빈 리시버 없음
+Out of Pocket	포켓 이탈
+QB On Target	QB 정확
+Catch Bonus	캐치 보너스
+ + Turn Bonus	 + 턴 보너스
+Turn Bonus	턴 보너스
+Human Plow	인간 쟁기
+Loss of Yards	야드 손실
+TD Bonus	TD 보너스
+Fumble Penalty	펌블 감점
+3rd Down	3rd 다운
+TD Penalty	TD 감점
+User Tackle Bonus	사용자 태클 보너스
+Fumble Bonus	펌블 보너스
+Consecutive TD Bonus: %d	연속 TD 보너스: %d
+TD Bonus: %d	TD 보너스: %d
+Fumble Penalty: 100	펌블 감점: 100
+Broken Tackle Bonus: %i	태클 돌파 보너스: %i
+Player Tackle Bonus: 25	선수 태클 보너스: 25
+Hit Stick Bonus: 150	히트 스틱 보너스: 150
+With Hit Stick: %d	히트 스틱: %d
+Consecutive Player Tackle Bonus: %d	연속 선수 태클 보너스: %d
+Tackle For A Loss: %d	태클 포 로스: %d
+Loss Of Yards: %d	야드 손실: %d
+Broken Tackle Bonus: 	태클 돌파 보너스:
+QB-Pocket Presence	QB-포켓 플레이
+LB-Chase and Tackle	LB-추격과 태클
+DB-Swat Ball	DB-공 쳐내기
+DL-Trench Fight	DL-참호전
+K-Clutch Kicking	K-클러치 킥
+P-Coffin Corner Punt	P-코핀 코너 펀트
+QB-Precision Passing	QB-정밀 패스
+RB-Ground Attack	RB-지상 공격
+WR-Catch Ball	WR-볼 캐치
+RB-Rushing Attack	RB-러싱 어택
+Overwrite	덮어쓰기
+Are you sure you want to delete?	삭제하시겠습니까?
+Games Played: %u	경기 수: %u
+Complete	완료
+ Level %u	 레벨 %u
+[This language cannot be displayed]	[표시할 수 없는 언어입니다]
+Offensive Coordinator	공격 코디네이터
+Defensive Coordinator	수비 코디네이터
+Special Teams Coach	스페셜 팀 코치
+Quarterback	쿼터백
+Halfback	하프백
+Fullback	풀백
+Wide Receiver	와이드 리시버
+Tight End	타이트 엔드
+Defensive End	디펜시브 엔드
+Defensive Tackle	디펜시브 태클
+Outside Linebacker	아웃사이드 라인배커
+Middle Linebacker	미들 라인배커
+Cornerback	코너백
+Free Safety	프리 세이프티
+Strong Safety	스트롱 세이프티
+No Users	사용자 없음
+Page %d of %d	%d / %d 페이지
+Card Locked	잠긴 카드
+Buy a New Pack!	새 팩을 사세요!
+Need %d Tokens!	%d 토큰 필요!
+Hands of Glue	접착제 손
+Single Game, IND	한 경기, 개인
+Single Game, Team	한 경기, 팀
+Season, IND	시즌, 개인
+Cheerleader	치어리더
+%s, you can only have %d of any card.	%s, 같은 카드는 %d장까지만 가질 수 있습니다.
+Practice Field	연습장
+Madden Phenomenon	매든 현상
+Evolution of Art in Madden	매든 그래픽의 진화
+Behind the Scenes	비하인드 신
+Music of Madden	매든의 음악
+Production Game Commentary	경기 해설 제작기
+CUSTOM LEAGUE	커스텀 리그
+USER PROFILES	사용자 프로필
+MEMORY CARD (PS2)	메모리 카드(PS2)
+INSIDE EA	인사이드 EA
+OFF CLINIC	공격 클리닉
+MADDEN BOWL	매든 볼
+PREVIEW VIDEO	프리뷰 영상
+SCENES VIDEO	메이킹 영상
+ONLINE SETTINGS	온라인 설정
+CREATE A PLAYBOOK	플레이북 만들기
+CREATE A PLAYER	선수 만들기
+GREAT GAMES	명경기
+CREATE A FAN	팬 만들기
+ALL DEFENSE TEAM	올 디펜스 팀
+NFL STREET VIDEO	NFL STREET 영상
+My client is waiting for your qualifying offer.	제 고객은 퀄리파잉 오퍼를 기다리고 있습니다.
+My client is anxiously waiting for your offer.	제 고객은 제안을 애타게 기다리고 있습니다.
+You may want to re-consider your decision.	결정을 다시 생각해 보시는 게 좋겠습니다.
+The %s have made him an offer. If you match it, he will stay.	%s 팀이 제안했습니다. 같은 조건을 맞추면 잔류합니다.
+Round %d	%d라운드
+All Rounds	전 라운드
+Contract Offered	계약 제안됨
+Making Offers To Players...	선수에게 제안하는 중...
+Shuttle	셔틀런
+Reps	횟수
+Strength	근력
+Accuracy	정확도
+Ability	능력
+Power	파워
+Finalizing Rookie Scouting...	신인 스카우팅 마무리 중...
+Re-signed %s %c.%s	재계약 %s %c.%s
+Signed %s %s %c.%s	계약 %s %s %c.%s
+Re-Signed %s %c.%s	재계약 %s %c.%s
+Released %s %c.%s	방출 %s %c.%s
+Because Of Morale Issues	사기 문제로
+ Restricted Free Agent Signing...	 제한적 FA 계약 중...
+%d Day Left	%d일 남음
+%d Days Left	%d일 남음
+Finalizing Free Agent Signing...	FA 계약 마무리 중...
+Initializing Rookie Scouting...	신인 스카우팅 준비 중...
+Re-Ordering Depth Charts...	뎁스 차트 재정렬 중...
+Drafting Expansion Team...	확장 팀 드래프트 중...
+Signing Draft Picks...	지명 선수 계약 중...
+Signing Free Agents...	FA 선수 계약 중...
+Finalizing Draft...	드래프트 마무리 중...
+Finalizing Expansion Draft...	확장 드래프트 마무리 중...
+Signing Restricted Free Agents...	제한적 FA 계약 중...
+Finalizing Retirements...	은퇴 처리 중...
+Finalizing Re-Signing...	재계약 마무리 중...
+Finalizing Signing Picks...	지명 계약 마무리 중...
+Current Selection: %s	현재 선택: %s
+%s sign %s %s %s to %d-year deal    	%s, %s %s %s와 %d년 계약
+%s sign %s %s to %d-year contract    	%s, %s %s와 %d년 계약
+%s sign %s %s %s to %s deal over %d year%s    	%s, %s %s %s와 %s %d년%s 계약
+%s sign %s %s %s    	%s, %s %s %s 계약
+Please Wait...	잠시 기다려 주세요...
+No user teams available.	사용자 팀이 없습니다.
+%s offer rejected: Signing players not allowed.	%s 제안 거절: 선수 계약 불가.
+%s offer rejected: Not the deal %s  is looking for.	%s 제안 거절: %s이(가) 원하는 계약이 아님.
+%s: %s offer is being considered.	%s: %s 제안 검토 중.
+%s: %s offer was not good enough for top three consideration.	%s: %s 제안은 상위 3위 안에 들지 못했습니다.
+%s offer rejected: %s was treated too badly to want to return.	%s 제안 거절: %s은(는) 대우가 나빠 돌아가길 원치 않음.
+Offer rejected: Signing %s would exceed %s salary cap.	제안 거절: %s 계약 시 %s 캡 초과.
+Offer rejected: Signing %s would exceed the maximum of %d players on %s roster.	제안 거절: %s 계약 시 최대 %d명인 %s 로스터 초과.
+%s Sign %s: %s	%s, %s 계약: %s
+Offer withdrawn: Signing %s would exceed %s salary cap.	제안 철회: %s 계약 시 %s 캡 초과.
+Offer withdrawn: Signing %s would exceed the maximum of %d players on %s roster.	제안 철회: %s 계약 시 최대 %d명인 %s 로스터 초과.
+%s offer to %s has been withdrawn.	%s의 %s 제안이 철회되었습니다.
+%s offer to %s cannot been withdrawn until the next day.	%s의 %s 제안은 다음 날까지 철회할 수 없습니다.
+             Free Agent Signing period has ended.             	             FA 계약 기간이 끝났습니다.
+No Message	메시지 없음
+Unsigned	미계약
+Released	방출
+Run Power	러닝 파워
+Arm strength	어깨 힘
+Pass accuracy	패스 정확도
+Kick power	킥 파워
+Kick Accuracy	킥 정확도
+Run blocking	런 블로킹
+Fumbling	펌블
+Kick return	킥 리턴
+Injury resistance	부상 저항
+No Head Coach	감독 없음
+You cannot edit a player that has been selected to play in the Pro Bowl, if the Pro Bowl has not yet been played.	프로 볼이 아직 열리지 않았다면 프로 볼에 뽑힌 선수는 편집할 수 없습니다.
+I'm tired of being underpaid. I'm holding out.	적게 받는 것도 지쳤어요. 계약을 거부합니다.
+I deserve to be paid more. Re-do my deal.	더 받아야 마땅합니다. 계약을 다시 해 주세요.
+I delivered on the field, now I want to be paid.	필드에서 보여 줬으니 이제 돈을 받고 싶어요.
+My contract is a joke. Give me a new one.	제 계약은 웃음거리예요. 새로 해 주세요.
+You need me, and I need money. Give me a new contract.	팀엔 제가 필요하고 저는 돈이 필요해요. 새 계약을 주세요.
+Trade me. I'll never play another down with this team.	트레이드해 주세요. 이 팀에선 다시 안 뜁니다.
+Trade me now. I need a fresh start.	당장 트레이드해 주세요. 새 출발이 필요해요.
+Start the trade talks. I don't want to play here anymore.	트레이드 협상을 시작하세요. 여기서 더는 뛰기 싫어요.
+Start working the phones. I demand to be traded.	전화를 돌리세요. 트레이드를 요구합니다.
+I demand to be traded. Now!	트레이드를 요구합니다. 당장!
+%d Stats	%d 기록
+Yards    %d	야드     %d
+Pass TDs %d	패스TD   %d
+Rush TDs %d	러싱TD   %d
+Attempts %d	시도     %d
+Rec Yards %d	리시빙야드 %d
+Rec TDs   %d	리시빙TD  %d
+Sacks    %d	색       %d
+Tack  %d	태클  %d
+Sacks %d	색    %d
+Tack      %d	태클      %d
+Pass Def. %d	패스저지  %d
+Yards %d	야드  %d
+ No Season Stats	 시즌 기록 없음
+No Player Selected	선택한 선수 없음
+    No Advice	    조언 없음
+  for CPU teams	  CPU 팀용
+Pro Bowl %d	프로 볼 %d
+  No Career Stats	  통산 기록 없음
+Draft Grade	드래프트 평가
+Contract	계약
+%d Hit: %s	%d 캡 부담: %s
+Contract up: %d	계약 만료: %d
+Bonus: %s	보너스: %s
+Contract: %s	계약: %s
+%s's List	%s의 목록
+Offer List	제안 목록
+Sign Bonus: %s	계약 보너스: %s
+Years: %d	기간: %d년
+Draft Round: %d	드래프트 라운드: %d
+Pick: %d	지명: %d
+Acquired in %d	%d년 입단
+as a Free Agent	FA로 입단
+in the NFL Draft	NFL 드래프트로
+in a Fant. Draft	판타지 드래프트로
+in an Exp. Draft	확장 드래프트로
+Acquired in a	입단 경로:
+Former Team:	이전 팀:
+  No History	  경력 없음
+Out for season	시즌 아웃
+Career ending	선수 생명 종료
+Probable	출전 유력
+Questionable	출전 불투명
+Doubtful	출전 의문
+   No Injuries	   부상 없음
+NFL Icons	NFL 아이콘
+No Icons	아이콘 없음
+Other FAs	다른 FA
+   No Other FAs	   다른 FA 없음
+Our Draft Picks	우리 지명권
+Personal Info	신상 정보
+%s - %s lbs.	%s - %s파운드
+%s Years old	%s세
+%s Years Pro	경력 %s년
+Offense:	공격:
+   Establish Run	   런 위주
+   Ball Control	   볼 컨트롤
+  Vertical Passing	  종패스
+   West Coast	   웨스트 코스트
+Defense:	수비:
+   Shut Down Runs	   런 봉쇄
+   Force the Pass	   패스 유도
+   Disrupt Passing	   패스 방해
+   Contain Passing	   패스 억제
+  Upset Players:	  불만 선수:
+  Morale is good	  사기 좋음
+Our Players	우리 선수
+Preseason Stats	프리시즌 기록

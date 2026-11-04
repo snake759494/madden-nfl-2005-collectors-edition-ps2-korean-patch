@@ -1,0 +1,568 @@
+# 온라인 메뉴(Apt 플래시) 문자열 1 - 앞뒤에 사람 이름이 붙는 조각은 이름 뒤에 오도록 어순을 맞춤
+\nNOTE: Changing your favorite team will reset your Even Teams leaderboard stats.	\n참고: 좋아하는 팀을 바꾸면 이븐 팀 순위표 기록이 초기화됩니다.
+  for team 	  팀:
+ Room Name: 	 방 이름:
+ from\nEA Messenger and your Xbox Live Friends List? Any unread messages from 	 님을\nEA 메신저와 Xbox Live 친구 목록에서 제거할까요? 읽지 않은 메시지(보낸 사람:
+ from\nEA Messenger? Any unread messages from 	 님을\nEA 메신저에서 제거할까요? 읽지 않은 메시지(보낸 사람:
+ from your friends list.\n	 님을 친구 목록에서 제거했습니다.\n
+ has accepted your invitation.	 님이 초대를 수락했습니다.
+ has been added to your friends list.\n	 님이 친구 목록에 추가되었습니다.\n
+ has been blocked.\n	 님을 차단했습니다.\n
+ has been declined.\n	 님의 요청을 거절했습니다.\n
+ has been sent the invitation to play.	 님에게 게임 초대를 보냈습니다.
+ has been unblocked.\n	 님의 차단을 해제했습니다.\n
+ has blocked the challenge.	 님이 도전을 차단했습니다.
+ has blocked the invitation.	 님이 초대를 차단했습니다.
+ has cancelled the Friend Request.	 님이 친구 요청을 취소했습니다.
+ has cancelled the game invitation.	 님이 게임 초대를 취소했습니다.
+ has come back online. Sending game challenge.	 님이 다시 접속했습니다. 게임 도전을 보냅니다.
+ has declined the challenge.	 님이 도전을 거절했습니다.
+ has declined the invitation.	 님이 초대를 거절했습니다.
+ has declined your invitation to play.	 님이 게임 초대를 거절했습니다.
+ has expired.	 이(가) 만료되었습니다.
+ has invited you\nto voice chat.	 님이\n음성 채팅에 초대했습니다.
+ has invited you to play a game in 	 님이 게임에 초대했습니다:
+ has sent a Friend Request to you. If you decline, any unread messages from 	 님이 친구 요청을 보냈습니다. 거절하면 읽지 않은 메시지(보낸 사람:
+ has withdrawn the challenge.	 님이 도전을 철회했습니다.
+ has withdrawn the invitation.	 님이 초대를 철회했습니다.
+ is busy with someone else.\nPlease try again later.	 님은 다른 사람과 함께하는 중입니다.\n나중에 다시 시도하세요.
+ is in voice chat with someone else.\nPlease try again later.	 님은 다른 사람과 음성 채팅 중입니다.\n나중에 다시 시도하세요.
+ is no longer online.\nPlease try again later.	 님은 더 이상 접속해 있지 않습니다.\n나중에 다시 시도하세요.
+ is playing a game with someone else.\nPlease try again later.	 님은 다른 사람과 게임 중입니다.\n나중에 다시 시도하세요.
+ now? This will overwrite any previously existing EA Login.	 을(를) 지금 저장할까요? 기존 EA 로그인 정보를 덮어씁니다.
+ to voice chat.\n\nWaiting for a response...	 님을 음성 채팅에 초대합니다.\n\n응답을 기다리는 중...
+ was not found.	 을(를) 찾지 못했습니다.
+ will be lost.	 이(가) 사라집니다.
+ will be lost.\n	 이(가) 사라집니다.\n
+!Online Team Select	!온라인 팀 선택
+!Quick Tournaments	!빠른 토너먼트
+'. Try Again?	'. 다시 시도할까요?
+, you must remove a friend or blocked player.\n	 님을 추가하려면 친구나 차단한 플레이어를 제거해야 합니다.\n
+- Fetching Recent Games -	- 최근 경기 불러오는 중 -
+- No Recent Games Available -	- 최근 경기 없음 -
+.\nWould you like to try again?	.\n다시 시도할까요?
+32 Player Tournament	32인 토너먼트
+4 Player Quick Tournament	4인 빠른 토너먼트
+8 Player Quick Tournament	8인 빠른 토너먼트
+<Persona Name> IS CHALLENGING YOU	<페르소나> 님의 도전
+<Persona> has invited you\nto voice chat.|NOTE: ACCEPTING THIS INVITE WILL AUTOMATICALLY\nDISCONNECT YOU FROM ANY EXISTING CHAT SESSION.	<페르소나> 님이\n음성 채팅에 초대했습니다.|참고: 초대를 수락하면 진행 중인\n채팅 세션이 자동으로 종료됩니다.
+<Persona> is currently chatting\nwith another player.	<페르소나> 님은 다른 플레이어와\n채팅 중입니다.
+? Once you have made your selection, you cannot change it.	 을(를) 사용할까요? 한 번 선택하면 바꿀 수 없습니다.
+?Delete EA Login	?EA 로그인 삭제
+?Delete Persona	?페르소나 삭제
+?Save account	?계정 저장
+A response has not been received as expected.\nPlease try again later.	예상한 응답을 받지 못했습니다.\n나중에 다시 시도하세요.
+A response has not been received in the expected time.\nPlease try again later.	제한 시간 안에 응답을 받지 못했습니다.\n나중에 다시 시도하세요.
+About to Start	곧 시작
+Accept|Decline|Stop Future Requests	수락|거절|앞으로 요청 받지 않기
+Account Name : 	계정 이름 :
+Action Required	조치 필요
+Add Friend	친구 추가
+Add News	뉴스 추가
+Add to EA Messenger	EA 메신저에 추가
+Address 1	주소 1
+Address 2	주소 2
+Adjust the toggles to determine the quality of opponent you would like to face when using the Play Now feature.	바로 플레이 기능에서 만나고 싶은 상대의 수준을 정하세요.
+Adjusting your Play Now Settings determines the criteria by which EA SPORTSÂ° online will find you an opponent when using both Play Now and Mini-Game match-ups.	바로 플레이 설정은 EA SPORTSÂ° 온라인이 바로 플레이와 미니 게임 대결 상대를 찾는 기준이 됩니다.
+Adjusting your Play Now Settings determines the criteria by which EA SPORTSÂ° online will find you an opponent when using both Play Now and OT Drill match-ups.	바로 플레이 설정은 EA SPORTSÂ° 온라인이 바로 플레이와 연장전 드릴 대결 상대를 찾는 기준이 됩니다.
+Adjusting your Play Now Settings determines the criteria by which EA SPORTSÂ° online will find you an opponent when using both Play Now and Rushing Attack match-ups.	바로 플레이 설정은 EA SPORTSÂ° 온라인이 바로 플레이와 러싱 어택 대결 상대를 찾는 기준이 됩니다.
+Alerts & Reminders	알림 및 리마인더
+All online games require the latest rosters, but you can use older rosters for your offline exhibition or franchise games.	온라인 경기는 모두 최신 로스터가 필요하지만, 오프라인 친선 경기나 프랜차이즈에서는 이전 로스터를 쓸 수 있습니다.
+All tournament games must be played from within the tournament room. Challenge your next opponent to begin.	토너먼트 경기는 모두 토너먼트 방에서 해야 합니다. 다음 상대에게 도전해 시작하세요.
+American Express	아메리칸 익스프레스
+Another player is attempting to win by playing outside the normal and accepted rules of the game.	다른 플레이어가 정상적인 게임 규칙을 어기며 이기려 합니다.
+Another player is constantly using obscene or vulgar language in chat rooms, voice chat, tournament news, or through the EA Messenger.	다른 플레이어가 채팅방, 음성 채팅, 토너먼트 뉴스, EA 메신저에서 계속 음란하거나 저속한 말을 씁니다.
+Another player is disrupting the game experience by yelling or screaming in either a voice or chat session.	다른 플레이어가 음성이나 채팅에서 고함을 질러 게임을 방해합니다.
+Another player is targeting you personally with unwanted attention. You have Blocked that player, but they persist in trying to communicate with you.	다른 플레이어가 원치 않는 관심을 계속 보입니다. 차단했는데도 계속 연락을 시도합니다.
+Another player is using this team.  Please choose another team.	다른 플레이어가 이 팀을 쓰고 있습니다. 다른 팀을 고르세요.
+Appear Online?	접속 상태 표시?
+Are you sure you want to block all future Friend Requests from 	다음 사용자의 친구 요청을 앞으로 모두 차단할까요?
+Are you sure you want to delete this Persona and all of its statistics?	이 페르소나와 모든 기록을 삭제할까요?
+Are you sure you want to join a Quick Tournament? You cannot leave the tournament room until you are eliminated or have won the tournament.	빠른 토너먼트에 참가할까요? 탈락하거나 우승할 때까지 토너먼트 방을 나갈 수 없습니다.
+Are you sure you want to join this tournament? If you abandon this tournament without competing in your games, they will be added to your DNF %.	이 토너먼트에 참가할까요? 경기를 치르지 않고 포기하면 DNF %에 반영됩니다.
+Are you sure you want to remove 	다음 사용자를 제거할까요?
+Are you sure you want to use the 	다음 팀을 사용할까요?
+Are you sure you want to withdraw from this tournament? Withdrawing will increase your DNF%.	이 토너먼트에서 기권할까요? 기권하면 DNF%가 올라갑니다.
+Audio Alerts	소리 알림
+Authenticating DNAS Data	DNAS 데이터 인증 중
+Authenticating DNAS data	DNAS 데이터 인증 중
+AutoSave Manager	자동 저장 관리
+Away User Name: 	원정 사용자 이름:
+Bad Name	부적절한 이름
+Begins In	시작까지
+Begins In:	시작까지:
+Birth Date	생년월일
+Block Player	플레이어 차단
+Blocking User	사용자 차단
+CONNECTION LOST	연결 끊김
+CONTACT INFORMATION	연락처 정보
+Cancel Challenge	도전 취소
+Cancel Friend Request	친구 요청 취소
+Cancel Invitation	초대 취소
+Cancel Request	요청 취소
+Cancel setup and return to the previous screen.	설정을 취소하고 이전 화면으로 돌아갑니다.
+Cancel this feedback.	이 신고를 취소합니다.
+Card Number	카드 번호
+Challenge Expired	도전 만료
+Change highlighted item	선택 항목 변경
+Change page	페이지 변경
+Chat with other players, make friends or just hang out.	다른 플레이어와 채팅하고 친구를 사귀며 함께 즐기세요.
+Check to see if there are any exciting offers available from EA or our premium partners.	EA나 프리미엄 파트너의 특별 이벤트가 있는지 확인하세요.
+Choose a roster set to download.	내려받을 로스터를 고르세요.
+Choose your option	옵션을 고르세요
+Close EA Messenger	EA 메신저 종료
+Confirm Password : 	비밀번호 확인 :
+Confirm Removal	제거 확인
+Connecting to ISP	ISP에 연결 중
+Connecting to other player	상대 플레이어에 연결 중
+Connecting to peer...\n	상대에 연결 중...\n
+Connection Incomplete	연결 미완료
+Connection Lost	연결 끊김
+Connection Type	연결 유형
+Connection failed.	연결에 실패했습니다.
+Contact Information	연락처 정보
+Could not connect to the other player.	상대 플레이어에 연결하지 못했습니다.
+Create A New Name	새 이름 만들기
+Create A Room	방 만들기
+Create EA Account Step 2	EA 계정 만들기 2단계
+Create New Account Name	새 계정 이름 만들기
+Create New EA Account - Step 1	새 EA 계정 만들기 - 1단계
+Create New EA Account - Step 2	새 EA 계정 만들기 - 2단계
+Create New EA Online Account	새 EA 온라인 계정 만들기
+Create New Persona	새 페르소나 만들기
+Create Room	방 만들기
+Create a Persona	페르소나 만들기
+Create a room with these parameters.	이 설정으로 방을 만듭니다.
+Create or change the password needed to log into your personal information at EASports.com.	EASports.com에서 개인 정보에 로그인할 비밀번호를 만들거나 바꿉니다.
+Create or edit a network configuration.	네트워크 설정을 만들거나 편집합니다.
+Create your own room, set parameters, and password protect it if you want to.	직접 방을 만들고 조건을 정하세요. 원하면 비밀번호도 걸 수 있습니다.
+Create your welcome message with the controller or with a USB keyboard. As commissioner, you can change the news as often as you would like.	컨트롤러나 USB 키보드로 환영 메시지를 작성하세요. 커미셔너는 뉴스를 언제든 바꿀 수 있습니다.
+Create your welcome message with the controller. As commissioner, you can change the news as often as you would like.	컨트롤러로 환영 메시지를 작성하세요. 커미셔너는 뉴스를 언제든 바꿀 수 있습니다.
+Created By\n<	만든 사람\n<
+Credit Card	신용카드
+Cross-Game Invitation	다른 게임 초대
+Current Uniform is 	현재 유니폼:
+Custom Search	상세 검색
+DNAS Error	DNAS 오류
+DNAS Error  ###	DNAS 오류  ###
+DNAS logotype is a trademark of Sony Computer Entertainment Inc.	DNAS 로고는 Sony Computer Entertainment Inc.의 상표입니다.
+DNF Limit	DNF 제한
+DNF Limit:	DNF 제한:
+DOWNLOAD ROSTERS	로스터 내려받기
+DUPLICATE EA ACCOUNT NAME	중복된 EA 계정 이름
+DUPLICATE EA PERSONA	중복된 EA 페르소나
+Decline Challenge	도전 거절
+Defensive Playbooks	수비 플레이북
+Defensive Touchdowns	수비 터치다운
+Determine whether you want to play a ranked or unranked tournament.	랭크 토너먼트로 할지 비랭크로 할지 정합니다.
+Determine whether you want to restrict entry to your tournament with a password.	토너먼트 참가에 비밀번호를 걸지 정합니다.
+Determine whether you would like to be informed about EA products, news, and events.	EA 제품, 뉴스, 이벤트 소식을 받을지 정합니다.
+Determine whether you would like to have your contact information shared with premium EA partners.	연락처 정보를 EA 프리미엄 파트너와 공유할지 정합니다.
+Disconnected from Lobby	로비 연결 끊김
+Download Complete	내려받기 완료
+Download Rosters	로스터 내려받기
+Download error	내려받기 오류
+Duplicate EA Account Info	중복된 EA 계정 정보
+EA Account Name: 	EA 계정 이름:
+EA MESSENGER	EA 메신저
+EA Messenger	EA 메신저
+EA Messenger & Ticker	EA 메신저 및 티커
+EA SPORTSÂ° Ticker	EA SPORTSÂ° 티커
+EMail Address	이메일 주소
+EVEN TEAMS	이븐 팀
+Edit My Account	내 계정 편집
+Edit text with this on-screen keyboard.	화면 키보드로 글자를 입력합니다.
+Email Address	이메일 주소
+Email Address : 	이메일 주소 :
+End of Game Stats	경기 종료 기록
+Enter Password	비밀번호 입력
+Enter Room	방 입장
+Enter an Email address for alerts\nand end of game stats.	알림과 경기 종료 기록을 받을\n이메일 주소를 입력하세요.
+Enter information to take advantage of this promotion.	이 프로모션을 이용하려면 정보를 입력하세요.
+Enter your birthdate and gender here.	생년월일과 성별을 입력하세요.
+Enter your credit card information to take advantage of this offer.	이 이벤트를 이용하려면 신용카드 정보를 입력하세요.
+Entering Street Room	스트리트 방 입장 중
+Event Participants	이벤트 참가자
+Exiting online mode will cause you to lose any unread messages in your EA Messenger. Also, you will have to sign in to Xbox Live again to play online. 	온라인 모드를 나가면 EA 메신저의 읽지 않은 메시지가 사라집니다. 온라인 플레이를 하려면 Xbox Live에 다시 로그인해야 합니다.
+Exp. Month	만료 월
+Exp. Year	만료 연도
+Failed to Create Room	방 만들기 실패
+Failed to create room '	방 만들기 실패: '
+Failed to enter the 	입장 실패:
+Fair Play	페어 플레이
+Fair Play?	페어 플레이?
+Fake Kick:	페이크 킥:
+Fake Punt:	페이크 펀트:
+Fatigue - Determine whether you want players to tire during the game.	피로 - 경기 중 선수가 지치게 할지 정합니다.
+Fatigue?	피로?
+Favorite Defensive Formation:	선호 수비 포메이션:
+Favorite Defensive Playbook:	선호 수비 플레이북:
+Favorite Formation:	선호 포메이션:
+Favorite Offensive Formation:	선호 공격 포메이션:
+Favorite Offensive Playbook:	선호 공격 플레이북:
+Favorite Playbook:	선호 플레이북:
+Feedback - 	신고 -
+Feedback - <Persona>	신고 - <페르소나>
+Feedback Recorded - 	신고 접수 -
+Find Player	플레이어 찾기
+Find player	플레이어 찾기
+First Name	이름
+Forgot My Account Name	계정 이름 찾기
+Forgot My Password	비밀번호 찾기
+Forward Instant Messages	메시지 전달
+Friend Request	친구 요청
+GAME EXPERIENCE MAY CHANGE DURING ONLINE PLAY	온라인 플레이 중에는 게임 경험이 달라질 수 있습니다
+GENERAL SETTINGS	일반 설정
+Game Invitation	게임 초대
+Game Invitation Declined	게임 초대 거절됨
+Game Invitation Expired	게임 초대 만료
+Game Mode	게임 모드
+Game Mode:	게임 모드:
+Game Modes	게임 모드
+Games Without Quitting	중도 포기 없는 경기
+General Settings	일반 설정
+Give your room a name\n3 to 12 characters long.	방 이름을 정하세요\n3~12자.
+Goes For It On 4th & 3+ YDS:	4다운 3야드 이상 시도:
+Going to 	이동:
+Good Attitude	좋은 매너
+Great Session	즐거운 경기
+Group Message	단체 메시지
+HOST A TOURNAMENT	토너먼트 개최
+Hail Mary:	헤일 메리:
+Headset Disconnected	헤드셋 연결 끊김
+Home User Name: 	홈 사용자 이름:
+Host A Tournament	토너먼트 개최
+Hot Route:	핫 루트:
+Hrs. Btwn. Rounds	라운드 간격(시간)
+INVITATION DECLINED	초대 거절됨
+INVITATION WITHDRAWN	초대 철회됨
+Incomplete Fields	빈 항목 있음
+Incorrect Password	비밀번호 틀림
+Incorrect password for '	비밀번호가 틀렸습니다: '
+Inform me about EA\r Products, News, and Events?	EA 제품, 뉴스, 이벤트\r 소식 받기?
+Injuries?	부상?
+Invalid Room Name	잘못된 방 이름
+Invitation Expired	초대 만료
+Invite to Voice Chat	음성 채팅 초대
+Inviting <Persona> to voice chat.\n\nWaiting for response...	<페르소나> 님을 음성 채팅에 초대합니다.\n\n응답을 기다리는 중...
+Last Name	성
+Long Field Goals	장거리 필드골
+Lost Account	계정 분실
+MINI GAME	미니 게임
+MY CAREER	내 경력
+MY LEADERBOARD	내 순위표
+MY STATS BOOK	내 기록집
+Master Card	마스터카드
+Maximum DNF%	최대 DNF%
+Move Left	왼쪽으로
+Move Right	오른쪽으로
+Mystery Trophy. Only winning special tournaments will you earn this elusive reward.	미스터리 트로피. 특별 토너먼트에서 우승해야만 얻을 수 있는 귀한 보상입니다.
+Name On Card	카드 명의
+Navigate through the options	옵션 이동
+Navigate tournament tree	토너먼트 대진표 이동
+New Hampshire	뉴햄프셔
+New Jersey	뉴저지
+New York	뉴욕
+Next Round Advances in 	다음 라운드 진행까지
+Next Scheduled Opponent	다음 예정 상대
+No. of Teams:	팀 수:
+North Carolina	노스캐롤라이나
+North Dakota	노스다코타
+Northwest Territories	노스웨스트 준주
+Not Allowed	허용 안 됨
+Not Found	찾을 수 없음
+Not Played Yet	아직 경기 안 함
+ONLINE EVENTS	온라인 이벤트
+ONLINE FAQ	온라인 FAQ
+ONLINE LOBBY	온라인 로비
+OPTIONAL: Please enter additional Address information.\nLimit is 50 characters.	선택: 추가 주소를 입력하세요.\n최대 50자.
+OT DRILL	연장전 드릴
+OT Drill	연장전 드릴
+Offensive Playbooks	공격 플레이북
+Online Events	온라인 이벤트
+Online Lobby 	온라인 로비
+Online Tournaments & Events	온라인 토너먼트 및 이벤트
+Operation Timed Out	작업 시간 초과
+Opponent's DNF%	상대 DNF%
+Opponent's Rank	상대 순위
+Option Play:	옵션 플레이:
+Options are not available for this event.	이 이벤트에는 옵션이 없습니다.
+Options are not available until the tournament begins.	토너먼트가 시작되어야 옵션을 쓸 수 있습니다.
+PLAY NOW SETTINGS	바로 플레이 설정
+PLAYERS ONLINE	접속 중인 플레이어
+Parental Email	보호자 이메일
+Password : 	비밀번호 :
+Play Now	바로 플레이
+Play Now Settings	바로 플레이 설정
+Play Ranked Game	랭크 경기 하기
+Please eject the game disc and replace it with the game disc for 	게임 디스크를 꺼내고 다음 게임 디스크로 바꾸세요:
+Please enter a valid room name.	올바른 방 이름을 입력하세요.
+Please enter the Email address associated with your EA Account Name. We will Email your Account Name to that address.	EA 계정에 등록한 이메일 주소를 입력하세요. 그 주소로 계정 이름을 보내 드립니다.
+Please enter your Address.\nLimit is 50 characters.	주소를 입력하세요.\n최대 50자.
+Please enter your City Name.\nLimit is 50 characters.	도시 이름을 입력하세요.\n최대 50자.
+Please enter your Credit Card Number.\nPlease enter between 15 and 19 digits, no spaces required.	신용카드 번호를 입력하세요.\n15~19자리, 공백 없이 입력하세요.
+Please enter your First Name.\nLimit is 50 characters.	이름을 입력하세요.\n최대 50자.
+Please enter your Full Name as it appears on your Credit Card.\nLimit is 50 characters.	신용카드에 적힌 이름 전체를 입력하세요.\n최대 50자.
+Please enter your Last Name.\nLimit is 50 characters.	성을 입력하세요.\n최대 50자.
+Please enter your Postal Code.\nLimit is 10 characters.	우편번호를 입력하세요.\n최대 10자.
+Please enter your response.\nLimit is 	답변을 입력하세요.\n최대 글자 수:
+Please select Province or Territory.\nSelect one.	주/준주를 고르세요.\n하나를 선택하세요.
+Please select a network configuration. \rThis is where your Internet service provider \rand hardware settings are stored and set.	네트워크 설정을 고르세요. \r인터넷 서비스 제공자와 \r장비 설정을 저장합니다.
+Please select the Expiration Month of your Credit Card.\nSelect one.	신용카드 만료 월을 고르세요.\n하나를 선택하세요.
+Please select the Expiration Year of your Credit Card.\nSelect one.	신용카드 만료 연도를 고르세요.\n하나를 선택하세요.
+Please select your Country.\nSelect one.	국가를 고르세요.\n하나를 선택하세요.
+Please select your Credit Card Provider.\nSelect one.	신용카드 회사를 고르세요.\n하나를 선택하세요.
+Please select your State or District.\nSelect one.	주를 고르세요.\n하나를 선택하세요.
+Please wait...	잠시 기다리세요...
+Please write down the error code number and contact SCEA at 1-866-466-5333 or via SCEA's website, www.us.playstation.com	오류 코드 번호를 적어 두고 SCEA(1-866-466-5333, www.us.playstation.com)에 문의하세요
+Postal Code	우편번호
+Prince Edward Island	프린스에드워드아일랜드
+Private?	비공개?
+Prohibit two or more players from selecting the same team.	두 명 이상이 같은 팀을 고르지 못하게 합니다.
+Promo Code	프로모션 코드
+QUICK MATCH	빠른 매치
+QUICK TOURNAMENT	빠른 토너먼트
+Qtr Length	쿼터 길이
+Qtr. Length:	쿼터 길이:
+Quick Messages	빠른 메시지
+READ MESSAGE	메시지 읽기
+RECENT GAMES	최근 경기
+Randomize team	무작위 팀
+Rank Range	순위 범위
+Rank Range:	순위 범위:
+Read Message	메시지 읽기
+Receive Email	이메일 받기
+Receive updates on important in-game events. Change your Email and SMS information on the Contact Information screen.	게임 속 주요 소식을 받습니다. 이메일과 SMS 정보는 연락처 정보 화면에서 바꾸세요.
+Receive updates on your tournaments and events \r via Email, SMS, or EA Messenger.	토너먼트와 이벤트 소식을 이메일, SMS, \r EA 메신저로 받습니다.
+Recent Games	최근 경기
+Remove Friend	친구 제거
+Response Required	응답 필요
+Restore Default Settings	기본 설정 복원
+Restore these settings to their default values.	이 설정을 기본값으로 되돌립니다.
+Restrict who can enter your room by their current ranking.	현재 순위로 방 입장을 제한합니다.
+Restrict who can enter your tournament based on their connection type.	연결 유형으로 토너먼트 참가를 제한합니다.
+Restrict who can enter your tournament based on their current rank.	현재 순위로 토너먼트 참가를 제한합니다.
+Return to the Online Lobby.	온라인 로비로 돌아갑니다.
+Rhode Island	로드아일랜드
+Room Name	방 이름
+Roster Name	로스터 이름
+Rosters Downloading	로스터 내려받는 중
+SCOUTING REPORT	스카우팅 리포트
+SMS Address	SMS 주소
+SMS Email Address	SMS 이메일 주소
+STATS LEADERS	기록 순위
+Save Changes?	변경 사항을 저장할까요?
+Save My Settings	내 설정 저장
+Save these settings.	이 설정을 저장합니다.
+Scrambles On Pass Play:	패스 때 스크램블:
+Scroll chat window	채팅 스크롤
+Scroll through a list of stats, including the teams a player has used or won a game with.	플레이어가 사용하거나 이긴 팀 등 기록 목록을 넘겨 봅니다.
+Scroll through list of tournaments	토너먼트 목록 스크롤
+Scroll through tournament settings	토너먼트 설정 스크롤
+Scroll to Next Team	다음 팀
+Scroll to Previous Team	이전 팀
+Scroll tournament news	토너먼트 뉴스 스크롤
+Search For A Tournament	토너먼트 검색
+Search Results	검색 결과
+Search for a specific tournament.	특정 토너먼트를 찾습니다.
+Search for tournaments sponsored by EA or EA partners.	EA나 EA 파트너가 후원하는 토너먼트를 찾습니다.
+Search for tournaments that are scheduled to begin soon.	곧 시작할 토너먼트를 찾습니다.
+Search returned 	검색 결과:
+Searching for 	검색 중:
+Searching for another player...	상대 플레이어를 찾는 중...
+Searching for tournaments...	토너먼트를 찾는 중...
+Select EA Online Account	EA 온라인 계정 선택
+Select Network Configuration	네트워크 설정 선택
+Select Room	방 선택
+Select Your Team	팀 선택
+Select a saved network configuration, create a new one, or edit an existing one.	저장된 네트워크 설정을 고르거나, 새로 만들거나, 기존 설정을 편집하세요.
+Select a tournament name from 3 to 12 characters long.	토너먼트 이름을 3~12자로 정하세요.
+Select an EA SPORTSÂ° Persona	EA SPORTSÂ° 페르소나 선택
+Select an EA SPORTSÂ° Persona for your online identity.	온라인에서 쓸 EA SPORTSÂ° 페르소나를 고르세요.
+Select an EA SPORTSÂ° Persona.  The Persona is used to track your online stats.	EA SPORTSÂ° 페르소나를 고르세요. 페르소나로 온라인 기록이 관리됩니다.
+Select how long you want the games to be. Ranked games use 5 minute quarters.	경기 길이를 정하세요. 랭크 경기는 쿼터당 5분입니다.
+Select how long you want the rounds in your tournament to be.	토너먼트 라운드 기간을 정하세요.
+Select how many players you'd like to play with.	함께할 플레이어 수를 정하세요.
+Select if you want to play games with EA's Fair Play settings turned on.	EA 페어 플레이 설정을 켜고 경기할지 정하세요.
+Select one of four difficulty settings.	네 가지 난이도 중 하나를 고르세요.
+Select player	플레이어 선택
+Select the EA Online Account  you want to use.	사용할 EA 온라인 계정을 고르세요.
+Select the highlighted option	선택한 옵션 결정
+Select the number of hours between rounds.	라운드 사이 간격(시간)을 정하세요.
+Select the number of teams playing in your tournament.	토너먼트 참가 팀 수를 정하세요.
+Select the options you want for your tournament.  You can participate in up to 5 tournaments at a time.	토너먼트 옵션을 고르세요. 동시에 최대 5개 토너먼트에 참가할 수 있습니다.
+Select the team you would like to use.	사용할 팀을 고르세요.
+Select the team you would like to use. Once selected, you cannot change your team.	사용할 팀을 고르세요. 한 번 고르면 바꿀 수 없습니다.
+Select the team you would like to use. You can also change playbooks and uniforms here.	사용할 팀을 고르세요. 여기서 플레이북과 유니폼도 바꿀 수 있습니다.
+Select whether one team can be used by more than one player.	한 팀을 여러 플레이어가 쓸 수 있는지 정합니다.
+Select whether you want a ranked or unranked game.	랭크 경기인지 비랭크 경기인지 정합니다.
+Select whether you want your opponent's voice to be heard through your headset or your TV speakers.	상대 목소리를 헤드셋으로 들을지 TV 스피커로 들을지 정합니다.
+Select which room you would like to enter, or create your own.	들어갈 방을 고르거나 직접 만드세요.
+Select your favorite team. 	좋아하는 팀을 고르세요.
+Send Group Message	단체 메시지 보내기
+Send Message	메시지 보내기
+Send to EA Messenger?	EA 메신저로 보내기?
+Send to Email?	이메일로 보내기?
+Send to SMS?	SMS로 보내기?
+Sending Response	응답 보내는 중
+Server Error	서버 오류
+Set Restrictions	제한 설정
+Set a password from 3 to 12 characters long.	비밀번호를 3~12자로 정하세요.
+Set how long you want each quarter to be in unranked games.	비랭크 경기의 쿼터 길이를 정합니다.
+Set how long you want the sign-up period to be for your tournament.	토너먼트 참가 신청 기간을 정합니다.
+Set limits on the type of player who can join your tournament. Be careful not to accidentally restrict yourself.	토너먼트에 참가할 수 있는 플레이어를 제한합니다. 실수로 자신까지 막지 않도록 주의하세요.
+Set restrictions on who can enter your tournament.	토너먼트 참가 제한을 정합니다.
+Set the Quick Messages for the Q1 - Q9 keys on the keyboard screen.	키보드 화면의 Q1~Q9 키에 넣을 빠른 메시지를 정합니다.
+Set the Quick Messages for the Q1 - Q9 keys on your keyboard	키보드의 Q1~Q9 키에 넣을 빠른 메시지를 정합니다
+Set the default message for your Quick Keys. These are the Q1 - Q9 keys found at the top of the keyboard.	빠른 키의 기본 메시지를 정합니다. 키보드 맨 위의 Q1~Q9 키입니다.
+Set the difficulty for unranked games.	비랭크 경기 난이도를 정합니다.
+Set what type of information you would like to receive on your EA SPORTSÂ° Ticker.	EA SPORTSÂ° 티커로 받을 정보를 정합니다.
+Set whether players get hurt or not in unranked games.	비랭크 경기에서 부상을 켤지 정합니다.
+Set whether you want an audio alert to play when you receive an item in EA Messenger.	EA 메신저에 새 항목이 오면 알림음을 울릴지 정합니다.
+Set whether you want to appear online or offline when you are logged in.	로그인했을 때 접속 중으로 보일지 오프라인으로 보일지 정합니다.
+Set whether you want to have your EA Messenger messages forwarded to your Email address when you are offline.	오프라인일 때 EA 메신저 메시지를 이메일로 전달할지 정합니다.
+Set which players can send you a voice chat invitation. An Xbox Communicator is needed to chat.	음성 채팅 초대를 보낼 수 있는 플레이어를 정합니다. 채팅하려면 Xbox Communicator가 필요합니다.
+Set which players you want to receive challenges from.	도전을 받을 플레이어를 정합니다.
+Set which players you want to receive voice chat invitations from.  You must have a USB headset to chat.	음성 채팅 초대를 받을 플레이어를 정합니다. 채팅하려면 USB 헤드셋이 필요합니다.
+Set your favorite team, chat options and Fair Play settings.	좋아하는 팀, 채팅 옵션, 페어 플레이 설정을 정합니다.
+Share With EA?	EA와 공유?
+Share With Others?	제3자와 공유?
+Share my info with\r premium EA Partners?	내 정보를 EA 프리미엄\r 파트너와 공유?
+South Carolina	사우스캐롤라이나
+South Dakota	사우스다코타
+Sponsored Tournament	후원 토너먼트
+Stop Future Requests	앞으로 요청 받지 않기
+Submit Challenge	도전 보내기
+Submit Invitation	초대 보내기
+TOURNAMENT NEWS	토너먼트 뉴스
+TROPHY CASE	트로피 진열장
+Tailor the way you would like to receive alerts and information while online.	온라인에서 알림과 정보를 받는 방식을 정합니다.
+Team Faced	상대한 팀
+Team Options	팀 옵션
+Team Usage	팀 사용
+Team Used	사용한 팀
+Terminate this Voice Chat	이 음성 채팅 끝내기
+Thank you for providing feedback on this player to EA Customer Service.  If necessary, we will investigate the situation and take any appropriate action.	이 플레이어에 대해 EA 고객 서비스에 알려 주셔서 감사합니다. 필요하면 조사해 알맞은 조치를 하겠습니다.
+That EA Account Name already exists. You may choose a new one from the list below or create a new name:	이미 있는 EA 계정 이름입니다. 아래 목록에서 고르거나 새 이름을 만드세요:
+That Persona already exists. You may choose a new one from the list below or create a new Persona:	이미 있는 페르소나입니다. 아래 목록에서 고르거나 새 페르소나를 만드세요:
+That is the incorrect password for 	비밀번호가 틀렸습니다:
+That team has already been selected by another player. Please pick a different team.	다른 플레이어가 이미 고른 팀입니다. 다른 팀을 고르세요.
+That tournament name is already taken. Please create a different name.	이미 쓰는 토너먼트 이름입니다. 다른 이름을 정하세요.
+The EA Messenger lets you communicate with friends.  You can challenge, message, initiate voice chat and more.	EA 메신저로 친구와 소통하세요. 도전, 메시지, 음성 채팅 등을 할 수 있습니다.
+The EA alerts server is not responding\nat the moment. Please try again later.	EA 알림 서버가 지금\n응답하지 않습니다. 나중에 다시 시도하세요.
+The challenge from 	도전(보낸 사람):
+The challenge to 	도전(받는 사람):
+The following fields need to be completed:\n	다음 항목을 채워야 합니다:\n
+The host of your tournament has the option to enter news here. Come back often to check for updates.	토너먼트 주최자가 여기에 뉴스를 올릴 수 있습니다. 자주 확인하세요.
+The name you chose is already taken. You can create a new name, or select one provided for you.	이미 쓰는 이름입니다. 새 이름을 만들거나 제시된 이름을 고르세요.
+The other player has been helpful to you, either during a game or simply while chatting online.	상대 플레이어가 경기 중이나 온라인 채팅에서 도움을 주었습니다.
+The other player is a good competitor who participates in the spirit of the game whether winning or losing.	상대 플레이어는 이기든 지든 정정당당한 좋은 경쟁자입니다.
+The other player is using an offensive name or has created an offensive room or tournament name.	상대 플레이어가 부적절한 이름을 쓰거나 부적절한 방이나 토너먼트 이름을 만들었습니다.
+The other player's Friends List is currently full. Please try again later.\n	상대 플레이어의 친구 목록이 가득 찼습니다. 나중에 다시 시도하세요.\n
+The request from 	요청(보낸 사람):
+The request to the EA server has timed out. Please try again later.	EA 서버 요청 시간이 초과되었습니다. 나중에 다시 시도하세요.
+The request to the EA tournament server has timed out.	EA 토너먼트 서버 요청 시간이 초과되었습니다.
+The system will seek out only potential opponents \r of a certain rank.	일정 순위의 상대만 \r 찾습니다.
+The system will seek out only potential opponents \r on this type of connection.	이 연결 유형의 상대만 \r 찾습니다.
+The text you have entered is not acceptable.	입력한 글은 사용할 수 없습니다.
+The tournament could not be found.	토너먼트를 찾을 수 없습니다.
+The tournament has expired.	토너먼트가 만료되었습니다.
+The tournament name is invalid.	토너먼트 이름이 올바르지 않습니다.
+The tournament tree gives you the big picture for your entire tournament.	대진표로 토너먼트 전체 상황을 볼 수 있습니다.
+There was a problem accessing the EA server.  All online features are currently unavailable.  Exit online and try again later.	EA 서버에 접속하는 중 문제가 생겼습니다. 지금은 온라인 기능을 쓸 수 없습니다. 온라인을 나가 나중에 다시 시도하세요.
+There was a problem with the download.  Please try again later.	내려받기에 문제가 생겼습니다. 나중에 다시 시도하세요.
+There was an error entering the WBOC street room.	WBOC 스트리트 방 입장 중 오류가 생겼습니다.
+This Persona is used to track your statistics in all EA online games. Deleting this Persona will result in those statistics being lost.	이 페르소나로 모든 EA 온라인 게임 기록이 관리됩니다. 삭제하면 기록이 사라집니다.
+This feature is not available in the E3 demo. Good things come to those who wait.	E3 체험판에서는 쓸 수 없는 기능입니다. 조금만 기다려 주세요.
+This is the headquarters for your tournament. Check out news, restrictions and settings.	토너먼트 본부입니다. 뉴스, 제한, 설정을 확인하세요.
+This is the starting point for all of your tournaments and online events.	모든 토너먼트와 온라인 이벤트의 출발점입니다.
+This screen displays a player's hard-earned trophies and medals.	플레이어가 힘들게 얻은 트로피와 메달을 보여 줍니다.
+This screen is a snapshot of a player's general tendencies.	플레이어의 전반적인 성향을 보여 줍니다.
+This screen shows a player's last few games. Select an opponent to see that player's recent games.	플레이어의 최근 경기를 보여 줍니다. 상대를 고르면 그 플레이어의 최근 경기를 볼 수 있습니다.
+This screen shows the results of  your tournament search.	토너먼트 검색 결과입니다.
+This tournament is private. Please enter the password.	비공개 토너먼트입니다. 비밀번호를 입력하세요.
+Timeout occurred. Please try again later.\n	시간이 초과되었습니다. 나중에 다시 시도하세요.\n
+Toggle Gamertag for group message	단체 메시지 게이머태그 선택
+Toggle Persona Name for group message	단체 메시지 페르소나 선택
+Toggle network configuration	네트워크 설정 바꾸기
+Tournament Name	토너먼트 이름
+Tournament News	토너먼트 뉴스
+Tournament Search	토너먼트 검색
+Tournament is completed.	토너먼트가 끝났습니다.
+Tournament is expired.	토너먼트가 만료되었습니다.
+Tournament tree	토너먼트 대진표
+Turn EA's Fair Play settings on or off for unranked games.	비랭크 경기의 EA 페어 플레이 설정을 켜거나 끕니다.
+Uniform: Not Available	유니폼: 사용 불가
+Unique Teams	팀 중복 금지
+United States of America	미국
+Unknown tournament format.	알 수 없는 토너먼트 형식입니다.
+Use Existing EA Account	기존 EA 계정 사용
+Use Existing EA Online Account	기존 EA 온라인 계정 사용
+Use this screen to search for tournaments by name or type.	이름이나 종류로 토너먼트를 찾습니다.
+Use your controller to navigate through the online menus.	컨트롤러로 온라인 메뉴를 이동하세요.
+VOICE CHAT	음성 채팅
+View Career	경력 보기
+View Challenge	도전 보기
+View Friend Request	친구 요청 보기
+View Game Invitation	게임 초대 보기
+View Recent Offers	최근 이벤트 보기
+View Voice Chat Invitation	음성 채팅 초대 보기
+Voice Chat Invitation	음성 채팅 초대
+Voice Chat Invites	음성 채팅 초대
+Voice Speaker	음성 스피커
+Voice chat connection aborted.	음성 채팅 연결이 중단되었습니다.
+Voice chat connection failed.	음성 채팅 연결에 실패했습니다.
+Voice chat session activated.	음성 채팅이 시작되었습니다.
+WARNING!  Going into game will delete any unread messages  and lose any unsaved settings.\r	경고! 경기를 시작하면 읽지 않은 메시지가 지워지고 저장하지 않은 설정이 사라집니다.\r
+WARNING!  Going into game will delete any unread messages and lose unsaved settings.\r	경고! 경기를 시작하면 읽지 않은 메시지가 지워지고 저장하지 않은 설정이 사라집니다.\r
+WBOC Address:	WBOC 주소:
+WBOC Game	WBOC 경기
+Waiting for 	기다리는 중:
+Waiting for tournament participants.	토너먼트 참가자를 기다리는 중입니다.
+Want to know where everyone stands? You've come to the right place.	모두의 순위를 여기서 확인하세요.
+Web Password	웹 비밀번호
+West Virginia	웨스트버지니아
+Xbox Communicator Disconnected	Xbox Communicator 연결 끊김
+You are already participating in this tournament.	이미 이 토너먼트에 참가 중입니다.
+You are not old enough to join EA SPORTSÂ° Online without providing a parent or guardian's Email address. \r\r	보호자 이메일 주소 없이 EA SPORTSÂ° 온라인에 가입할 수 있는 나이가 아닙니다. \r\r
+You are not participating in this tournament.	이 토너먼트에 참가하고 있지 않습니다.
+You are playing in a Quick Tournament. If you leave the room you will forfeit your place in the tournament. Are you sure you want to leave?	빠른 토너먼트 진행 중입니다. 방을 나가면 토너먼트 자리를 잃습니다. 나갈까요?
+You are unable to connect to the EA server at this time.	지금은 EA 서버에 연결할 수 없습니다.
+You are unable to join this tournament because it is now full.	토너먼트 인원이 가득 차 참가할 수 없습니다.
+You can always review this promotion by visiting Contact Information in the My 	이 프로모션은 언제든 다음 메뉴의 연락처 정보에서 다시 볼 수 있습니다:
+You can not perform actions on your own Gamertag.	자신의 게이머태그에는 할 수 없습니다.
+You can not perform actions on your own Persona Name.	자신의 페르소나에는 할 수 없습니다.
+You cannot perform actions on yourself	자신에게는 할 수 없습니다
+You created this tournament and therefore must select a team.	토너먼트를 만든 사람은 팀을 골라야 합니다.
+You do not have the most current online rosters. Please go to Download Rosters to get the latest version.	최신 온라인 로스터가 없습니다. 로스터 내려받기에서 최신 버전을 받으세요.
+You do not meet the requirements to enter this tournament.	이 토너먼트의 참가 조건을 충족하지 못합니다.
+You have been disconnected, press          to sign in again.	연결이 끊겼습니다.          버튼으로 다시 로그인하세요.
+You have been disconnected, press         to sign in again.	연결이 끊겼습니다.         버튼으로 다시 로그인하세요.
+You have entered an invalid password.	비밀번호가 올바르지 않습니다.
+You have reached the limit of 100 friends in your list. To add 	친구 목록이 100명으로 가득 찼습니다. 다음 사용자:
+You have reached the maximum amount of tournament news that you can enter for this tournament.	이 토너먼트에 올릴 수 있는 뉴스 수가 최대입니다.
+You have reached the maximum number of tournaments in which you can participate.	참가할 수 있는 토너먼트 수가 최대입니다.
+You have removed 	제거했습니다:
+You have sent a Friend Request to 	친구 요청을 보냈습니다:
+You must go through Sony's Dynamic Network Authentication System.	Sony의 동적 네트워크 인증 시스템(DNAS)을 거쳐야 합니다.
+You must have the latest rosters in order to log in.	로그인하려면 최신 로스터가 필요합니다.
+You must have the latest rosters in order to sign in.	로그인하려면 최신 로스터가 필요합니다.
+You need to have an EA Online Account in order to play on this service.	이 서비스를 이용하려면 EA 온라인 계정이 필요합니다.
+You will no longer receive Messages or Challenges from them.\n	앞으로 그 사용자의 메시지와 도전을 받지 않습니다.\n
+You will no longer receive Messages, Challenges, or Voice Chat sessions from 	앞으로 다음 사용자의 메시지, 도전, 음성 채팅을 받지 않습니다:
+Your Account Name and Password must be 4 - 16 characters.  Please note: your password is case sensitive.	계정 이름과 비밀번호는 4~16자여야 합니다. 비밀번호는 대소문자를 구분합니다.
+Your USB headset has become disconnected.\nYou will not be able to send or receive voice chat invitations without it.	USB 헤드셋 연결이 끊겼습니다.\n헤드셋이 없으면 음성 채팅 초대를 주고받을 수 없습니다.
+Your Xbox Communicator has become disconnected.\nYou will not be able to send or receive voice chat invitations without it.	Xbox Communicator 연결이 끊겼습니다.\n없으면 음성 채팅 초대를 주고받을 수 없습니다.
+Your voice chat connection has been lost.	음성 채팅 연결이 끊겼습니다.
+quick match	빠른 매치
+|Exit Online|^Cancel	|온라인 종료|^취소
+|Sign Out|^Cancel	|로그아웃|^취소
+|^Log Out	|^로그아웃
+|^New Search|Cancel	|^새 검색|취소
+|^Retry|Log Out	|^재시도|로그아웃
+|^Retry|Sign Out	|^재시도|로그아웃
+|^Sign Out	|^로그아웃
+|^Tournament Tree       |Cancel       	|^대진표       |취소
+|^Tournament Tree       |Withdraw       |Cancel       	|^대진표       |기권       |취소
+Back	뒤로
+Select	선택

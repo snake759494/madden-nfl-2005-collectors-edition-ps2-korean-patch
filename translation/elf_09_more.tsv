@@ -1,0 +1,100 @@
+# ELF 문자열 9 - 로딩 화면 매든 연혁, 프랜차이즈 진행, 저장 확인, EA SPORTS 바이오 (2차 점검에서 추가)
+\nBroken Tackle Bonus: %i	\n태클 돌파 보너스: %i
+Consecutive Player Tackle Bonus\nWith Hit Stick: %d	히트 스틱 연속\n태클 보너스: %d
+\nBroken Tackle Bonus: 	\n태클 돌파 보너스:
+cause you to lose accomplishments and time logged in other EA SPORTS° games	다른 EA SPORTS° 게임의 업적과 플레이 시간 기록이 사라집니다
+By deleting your EA SPORTS° Bio, you will lose accomplishments and time logged in other EA SPORTS° games.\nAre you sure you want to delete?	EA SPORTS° 바이오를 삭제하면 다른 EA SPORTS° 게임의 업적과 플레이 시간 기록이 사라집니다.\n삭제할까요?
+EA SPORTS° Level %u	EA SPORTS° 레벨 %u
+Projected\n Round	예상\n 라운드
+%s\nRe-signed %s %c.%s	%s\n재계약 %s %c.%s
+%s\nSigned %s %s %c.%s	%s\n계약 %s %s %c.%s
+%s\nRe-Signed %s %c.%s	%s\n재계약 %s %c.%s
+%s\nReleased %s %c.%s	%s\n방출 %s %c.%s
+%s\nReleased %s %c.%s\nBecause Of Morale Issues	%s\n방출 %s %c.%s\n사기 문제
+Initializing\n Restricted Free Agent Signing...	제한 FA 계약\n 준비 중...
+Signing Free Agents...\nXXX Days Left	FA 계약 중...\nXXX일 남음
+Signing Free Agents...\n%d Day Left	FA 계약 중...\n%d일 남음
+Signing Free Agents...\n%d Days Left	FA 계약 중...\n%d일 남음
+Drafting...\nRound #%d, Pick #%d	드래프트 중...\n%d라운드 %d순위
+Projecting Draft Selections...\nRound #%d	드래프트 예측 중...\n%d라운드
+                                              Round: %d	                                              라운드: %d
+The Sign Free Agents option under Coach Options is set to "CPU". This option must be set to "User" in order to perform this task	코치 옵션의 FA 계약 옵션이 "CPU"로 되어 있습니다. 이 작업을 하려면 "사용자"로 변경해야 합니다
+The %s have an\noffer to your coach	%s 팀이 내 코치에게\n제안했습니다
+The %s have an\noffer to the %s coach	%s 팀이 %s 코치에게\n제안했습니다
+You must go to the Sign\nCoach screen to make\nan offer to a coach	코치에게 제안하려면\n코치 계약 화면으로\n가야 합니다
+You have made an offer to\n%s	다음 코치에게\n제안했습니다: %s
+The %s have made an\noffer to %s	%s 팀이 %s에게\n제안했습니다
+\nYear %d	\n%d년차
+th Place	위
+Games \nPlayed	출전\n경기
+Off RZ\nAtt	공격RZ\n시도
+Off RZ\nScore%	공격RZ\n득점%
+Off RZ\nTD	공격RZ\nTD
+Off RZ\nFG	공격RZ\nFG
+Def RZ\nAtt	수비RZ\n시도
+Def RZ\nScore%	수비RZ\n득점%
+Def RZ\nTD	수비RZ\nTD
+Def RZ\nFG	수비RZ\nFG
+Top 1000	상위 1000
+Top 5000	상위 5000
+Top 10000	상위 10000
+DNF %%: %s\nRank: %s\nConnection Type: %s	DNF %%: %s\n순위: %s\n연결: %s
+First Name                        	이름
+Last Name                         	성
+Congratulations!\nNew accomplishments have been added to your EA SPORTS° Bio, and you are now a Level %d EA SPORTS° Gamer.\nDo you want to save?	축하합니다!\nEA SPORTS° 바이오에 새 업적이 추가되었고, 이제 레벨 %d EA SPORTS° 게이머입니다.\n저장할까요?
+Congratulations!\nYou are now a Level %d EA SPORTS° Gamer.\nDo you want to save?	축하합니다!\n이제 레벨 %d EA SPORTS° 게이머입니다.\n저장할까요?
+Congratulations!\nNew accomplishments have been added to your EA SPORTS° Bio.\nDo you want to save?	축하합니다!\nEA SPORTS° 바이오에 새 업적이 추가되었습니다.\n저장할까요?
+%s (%s #%d) of the %s has suffered a career ending %s.	%s(%s #%d, %s)이(가) 선수 생명을 끝내는 %s 부상을 입었습니다.
+%s (%s #%d) of the %s is %s due to %s%s.	%s(%s #%d, %s)은(는) %s 상태입니다. 원인: %s%s.
+%s (%s #%d) of the %s is out for %s due to %s%s.	%s(%s #%d, %s)은(는) %s 결장합니다. 원인: %s%s.
+Punt\nIn 20	펀트\n20안
+After\n1st Hit	첫 태클\n이후
+Innovation in passing game:\nPassing Windows\n\nOver 100 plays\n\n17 professional teams\n\n3 pre-determined audibles\nfor each team	패스 게임의 새로운 시도:\n패싱 Window\n\n100개 이상의 플레이\n\n17개 프로팀\n\n팀마다 정해진\n오디블 3개
+Introduced Instant Replays\n\nRain, snow and muddy\nconditions\n\nTwo player cooperative play\n\nReview and overturn\npass interference\n\n30 teams	인스턴트 리플레이 도입\n\n비와 눈 등\n다양한 날씨\n\n2인 협동 플레이\n\n패스 인터피어런스\n판독 및 번복\n\n30개 팀
+Introduced the first ever\nno huddle offense\n\nMadden's voice makes\nits first appearance\n\nAbility to overturn calls\nin head to head play\n\n2 All Madden teams\n\n38 teams in all	최초의\n노 허들 공격 도입\n\n매든의 목소리\n첫 등장\n\n대전 플레이에서\n판정 번복 가능\n\n올 매든 팀 2개\n\n전체 38개 팀
+Introduced Flipping Plays\n\nBluff mode to disguise plays\n\nReverse Angle Instant Replay\n\nCustomizable audibles\n\n28 real NFL teams\n\n80 total teams\nto choose from	플레이 좌우 반전 도입\n\n플레이를 숨기는 블러프 모드\n\n역방향 인스턴트 리플레이\n\n오디블 직접 설정\n\n실제 NFL 28개 팀\n\n선택 가능한\n총 80개 팀
+NFLPA license allowed\nfor real player names\n\nNew moves: high step,\nstraight arm, onside kicks\n\n8 different end zone dances\n\n2 point conversions\n\nModern day passing\nwithout windows	NFLPA 라이선스로\n실제 선수 이름 사용\n\n새 동작: High Step,\nStiff Arm, 온사이드 킥\n\n엔드존 세리머니 8종\n\n2점 컨버전\n\n패싱 Window 없는\n현대식 패스
+Custom TD celebrations\n\n240 redesigned plays\n\nFirst football game to\nfeature left handed QB's\n\nMultiple skill levels\n\nSalary cap\n\nNew Moves: laterals, fair catch,\nover the top dives	TD 세리머니 설정\n\n새로 디자인한 플레이 240개\n\n왼손잡이 QB가 나오는\n최초의 풋볼 게임\n\n여러 난이도\n\n샐러리 캡\n\n새 동작: 래터럴, 페어 캐치,\n점프 다이브
+TV Style Presentation\n\n500+ Madden designed plays\n\n31 3D Rendered stadiums\n\n10 Real NFL penalties\n\nMotion Captured Graphics\n\nOver 100 NFL teams	TV 중계 스타일 연출\n\n매든이 디자인한 플레이 500개+\n\n3D 경기장 31개\n\n실제 NFL 반칙 10종\n\n모션 캡처 그래픽\n\nNFL 팀 100개 이상
+QB Cam: monitor fatigue\nand read coverages\n\nV-Poly Graphics\n\nTouch Passing\n\nMultiple Season franchises\n\nSummerall Play by Play and\nMadden analysis	QB 캠: 피로도 확인과\n커버리지 읽기\n\nV-Poly 그래픽\n\n터치 패스\n\n여러 시즌 프랜차이즈\n\n서머롤 중계와\n매든 해설
+Team Specific Playbooks\n\nCustom Playbooks\n\n250 new NFL moves\n\nOne button mode\n\nArcade mode\n\nSuper Hi-Res Poly Graphics	팀별 플레이북\n\n커스텀 플레이북\n\n새 NFL 동작 250개\n\n원 버튼 모드\n\n아케이드 모드\n\n초고해상도 폴리곤 그래픽
+Madden Challenge\n\nBreakable Wrap Tackles,\nGang Tackles,\nDiving Catches and more\n\nNew Situation Mode\n\nIntroduction of Hot Routes\n\nAccurate player height\nand weight	매든 챌린지\n\n돌파 가능한 Wrap 태클,\n갱 태클,\n다이빙 캐치 등\n\n새 상황 모드\n\n핫 루트 도입\n\n정확한 선수\n키와 몸무게
+Madden Cards\n\nAuthentic Facial Expressions\n\nRead n React Defense\n\nAccurate Player accessories\n\nReal NFL coaches with\nsignature playbooks\nand play styles	매든 카드\n\n실감 나는 얼굴 표정\n\n읽고 반응하는 수비\n\n정확한 선수 장비\n\n대표 플레이북과\n스타일을 지닌\n실제 NFL 코치
+New player faces and \non-field animations\n\nTwo Minute Drill mode\n\nCreate Custom leagues\n\nAuthentic replays and\nTV camera angles\n\nNFL Coaches Club	새 선수 얼굴과 \n경기장 애니메이션\n\n2분 드릴 모드\n\n커스텀 리그 만들기\n\n실감 나는 리플레이와\nTV 카메라 시점\n\nNFL Coaches Club
+Online Play\n\nNew play-by-play announcer\nAl Michaels\n\nMini Camp Mode\n\nCreate a Playbook\n\nEA Sports Trax	온라인 플레이\n\n새 중계 캐스터\n알 마이클스\n\n미니 캠프 모드\n\n플레이북 만들기\n\nEA Sports Trax
+Revolutionary on the fly\nPlaymaker Control\n\nFranchise mode gets deeper\nwith Owner Mode\n\nOnline EA Sports Talk\n\nOnline Fair Play settings\n\nOnline Tournaments	새로운 실시간\n플레이메이커 컨트롤\n\n구단주 모드로 더 깊어진\n프랜차이즈\n\n온라인 EA Sports Talk\n\n온라인 페어 플레이 설정\n\n온라인 토너먼트
+Defense wins\nchampionships\n\nHit Stick\n\nDefensive hot routes\n\nCreate-A-Fan\n\nStoryline Central\n\nEA Sports Radio	수비가\n우승을 만든다\n\n히트 스틱\n\n수비 핫 루트\n\n팬 만들기\n\n스토리라인 센트럴\n\nEA Sports 라디오
+Converting To\nFranchise...	프랜차이즈로\n전환 중...
+Advancing To\nOwner Mode Off-Season...	구단주 모드\n오프시즌으로 진행 중...
+Filling Team Rosters...\n%s Signed %s %c.%s	로스터 채우는 중...\n%s 계약 %s %c.%s
+Signing Free Agents...\n%s Signed %s %c.%s	FA 계약 중...\n%s 계약 %s %c.%s
+is playing %s vs. %s\nRushing Attack.	%s 대 %s\n러싱 어택 플레이 중.
+is playing %s\nvs. %s, %d-%d, %s.	%s 대\n%s 경기 중, %d-%d, %s.
+Saving %s to %s in\n%s. Do not remove %s, reset, power off, or disconnect any controllers.	%s을(를) %s(%s)에\n저장 중. %s을(를) 빼거나 리셋, 전원 끄기, 컨트롤러 분리를 하지 마세요.
+The file already exists. Overwriting will erase previously saved data.\nAre you sure you want to overwrite?	파일이 이미 있습니다. 덮어쓰면 이전 저장 데이터가 지워집니다.\n덮어쓸까요?
+If you delete the file, saved data will be lost.\nAre you sure you want to delete?	파일을 삭제하면 저장 데이터가 사라집니다.\n삭제할까요?
+Formatting the %s in %s will erase all previously saved data.\nAre you sure you want to format?	%s(%s)을(를) 포맷하면 저장된 데이터가 모두 지워집니다.\n포맷할까요?
+The %s in %s is unformatted.\nDo you want to format?	%s(%s)이(가) 포맷되지 않았습니다.\n포맷할까요?
+Loading will replace an existing file in memory.\nAre you sure you want to load?	불러오면 메모리의 기존 파일을 덮어씁니다.\n불러올까요?
+Do you want to save all your files to %s?\nWARNING! Not saving may lose your current files.	모든 파일을 %s에 저장할까요?\n경고! 저장하지 않으면 현재 파일이 사라질 수 있습니다.
+Do you want to save your %s to %s?\nWARNING! Not saving will lose current %s.	%s을(를) %s에 저장할까요?\n경고! 저장하지 않으면 현재 %s이(가) 사라집니다.
+Insufficient space on %s in %s. %s requires %s of free space.\nWARNING! Not saving will lose current %s.	%s(%s)의 공간이 부족합니다. %s 저장에 %s의 여유 공간이 필요합니다.\n경고! 저장하지 않으면 현재 %s이(가) 사라집니다.
+The maximum %s saves has been reached. Unable to save %s on %s in %s.\nWARNING! Not saving will lose current %s.	%s 저장 수가 최대입니다. %s을(를) %s(%s)에 저장할 수 없습니다.\n경고! 저장하지 않으면 현재 %s이(가) 사라집니다.
+A problem occurred while loading your custom playbook.\nAn empty playbook has been created.	커스텀 플레이북을 불러오는 중 문제가 생겼습니다.\n빈 플레이북을 만들었습니다.
+A problem occurred while loading your custom playbook.\nA default playbook has been loaded.	커스텀 플레이북을 불러오는 중 문제가 생겼습니다.\n기본 플레이북을 불러왔습니다.
+Loading a created team will disable Owner Mode and the salary cap option if the team is over the cap.\n Load Create-A-Teams from %s?	만든 팀을 불러오면 구단주 모드가 꺼지고, 캡을 넘은 팀은 샐러리 캡 옵션도 꺼집니다.\n %s에서 만든 팀을 불러올까요?
+The %s only stores detailed information for 25 products.  If you save, you will overwrite the product information and accomplishments for the oldest product.  Your EA SPORTS° Level will not be affected by this.  Are you sure you want to overwrite?	%s에는 제품 25개의 상세 정보만 저장됩니다. 저장하면 가장 오래된 제품의 정보와 업적을 덮어씁니다. EA SPORTS° 레벨은 바뀌지 않습니다. 덮어쓸까요?
+Your %s on the %s in %s is damaged.  It might be repairable, but you will lose information about other EA SPORTS° games.  You may also lose EA SPORTS° Levels.  Do you wish to repair it?	%s(%s, %s)이(가) 손상되었습니다. 복구할 수도 있지만 다른 EA SPORTS° 게임 정보가 사라지고 EA SPORTS° 레벨도 잃을 수 있습니다. 복구할까요?
+Your SMS address must be in the form phonenumber@domain.	SMS 주소는 전화번호@도메인 형식이어야 합니다.
+Error: Invalid Controller ID.	오류: 잘못된 컨트롤러 ID.
+%d lbs	%d파운드
+Week %d	%d주차
+Year %d	%d년차
+Won %d	%d승
+No Card	카드 없음
+Top 5	상위 5
+Top 10	상위 10
+Long %d	최장 %d
+Win\n %	승\n %
+Pass\n %	패스\n %
+\nFG Att	\nFG 시도

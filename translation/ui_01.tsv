@@ -1,0 +1,317 @@
+# 메인 메뉴 / 공통
+GAME MODES	게임 모드
+ONLINE	온라인
+FRANCHISE	프랜차이즈
+MINI-CAMP	미니 캠프
+TOURNAMENT	토너먼트
+SITUATION	상황 설정
+inside EA SPORTS°	인사이드 EA SPORTS°
+Auto-Load failed. One or more files were not loaded. Saved data may be damaged.	자동 불러오기 실패. 일부 파일을 불러오지 못했습니다. 저장 데이터가 손상되었을 수 있습니다.
+|^OK	|^확인
+PLAY ONLINE	온라인 플레이
+MINI GAMES	미니 게임
+PRACTICE	연습
+FEATURES	부가 기능
+CREATE-A-FAN	팬 만들기
+CREATE-A-PLAYER	선수 만들기
+CREATE-A-TEAM	팀 만들기
+CREATE-A-PLAYBOOK	플레이북 만들기
+ROSTERS	로스터
+HISTORIC TEAMS	역대 명문 팀
+MY MADDEN	마이 매든
+EA SPORTS° BIO	EA SPORTS° 바이오
+MADDEN CARDS	매든 카드
+STAT BOOK	기록집
+COACHING STRATEGY	코칭 전략
+GAMEPLAY SETTINGS	게임플레이 설정
+SYSTEM SETTINGS	시스템 설정
+LOAD/SAVE	불러오기/저장
+MADDEN 101	매든 101
+FOOTBALL 101	풋볼 101
+WELCOME TO MADDEN	매든 입문
+DEFENSIVE CONTROL	수비 조작
+STORYLINE CENTRAL	스토리라인 센트럴
+ADVANCED OFFENSE	고급 공격
+EA SPORTS° EXTRAS	EA SPORTS° 엑스트라
+ALL DEFENSIVE TEAM	올 디펜시브 팀
+PLAY CAMEO	카메오 재생
+CREDITS	제작진
+NFL STREET DEMO	NFL STREET 체험판
+OTHER GAME DEMOS	다른 게임 체험판
+NFL STREET 2 TRAILER	NFL STREET 2 예고편
+SEASON PREVIEW°	시즌 프리뷰°
+PLAY ALL CAMEOS	카메오 모두 재생
+MADDEN BOWL°	매든 볼°
+MADDEN CHALLENGE	매든 챌린지
+SPECIAL FEATURES	특별 기능
+MADDEN MOMENTS	매든 모먼트
+TRIVIA CHALLENGE	퀴즈 챌린지
+MADDEN CLASSIC	매든 클래식
+MADDEN VINTAGE	매든 빈티지
+MADDEN RETRO	매든 레트로
+BONUS MATERIAL	보너스 자료
+RUSHING ATTACK	러싱 어택
+TWO MINUTE DRILL	2분 드릴
+OFFENSE	공격
+DEFENSE	수비
+AUDIBLES	오더블
+CUSTOM HOT ROUTES	커스텀 핫 루트
+CUSTOM PACKAGES	커스텀 패키지
+LOAD	불러오기
+SAVE	저장
+Select	선택
+Back	뒤로
+Help	도움말
+|^Save|Cancel	|^저장|취소
+Your EA SPORTS° Bio has changed.\nDo you want to save?	EA SPORTS° 바이오가 변경되었습니다.\n저장하시겠습니까?
+This feature is not available in this demo. Please try "Play Now" or "Mini-Camp" game mode.	체험판에서는 사용할 수 없는 기능입니다. "바로 플레이" 또는 "미니 캠프" 모드를 이용하세요.
+Feature not available in this E3 demo.	E3 체험판에서는 사용할 수 없는 기능입니다.
+This option is not yet available.	아직 사용할 수 없는 옵션입니다.
+We have detected a Game Boy± Advance. You have been given special Madden Card(s).	게임보이± 어드밴스가 감지되었습니다. 특별 매든 카드를 받았습니다.
+We have detected a Game Boy± Advance with a Madden NFL 2004 Game Pak. You have been given special Madden Card(s).	Madden NFL 2004 게임팩이 꽂힌 게임보이± 어드밴스가 감지되었습니다. 특별 매든 카드를 받았습니다.
+Save successful.	저장했습니다.
+Main Menu	메인 메뉴
+Welcome to Madden NFL 2005.	Madden NFL 2005에 오신 것을 환영합니다.
+To play a game, choose Play Now	경기를 하려면 바로 플레이를 선택하거나
+or check out the other Game Modes.	다른 게임 모드를 확인하세요.
+Change music Trax with the help screen up.	도움말 화면에서 음악 트랙을 바꿀 수 있습니다.
+Change highlighted option	선택 항목 변경
+Select highlighted option	선택 항목 결정
+Profile manager (not available	프로필 관리 (모드 메뉴가
+     with mode menus open) 	     열려 있을 때는 불가)
+Change EA° Trax (with help screen up)	EA° 트랙 변경 (도움말 화면에서)
+PLAY NOW	바로 플레이
+-- inside EA SPORTS° --	-- 인사이드 EA SPORTS° --
+Press	 
+START	START
+to begin	로 시작
+button	눌러요
+Licensed by Nintendo	Licensed by Nintendo
+NO %ss	%s 없음
+CREATE-A-%s	%s 만들기
+CREATE NEW %s	새 %s 만들기
+Maximum Created Players reached	만들 수 있는 선수 수가 최대입니다
+Are you sure you want to delete the player %s? All player information will be lost.	선수 %s을(를) 삭제하시겠습니까? 모든 선수 정보가 사라집니다.
+|Yes|^No	|예|^아니요
+An error has occurred. The player could not deleted.	오류가 발생했습니다. 선수를 삭제하지 못했습니다.
+%s is not a free agent? He must first be released before he can be deleted.	%s은(는) FA 선수가 아닙니다. 삭제하려면 먼저 방출해야 합니다.
+PLAYBOOK	플레이북
+PLAYER	선수
+TEAM	팀
+Delete	삭제
+New/Edit	신규/편집
+Create a new file or choose from	새 파일을 만들거나
+existing files. 	기존 파일을 선택하세요.
+Previous screen	이전 화면
+existing files.  	기존 파일을 선택하세요.
+Delete highlighted option	선택 항목 삭제
+CREATE A NEW PLAYBOOK	새 플레이북을 만들거나
+OR EDIT AN EXISTING ONE	기존 플레이북을 편집
+There is no information available.	정보가 없습니다.
+EXISTING PLAYBOOKS	기존 플레이북
+Loading...	불러오는 중...
+LONG SLEEVES	긴소매
+The score must be tied in overtime.	연장전에서는 점수가 동점이어야 합니다.
+A team must have all of its Timeouts at the start of the half.	하프 시작 시 각 팀은 타임아웃을 모두 가지고 있어야 합니다.
+Both teams must have no more than 2 Timeouts at the start of Overtime.	연장전 시작 시 양 팀의 타임아웃은 2개 이하여야 합니다.
+The only kickoff allowed in Overtime is at the beginning.	연장전에서 킥오프는 시작할 때만 가능합니다.
+The first half must start with a kickoff.	전반은 킥오프로 시작해야 합니다.
+The second half must start with a kickoff.	후반은 킥오프로 시작해야 합니다.
+Overtime must start with a kickoff.	연장전은 킥오프로 시작해야 합니다.
+There may not be a score at the start of a game.	경기 시작 시에는 점수가 있을 수 없습니다.
+A team may not kick off if it has not scored.	득점하지 않은 팀은 킥오프할 수 없습니다.
+The team that scored the safety must receive the kick.	세이프티로 득점한 팀이 킥을 받아야 합니다.
+Situation Setup	상황 설정
+Select Stadium	경기장 선택
+Advance	진행
+Clock status	시계 상태
+TIME	시간
+DOWN	다운
+TO GO	남은 거리
+BALL	볼
+Away Team	원정 팀
+Home Team	홈 팀
+Away Score	원정 점수
+Home Score	홈 점수
+Quarter	쿼터
+QTR Length	쿼터 길이
+Time Left	남은 시간
+Clock	시계
+Possession	공격권
+Down	다운
+Yards To Go	남은 야드
+Ball On	볼 위치
+Home Timeouts	홈 타임아웃
+Away Timeouts	원정 타임아웃
+Set up Situation	상황 설정
+Set up any game situation you can 	원하는 어떤 경기 상황이든
+think of at this screen.	이 화면에서 설정할 수 있습니다.
+Toggle highlighted option	선택 항목 전환
+Stadium select	경기장 선택
+Helmet	헬멧
+Facemask	페이스마스크
+Visor	바이저
+Eye Paint	아이 페인트
+Nasal Strip	코 밴드
+Mouthpiece	마우스피스
+Neck Pad	넥 패드
+R Elbow	오른 팔꿈치
+L Elbow	왼 팔꿈치
+R Wrist	오른 손목
+L Wrist	왼 손목
+R Hand	오른손
+L Hand	왼손
+Long Sleeves	긴소매
+L Knee	왼 무릎
+R Knee	오른 무릎
+L Ankle	왼 발목
+R Ankle	오른 발목
+Shoes	신발
+Running	러닝
+PLAY	재생
+Season Preview°	시즌 프리뷰°
+Play preview videos for other	다른 EA SPORTS° 제품의
+EA SPORTS° products.	프리뷰 영상을 재생합니다.
+Change highlighted button	선택 버튼 변경
+Choose highlighted option	선택 항목 결정
+All NFL	전체
+FAVORITE TEAM                                 	응원 팀
+Select Favorite Team	응원 팀 선택
+Choose your favorite NFL team. Menus	응원하는 NFL 팀을 고르세요. 메뉴가
+will feature team colors based on the team	선택한 팀의 색상으로 표시되며
+you choose.  Your team will be the default	모든 모드에서 기본 팀으로
+in every mode.	설정됩니다.
+Change highlighted team	선택 팀 변경
+Select highlighted team	선택 팀 결정
+MY FAVORITE TEAM	나의 응원 팀
+What would you like to do?	무엇을 하시겠습니까?
+|Save|Delete|^Cancel	|저장|삭제|^취소
+Level %d EA SPORTS° Gamer	레벨 %d EA SPORTS° 게이머
+EA SPORTS° Title	EA SPORTS° 타이틀
+%s Played	%s 플레이
+Last Played On %s	마지막 플레이 %s
+Win Pct: %d%%	승률: %d%%
+Next Reward: %s	다음 보상: %s
+RECENT ACCOMPLISHMENTS	최근 업적
+MAJOR ACCOMPLISHMENTS	주요 업적
+There are no accomplishments to list.	표시할 업적이 없습니다.
+Day	일
+Hour	시간
+Minute	분
+Second	초
+EA SPORTS° Bio	EA SPORTS° 바이오
+Product Summary - %s	제품 요약 - %s
+Product Summary	제품 요약
+Save/Delete	저장/삭제
+Level	레벨
+Next Level	다음 레벨
+EA SPORTS° Bio lets you track your	EA SPORTS° 바이오로 모든 EA SPORTS°
+accomplishments for all EA SPORTS°	게임의 업적을 확인할 수 있습니다.
+games. This screen also provides statistics	이 화면에서는 현재 진행 레벨에
+on your current level of progress.	대한 통계도 볼 수 있습니다.
+Save/delete bio	바이오 저장/삭제
+View your accomplishments for	이 게임에서 달성한
+this particular game.	업적을 봅니다.
+Toggle major/recent accomplishments	주요/최근 업적 전환
+Recent Accomplishments	최근 업적
+You haven't unlocked this Madden Moment yet. You must first complete the previous Madden Moment to unlock this one.	아직 잠긴 매든 모먼트입니다. 이전 매든 모먼트를 먼저 완료해야 열립니다.
+You have already completed this Madden Moment. Additional Madden cards and tokens will not be awarded for successfully completing it again. Continue?	이미 완료한 매든 모먼트입니다. 다시 성공해도 매든 카드와 토큰은 추가로 지급되지 않습니다. 계속하시겠습니까?
+|Start Game|^Cancel	|경기 시작|^취소
+Madden Moment #%d	매든 모먼트 #%d
+Stopped	정지
+Madden Moments	매든 모먼트
+Choose your Madden Moment.	매든 모먼트를 고르세요.
+After completing a scenario,  you will be taken	시나리오를 완료하면 다음으로
+to the next unlocked Moment.	열린 모먼트로 이동합니다.
+Change selected game	선택 경기 변경
+Select game	경기 선택
+Profile manager	프로필 관리
+All Defense Team	올 디펜스 팀
+All Defensive Team	올 디펜시브 팀
+View John Madden's selections for his	존 매든이 뽑은
+All Defensive Team.	올 디펜시브 팀을 봅니다.
+Change highlighted player	선택 선수 변경
+Bonus Material	보너스 자료
+View bonus materials from this	이 화면에서 보너스
+screen.	자료를 볼 수 있습니다.
+Empty	비어 있음
+HOME	홈
+AWAY	원정
+PRACTICE SETUP	연습 설정
+FOOTBALL 101 SETUP	풋볼 101 설정
+SELECT TEAMS	팀 선택
+Historic Teams	역대 명문 팀
+The %s do not have the number of active players required for each position. Please check the roster breakdown.	%s 팀은 포지션별 필요한 선수 수가 부족합니다. 로스터 구성을 확인하세요.
+A team must be loaded in order to continue.	계속하려면 팀을 불러와야 합니다.
+The home team has not yet been unlocked.	홈 팀이 아직 잠겨 있습니다.
+The away team has not yet been unlocked.	원정 팀이 아직 잠겨 있습니다.
+DISABLED	사용 안 함
+KICK	킥
+RETURN	리턴
+Away Team Not Available, switching	원정 팀 사용 불가, 변경합니다
+Home Team Not Available, switching	홈 팀 사용 불가, 변경합니다
+PRACTICE MODE!	연습 모드!
+Load Team	팀 불러오기
+Select Sides	진영 선택
+Start Football 101	풋볼 101 시작
+Not available in E3 Demo.	E3 체험판에서는 사용할 수 없습니다.
+Select Team	팀 선택
+Select home and away teams from	이 화면에서 홈 팀과 원정 팀을
+this screen.  Compare the team ratings	고르세요. 팀 능력치를 비교해
+to see how these two teams match up.	두 팀의 전력을 확인할 수 있습니다.
+Change teams	팀 변경
+Switch between home/away	홈/원정 전환
+Next screen	다음 화면
+Load team	팀 불러오기
+Cycle through historic teams	역대 명문 팀 순환
+Randomize team (all teams)	무작위 팀 (전체 팀)
+Randomize team (current NFL teams)	무작위 팀 (현역 NFL 팀)
+Select stadium	경기장 선택
+Football 101 Setup	풋볼 101 설정
+Practice Setup	연습 설정
+Rushing Attack	러싱 어택
+OVERALL	종합
+defense	수비
+offense	공격
+overall	종합
+CREATE NEW	새로 만들기
+Uniform - %s	유니폼 - %s
+SELECT SIDES	진영 선택
+!Warning	!경고
+Turning EAsy Play off will reset all EAsy Play settings to their default values.  Continue?	EAsy 플레이를 끄면 모든 EAsy 플레이 설정이 기본값으로 초기화됩니다. 계속하시겠습니까?
+One team must be user-controlled.	한 팀은 사용자가 조작해야 합니다.
+Two-Minute Drill requires one user on each side.	2분 드릴은 양쪽에 사용자가 한 명씩 있어야 합니다.
+Only one user is allowed on each side in head-to-head game modes.	대전 모드에서는 각 진영에 한 명만 참가할 수 있습니다.
+EAsy Play	EAsy 플레이
+Start Game	경기 시작
+Continue	계속
+Options	옵션
+Cannot use same profiles.	같은 프로필은 사용할 수 없습니다.
+Maximum number of profiles loaded. Please use the Active Profile menu to replace a loaded profile.	불러올 수 있는 프로필 수가 최대입니다. 활성 프로필 메뉴에서 불러온 프로필을 교체하세요.
+Defense	수비
+Offense	공격
+Select which team you wish to control.	조작할 팀을 고르세요.
+Also change your profile and modify other	이 화면에서 프로필 변경과
+options from this screen.	기타 옵션 설정도 할 수 있습니다.
+Change team	팀 변경
+Play game	경기 시작
+Edit team options	팀 옵션 편집
+Toggle EAsy Play	EAsy 플레이 전환
+-- Team Options --	-- 팀 옵션 --
+Start practice	연습 시작
+Change profile	프로필 변경
+Start game	경기 시작
+Start Two Minute Drill	2분 드릴 시작
+Defensive Playbook	수비 플레이북
+Offensive Playbook	공격 플레이북
+Risk Cards	리스크 카드
+Waiting for\r\nopponent	상대를\r\n기다리는 중
+CHOOSE PLAYBOOK	플레이북 선택
+NO CARDS\r\nAVAILABLE	사용 가능한\r\n카드 없음
+RISK CARDS	리스크 카드
+CONFERENCE	컨퍼런스
+SELECT STADIUM	경기장 선택
+Preview	미리 보기
+System: %s	날씨: %s
+Temp	기온
+Precip	강수

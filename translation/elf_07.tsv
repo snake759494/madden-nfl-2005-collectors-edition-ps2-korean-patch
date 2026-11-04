@@ -1,0 +1,132 @@
+# ELF 문자열 7 (짧은 UI 단어 - 식별자로 쓰일 수 있는 단어는 제외)
+The Account Name you selected is invalid.	선택한 계정 이름이 올바르지 않습니다.
+Invalid Account Name	잘못된 계정 이름
+Please enter a valid gender and try again.	올바른 성별을 입력하고 다시 시도하세요.
+Invalid gender.	잘못된 성별.
+Please enter a different name and try again.	다른 이름을 입력하고 다시 시도하세요.
+The Account Name or Persona you selected is not appropriate.	선택한 계정 이름이나 페르소나가 적절하지 않습니다.
+Invalid Name	잘못된 이름
+Please enter a valid Email address and try again.	올바른 이메일 주소를 입력하고 다시 시도하세요.
+Your Email address must be at least seven characters long.	이메일 주소는 7자 이상이어야 합니다.
+Invalid Email Address	잘못된 이메일 주소
+Please select a different Account Name.	다른 계정 이름을 선택하세요.
+The Account Name you selected has already been taken.	선택한 계정 이름은 이미 사용 중입니다.
+Duplicate Account Name	중복된 계정 이름
+We are currently experiencing network difficulty.	현재 네트워크에 문제가 있습니다.
+Please enter a valid birthdate and try again.	올바른 생년월일을 입력하고 다시 시도하세요.
+Invalid birth date.	잘못된 생년월일.
+Please try again later.	나중에 다시 시도하세요.
+An unknown error occurred.	알 수 없는 오류가 발생했습니다.
+Unknown Error	알 수 없는 오류
+Unknown Error.	알 수 없는 오류.
+Enter Email Address	이메일 주소 입력
+Invalid SMS Address	잘못된 SMS 주소
+Please enter a valid SMS address and try again.	올바른 SMS 주소를 입력하고 다시 시도하세요.
+Enter SMS Address	SMS 주소 입력
+1 Play	1플레이
+1 Half	1하프
+1 Game	1경기
+1 in %d	%d분의 1
+NO GOOD	실패
+1 week	1주
+Final	최종
+CARRY -	러싱 -
+CATCH -	캐치 -
+%d Yds	%d야드
+%d Yard	%d야드
+%d deg	%d도
+Fair	맑음
+Windy	바람
+Rain	비
+Snow	눈
+Dome	돔
+REC TD:	리시빙 TD:
+Fumb TD	펌블 TD
+Int Yds	인터셉트 야드
+Int TD	인터셉트 TD
+FG Long	최장 FG
+KR Long	최장 킥 리턴
+KR TD	킥 리턴 TD
+KR Yds	킥 리턴 야드
+Pancake	팬케이크
+Pass KD	패스 저지
+PR Long	최장 펀트 리턴
+PR TD	펀트 리턴 TD
+PR Yds	펀트 리턴 야드
+Net Yds	순 야드
+Rec 2Pt	리시빙 2점
+Drops	드롭
+20+ Yds	20야드+
+Def TD	수비 TD
+Net Avg	순 평균
+Kicking	킥
+Punting	펀트
+Games	경기
+1 point	1점
+ALL PRO	올프로
+All Pro	올프로
+QB RAT	QB 레이팅
+Lost %d	%d패
+Broken	고장
+Poor	나쁨
+Good	좋음
+No Cap	캡 없음
+1st Qtr	1쿼터
+2nd Qtr	2쿼터
+3rd Qtr	3쿼터
+4th Qtr	4쿼터
+Thanks.	고마워요.
+Damaged	손상됨
+Scouted	스카우팅함
+No team	팀 없음
+Signed	계약함
+Advice	조언
+Awards	수상
+Expects	기대치
+History	경력
+Morale	사기
+By Game	경기별
+%d year	%d년
+In NFL	NFL 경력
+Tickets	입장권
+Expert	전문가
+Profit	이익
+Agility	민첩성
+Jumping	점프력
+Stamina	체력
+Retired	은퇴
+None.	없음.
+Best QB	최고 QB
+Best RB	최고 RB
+Best WR	최고 WR
+Best OL	최고 OL
+Best DL	최고 DL
+Best LB	최고 LB
+Best DB	최고 DB
+Big Win	대승
+Carry -	러싱 -
+Catch -	캐치 -
+IN 20	20야드 안
+Signing	계약
+Trades	트레이드
+No news	뉴스 없음
+%d Year	%d년
+Leader	선두
+Pass TD	패스 TD
+Comp %	성공률
+FG %	FG %
+Ties	무
+Win Pct	승률
+Points	득점
+Sacked	피색
+KR Avg	킥 리턴 평균
+KR TDs	킥 리턴 TD
+PR Avg	펀트 리턴 평균
+PR TDs	펀트 리턴 TD
+FG Att	FG 시도
+FG Made	FG 성공
+FG Pct	FG 성공률
+Made	성공
+TO Diff	턴오버 차
+No Play	플레이 없음
+No Gain	노 게인

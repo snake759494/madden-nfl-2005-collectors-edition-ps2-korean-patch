@@ -1,0 +1,312 @@
+# 토너먼트 / 미니캠프 / 로스터 / 트레이드
+|^Play game|Simulate game|Forfeit game	|^경기 플레이|경기 시뮬레이션|몰수패
+One or both teams are below the roster minimum. You must fix the roster(s) before continuing.	한 팀 이상이 로스터 최소 인원에 못 미칩니다. 계속하려면 로스터를 고쳐야 합니다.
+Opp. W-L-T	상대 승-패-무
+The round robin phase has ended. Would you like to go to the playoffs now?	리그전이 끝났습니다. 지금 플레이오프로 진행하시겠습니까?
+The round robin phase has been completed.	리그전이 완료되었습니다.
+Game	경기
+This is where you play your tournament	이 화면에서 토너먼트 경기를
+games. You also have the option to	진행합니다. 경기를 시뮬레이션하거나
+simulate or forfeit games here as well.	몰수패 처리할 수도 있습니다.
+Toggles through games	경기 순환
+Toggles through teams	팀 순환
+All stats and information screens are	모든 기록과 정보 화면이
+in this area.	이 영역에 있습니다.
+Standings	순위
+Place	순위
+Standings are displayed at this 	이 화면에서 순위를 보여 줍니다
+Team Stats	팀 기록
+Teams	팀
+View team stats from this screen.	이 화면에서 팀 기록을 봅니다.
+Tournament Rosters	토너먼트 로스터
+The screens in this area manipulate 	이 영역의 화면에서 관리합니다:
+substitutions	선수 교체
+|^Play Game|Simulate Game|Forfeit Game	|^경기 플레이|경기 시뮬레이션|몰수패
+Undetermined	미정
+Playoff Tree	플레이오프 대진표
+playoff games.	플레이오프 경기.
+Forfeit Game	몰수패
+Choose which team forfeits 	몰수패할 팀을
+the game.	고르세요.
+Forfeit	몰수패
+Tournament Mode	토너먼트 모드
+Access all Tournament mode options from	여기서 모든 토너먼트 모드 옵션을 이용합니다
+TOURNAMENT TREE	토너먼트 대진표
+Tournament Tree	토너먼트 대진표
+|%s|%s|^Cancel	|%s|%s|^취소
+Choose team to forfeit:	몰수패할 팀 선택:
+Seed #%d	시드 #%d
+Winners Bracket	승자조
+Losers Bracket	패자조
+This is the screen where you pick what	이 화면에서 토너먼트에서
+games to play in your Tournament.	진행할 경기를 고릅니다.
+Toggles between brackets	대진표 전환
+    (Double Elimination Only)	    (더블 엘리미네이션만)
+Rosters are manipulated from 	이 영역에서
+this area.	로스터를 관리합니다.
+Tournament Setup	토너먼트 설정
+Preview Bracket	대진표 미리 보기
+Begin Tournament?	토너먼트를 시작하시겠습니까?
+Set up Tournament	토너먼트 설정
+Set the type of tournament, the total	새 토너먼트의 방식, 전체 팀 수,
+number of teams, and the number of	플레이오프 진출 팀 수를
+playoff teams for a new tournament.	정하세요.
+Set options / start tournament	옵션 설정 / 토너먼트 시작
+Start tournament	토너먼트 시작
+Preview bracket	대진표 미리 보기
+Seed Number	시드 번호
+Number of Teams	팀 수
+Playoff Teams	플레이오프 팀 수
+Tournament Type	토너먼트 방식
+Tournament Bracket	토너먼트 대진표
+This screen allows you to preview	이 화면에서 현재 설정에 따른
+the tournament bracket based on the 	토너먼트 대진표를
+settings you currently have set.	미리 볼 수 있습니다.
+CONGRATULATIONS!	축하합니다!
+The %s Are\nTournament Champions!	%s 팀이\n토너먼트 우승!
+You have not selected a profile for any of your players. Any tokens earned during this drill will be lost. Continue?	플레이어 프로필을 하나도 고르지 않았습니다. 이 드릴에서 얻은 토큰은 사라집니다. 계속하시겠습니까?
+Player Name	플레이어 이름
+User Profile	사용자 프로필
+Player %d	플레이어 %d
+High Scores	최고 점수
+Set the number of players, and 	2분 드릴의 플레이어 수를 정하고
+select your teams for Two Minute	팀을
+Drill.	고르세요.
+Select teams/user profile	팀/사용자 프로필 선택
+View high scores	최고 점수 보기
+CPU Defense	CPU 수비
+Head To Head	대전
+Play for Tokens	토큰 걸고 플레이
+Reset High Scores?	최고 점수를 초기화하시겠습니까?
+Score	점수
+Reset High Scores	최고 점수 초기화
+View the High Scores from 	이 화면에서 2분 드릴의
+Two Minute Drill from this screen.	최고 점수를 봅니다.
+You may also reset the scores.	점수를 초기화할 수도 있습니다.
+Reset high scores	최고 점수 초기화
+Select from existing user profiles.	기존 사용자 프로필에서 고르세요.
+Toggle profiles	프로필 전환
+Accept profile	프로필 확정
+MATCHUP	대진
+Completed 	완료
+Locked	잠김
+Not available in this demo.	체험판에서는 사용할 수 없습니다.
+Game Situation	경기 상황
+Location	장소
+Skill	난이도
+Select a Mini-Camp drill to sharpen	미니 캠프 훈련을 골라 실력을
+your skills.  Earn a Madden Card when you 	갈고닦으세요. 훈련에서 금 트로피를
+obtain a gold trophy in a drill.	따면 매든 카드를 얻습니다.
+Change highlighted drill	선택 훈련 변경
+Select highlighted drill	선택 훈련 결정
+Change skill level	난이도 변경
+Start Drill	훈련 시작
+Choose to play the drill or	훈련을 할지 경기 상황에
+participate in the game situation.	참가할지 고르세요.
+(Game Situation not available	(프랜차이즈 모드에서는
+in Franchise mode)	경기 상황 불가)
+     in Franchise mode)	     프랜차이즈 모드에서는 불가)
+Drill	훈련
+Welcome to Mini-Camp!	미니 캠프에 오신 것을 환영합니다!
+Welcome to Mini-Camp	미니 캠프에 오신 것을 환영합니다
+Have fun and good luck!	즐겁게 하세요. 행운을 빕니다!
+stand, and more in unlocked Game Situations.	골라인 수비 등을 펼쳐 보세요.
+Lead a 2 minute scoring drive, make a goal line	열린 경기 상황에서 2분 득점 드라이브,
+by earning trophies.	트로피를 따서 여세요.
+Unlock Madden Cards and Game Situations	매든 카드와 경기 상황을
+in various drills.	다양한 훈련에서 경쟁하며
+Fine tune your football skills by competing	풋볼 실력을 다듬으세요.
+All-Madden 	올매든
+You must complete the %s %s drill first.	먼저 %s %s 훈련을 완료해야 합니다.
+Drill Locked	훈련 잠김
+This drill is currently locked.	이 훈련은 아직 잠겨 있습니다.
+Earn a trophy in the previous	이전 난이도에서 트로피를 따면
+skill level to unlock.	열립니다.
+Philosophy	철학
+Unavailable	사용 불가
+Defensive Strategy	수비 전략
+Rushing Strategy	러싱 전략
+Set up your coaching philosophy on	코칭 철학을 설정합니다
+Change coach	감독 변경
+RESIGNED	사임
+Defense Type	수비 유형
+Offensive Strategy	공격 전략
+Aggressive	공격적
+Conservative	보수적
+Delete Player	선수 삭제
+Delete created players from this	이 화면에서 만든 선수를 삭제합니다
+Delete player	선수 삭제
+Updates	업데이트
+League News	리그 뉴스
+Read news from around the league	이 화면에서 리그 전역의
+at this screen.	뉴스를 읽습니다.
+Scroll news	뉴스 스크롤
+Scroll weeks	주 스크롤
+Change news category	뉴스 분류 변경
+available one week before Super Bowl	슈퍼볼 1주 전에 공개
+Insufficient players to form the Madden Team.	매든 팀을 구성할 선수가 부족합니다.
+player information	선수 정보
+Displays the All-Madden team.	올매든 팀을 보여 줍니다.
+Edit Rosters	로스터 편집
+View Rosters	로스터 보기
+View each team's roster. Highlighted 	각 팀의 로스터를 봅니다. 강조된
+attributes signify the effect your coach	능력치는 감독이 선수 능력에
+is having on that player's abilities.	주는 영향을 나타냅니다.
+Coaches only affect players in Franchise Mode.	감독 효과는 프랜차이즈 모드에서만 적용됩니다.
+Edit player (Main Menu only)	선수 편집 (메인 메뉴만)
+Player Management (Franchise)	선수 관리 (프랜차이즈)
+View a historic team's roster.	역대 명문 팀의 로스터를 봅니다.
+Edit player	선수 편집
+Weekly Awards	주간 수상
+View the offensive and defensive	이 주의 공격·수비
+players of the week.	최우수 선수를 봅니다.
+ Available after Week 16      	 16주차 이후 공개
+Available after Week %d	%d주차 이후 공개
+Pro Bowl	프로 볼
+Votes	득표
+Displays the current Pro Bowl roster.	현재 프로 볼 명단을 보여 줍니다.
+Fumb Rec	펌블 리커버
+Available After Week 17	17주차 이후 공개
+Rankings	순위
+NFL Rank	NFL 순위
+Div Rank	지구 순위
+Team Statistics	팀 기록
+This screen ranks teams by category.	이 화면에서 분야별 팀 순위를 보여 줍니다.
+Change highlighted stat	선택 기록 변경
+Re-Sign Players	선수 재계약
+Remaining unsigned players for unassisted (USER) coaches will be released.	CPU 지원이 없는 (사용자) 감독의 미계약 선수는 방출됩니다.
+|Release|CPU re-sign|^Cancel	|방출|CPU 재계약|^취소
+Simulate the rest of the Re-Signing Period?	재계약 기간의 나머지를 시뮬레이션하시겠습니까?
+Do you wish to negotiate a new deal, or apply a franchise tag to the player?	새 계약을 협상하시겠습니까, 선수에게 프랜차이즈 태그를 붙이시겠습니까?
+|^Negotiate new deal|Apply franchise tag|Cancel	|^새 계약 협상|프랜차이즈 태그|취소
+Only user-controlled teams may be modified.	사용자 조작 팀만 수정할 수 있습니다.
+Over Salary Cap. Transaction cannot be completed.	샐러리캡 초과. 거래를 완료할 수 없습니다.
+The re-sign players option under coach options is set to "CPU". This option must be set to "User" in order to perform this task.	감독 옵션의 선수 재계약이 "CPU"로 설정되어 있습니다. 이 작업을 하려면 "사용자"로 설정해야 합니다.
+Cannot re-sign players on the Injured Reserve.	부상자 명단의 선수와는 재계약할 수 없습니다.
+Franchise Player	프랜차이즈 선수
+Re-sign Players	선수 재계약
+Re-sign players from this screen.	이 화면에서 선수와 재계약합니다.
+Advance (Off-season only)	진행 (오프시즌만)
+RELEASE PLAYER	선수 방출
+Releasing %s will result in a cap penalty of %s, that will count against your team's salary starting the next off-season.	%s을(를) 방출하면 %s의 캡 페널티가 생기며, 다음 오프시즌부터 팀 연봉에 반영됩니다.
+|Release|^Cancel	|방출|^취소
+Release %s? Note: Any existing injuries will be removed.	%s을(를) 방출하시겠습니까? 참고: 현재 부상은 사라집니다.
+The Free Agent List is full. Sign players to make room.	FA 명단이 가득 찼습니다. 선수와 계약해 자리를 만드세요.
+Release a player from a roster.	로스터에서 선수를 방출합니다.
+Release highlighted player	선택 선수 방출
+Team %d	팀 %d
+INACT	비활성
+ACT\r\nREQ	필요\r\n인원
+Roster Breakdown	로스터 구성
+This screen gives an overview of	이 화면에서는 팀별 필요 선수를
+required players per team.  Highlighted	한눈에 보여 줍니다. 강조된
+positions indicate team needs.	포지션은 보강이 필요합니다.
+POSN  	포지션
+Free agents	FA 선수
+The team has the maximum number of injured players.	팀의 부상 선수 수가 최대입니다.
+Sign %s?	%s와(과) 계약하시겠습니까?
+Preseason Standings	프리시즌 순위
+X = Clinched Playoff Berth	X = 플레이오프 진출 확정
+Y = Clinched Divisional Title	Y = 지구 우승 확정
+Z = Clinched Home-Field Advantage	Z = 홈 어드밴티지 확정
+Standings are displayed at this screen.	이 화면에서 순위를 보여 줍니다.
+Change conference/division	컨퍼런스/지구 변경
+TRADE PLAYER	선수 트레이드
+Please remove all players/picks on this side before changing teams.	팀을 바꾸기 전에 이쪽의 선수/지명권을 모두 빼세요.
+Cancel current trade?	현재 트레이드를 취소하시겠습니까?
+Both teams must have at least one player up for trade.	양 팀 모두 트레이드할 선수가 1명 이상 있어야 합니다.
+Both teams must have at least one player or draft pick up for trade.	양 팀 모두 트레이드할 선수나 지명권이 1개 이상 있어야 합니다.
+Cannot have more than 3 players and/or picks in a trade.	한 트레이드에 선수/지명권은 3개까지입니다.
+You cannot trade injured players.	부상 선수는 트레이드할 수 없습니다.
+Cannot trade between two CPU teams.	CPU 팀끼리는 트레이드할 수 없습니다.
+Remove player/pick from trade?	트레이드에서 선수/지명권을 빼시겠습니까?
+There are no players on this team and position.	이 팀의 해당 포지션에 선수가 없습니다.
+The %s are not interested in your trade.	%s 팀은 이 트레이드에 관심이 없습니다.
+Rejected	거절됨
+Do both users accept this trade?	두 사용자 모두 이 트레이드에 동의하십니까?
+The %s have accepted your trade. Proceed?	%s 팀이 트레이드를 수락했습니다. 진행하시겠습니까?
+Initiate Trade	트레이드 제안
+INTEREST	관심도
+Trade players at this screen. Keep in	이 화면에서 선수를 트레이드합니다.
+mind that some teams value	팀마다 선수 가치를 다르게 본다는 점을
+players differently. If they are rebuilding,	기억하세요. 리빌딩 중인 팀은
+they won't take overpriced veterans.	비싼 베테랑을 받지 않습니다.
+Add/remove player	선수 추가/제거
+Initiate trade	트레이드 제안
+Trade players at this screen.	이 화면에서 선수를 트레이드합니다.
+Add/Remove highlighted player	선택 선수 추가/제거
+Cancel trade/Previous Screen	트레이드 취소/이전 화면
+No Penalty	페널티 없음
+ Available after Week 16             	 16주차 이후 공개
+Yearly Awards	연간 수상
+No Coaches	감독 없음
+Displays the yearly award winners.	연간 수상자를 보여 줍니다.
+Change award category	수상 분류 변경
+Projected Round	예상 라운드
+Shuttle Time	셔틀런
+Cone Drill	콘 드릴
+40 Time	40야드
+Vertical	서전트
+Bench Press Reps	벤치프레스 횟수
+Interview	면접
+Rookie Scouting Report	신인 스카우팅 보고서
+Rookie Scouting Report allows you to	신인 스카우팅 보고서에서는 다가오는
+view detailed information about players	드래프트를 위해 스카우팅한
+you choose to scout for the upcoming 	선수의 자세한 정보를
+draft.	볼 수 있습니다.
+Notes	메모
+Undrafted	미지명
+Pass Accuracy	패스 정확도
+Scouting Report	스카우팅 보고서
+Combine Stats	컴바인 기록
+Management	관리
+unavailable	사용 불가
+Assistance	지원
+CPU Player Management	CPU 선수 관리
+Set up management options from this	이 화면에서 관리 옵션을 설정합니다.
+screen.  Off-Season tasks can	오프시즌 작업은 CPU 또는
+be set to CPU or User control.	사용자가 맡도록 정할 수 있습니다.
+pass blocker	패스 블로커
+Fill Rosters	로스터 채우기
+User	사용자
+Priority	우선순위
+Draft Players	선수 지명
+Reorder Depth Charts	뎁스 차트 재정렬
+Sign Free Agents	FA 선수 계약
+Coach Options	감독 옵션
+ratings	능력치
+Use these screens to set coach	이 화면에서 감독 옵션을 설정하고
+options and to get information	감독 정보를
+about the coach.	확인합니다.
+management	관리
+job openings	감독 공석
+coach options	감독 옵션
+Ratings	능력치
+Streak	연속
+Prev Game	이전 경기
+Next Game	다음 경기
+This screen allows you to view	이 화면에서 리그 전체의
+all of the coaches around the league.	감독을 볼 수 있습니다.
+Coaching Points	코칭 포인트
+Div. Standing	지구 순위
+SELECT DRILL/PLAYER	훈련/선수 선택
+The %s have already completed the selected drill.	%s 팀은 이미 선택한 훈련을 마쳤습니다.
+The %s have no players eligible for this drill.	%s 팀에는 이 훈련에 참가할 선수가 없습니다.
+The %s do not have the number of players required for each position. Please check the roster breakdown.	%s 팀은 포지션별 필요한 선수 수가 부족합니다. 로스터 구성을 확인하세요.
+Advance To Preseason	프리시즌으로 진행
+Skip Training Camp	트레이닝 캠프 건너뛰기
+Select Player	선수 선택
+Player Info	선수 정보
+Select Drill	훈련 선택
+Advance to preseason?	프리시즌으로 진행하시겠습니까?
+Select Drill/Player	훈련/선수 선택
+Select a drill and then select a player 	훈련을 고른 다음 그 훈련을 할
+to attempt the drill. If you earn a 	선수를 고르세요. 동, 은, 금
+bronze, silver or gold trophy you will 	트로피를 따면 선수 능력치를
+be given points to increase player ratings.	올릴 포인트를 받습니다.
+Change drill	훈련 변경
+Select highlighted drill or player	선택 훈련/선수 결정
+Skip training camp	트레이닝 캠프 건너뛰기
+----- Player Select -----	----- 선수 선택 -----
+Sort column	열 정렬
+Selected Drill	선택한 훈련

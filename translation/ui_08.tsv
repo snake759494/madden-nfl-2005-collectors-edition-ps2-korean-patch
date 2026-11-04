@@ -1,0 +1,297 @@
+# 프로필 / 구단주 / 트레이드 팝업
+Last Game	지난 경기
+Avg Points/Game	경기당 평균 득점
+Avg Rush Yds/Game	경기당 평균 러싱 야드
+Avg Pass Yds/Game	경기당 평균 패싱 야드
+Mini-Camp	미니 캠프
+Active Profile Select	활성 프로필 선택
+Choose an active profile. You can	활성 프로필을 고르세요.
+also change your favorite team here.	여기서 응원 팀도 바꿀 수 있습니다.
+To change the active profile, select	활성 프로필을 바꾸려면 원하는
+it while it is highlighted.	프로필에 맞추고 선택하세요.
+Rename profile	프로필 이름 변경
+CHOOSE ACTIVE PROFILE	활성 프로필 선택
+Current Active Profile	현재 활성 프로필
+Def. Playbook	수비 플레이북
+Off. Playbook	공격 플레이북
+Save Profile	프로필 저장
+Favorite Team	응원 팀
+Which profile would you\r\nlike to replace?	어느 프로필을\r\n교체하시겠습니까?
+Replace Profile	프로필 교체
+This pop-up allows you to replace 	이 팝업에서 현재 불러온
+a currently loaded profile.	프로필을 교체할 수 있습니다.
+---- EMPTY SLOT ----	---- 빈 슬롯 ----
+Preseason scheduling allows you to choose\r\nyour opponents in preseason.	프리시즌 일정 편성에서는\r\n프리시즌 상대를 고를 수 있습니다.
+All teams play a four game schedule.	모든 팀은 4경기를 치릅니다.
+Each user can choose up to four opponents	각 사용자는 상대를 최대 4팀까지 고르거나
+or allow the CPU to generate a schedule.	CPU에게 일정 편성을 맡길 수 있습니다.
+Preseason Help	프리시즌 도움말
+This screen details basic information	이 화면에서는 프리시즌 일정 편성의
+on preseason scheduling.	기본 정보를 설명합니다.
+General Popup	일반 팝업
+available options.	사용 가능한 옵션.
+Board of Advisors Comments	자문 위원회 의견
+These comments give you advice on	이 의견들은 프랜차이즈를 개선하는
+how to improve your franchise. They	방법을 조언하고, NFL 구단주로서
+also give feedback on how you are	어떻게 하고 있는지
+doing as an NFL owner.	평가해 줍니다.
+Board of advisors comments	자문 위원회 의견
+This is a general popup.	일반 팝업입니다.
+Note: Not all popups have	참고: 모든 팝업에 모든
+all the options available.	옵션이 있는 것은 아닙니다.
+Penalty: %s	위약금: %s
+Your current %s contract has not yet expired. Would you like to terminate his contract? %s	현재 %s의 계약이 아직 끝나지 않았습니다. 계약을 해지하시겠습니까? %s
+The coach has rejected your offer.	코치가 제안을 거절했습니다.
+Congratulations!  %s has accepted your offer.	축하합니다! %s이(가) 제안을 수락했습니다.
+Another team has outbid your offer.	다른 팀이 더 높은 제안을 했습니다.
+Specialty	전문 분야
+Salary Wanted	희망 연봉
+Money Available	사용 가능 자금
+Coaching Contract	코치 계약
+Make offers to coaching staff from this 	이 화면에서 코칭 스태프에게
+screen. If you are trying to sign a	제안합니다. 이미 채워진 자리에
+coach at an already filled position, you	코치를 영입하려면 현재 코치를
+will have to release the current coach.	해고해야 합니다.
+Cancel offer	제안 취소
+Contract Length Offered	제안 계약 기간
+Position Offered	제안 직책
+Salary Offered	제안 연봉
+Training Camp allows you to take your players\r\ninto Mini-Camp drills to help improve their skills.	트레이닝 캠프에서는 선수들을 미니 캠프 훈련에\r\n참가시켜 기량을 높일 수 있습니다.
+Training Camp	트레이닝 캠프
+Welcome to Franchise Training Camp!	프랜차이즈 트레이닝 캠프에 오신 것을 환영합니다!
+Welcome to Training Camp	트레이닝 캠프에 오신 것을 환영합니다
+Good luck!	행운을 빕니다!
+You are only allowed one player per drill.	훈련마다 선수 한 명만 참가할 수 있습니다.
+The same player cannot compete in more\r\nthan one drill.	같은 선수는 두 가지 이상의\r\n훈련에 참가할 수 없습니다.
+You must earn a trophy in each level to\r\nadvance to the next.	다음 단계로 가려면 각 단계에서\r\n트로피를 따야 합니다.
+You will be awarded attribute points for\r\nthat player based on which trophies you earn.	딴 트로피에 따라 해당 선수에게\r\n능력치 포인트가 주어집니다.
+Are you sure you want to give away %s at this weekend's game?	이번 주말 경기에서 %s을(를) 나눠 주시겠습니까?
+SELECT	선택
+Increase attendance for one home game per	매년 홈 경기 하나에서 팀 기념품을
+year by giving away team memorabilia.	나눠 주어 관중을 늘리세요.
+fan appreciation day	팬 감사의 날
+COST	비용
+GIVEAWAY	증정품
+Select Team Logo	팀 로고 선택
+Select a logo for your team. You can	팀 로고를 고르세요. 일반 로고, 글자,
+choose from generic logos, letters, NFL	NFL 로고, 역대 로고 중에서
+logos or historic logos.	고를 수 있습니다.
+SELECT LOGO	로고 선택
+Select Team Type	팀 유형 선택
+Choose the type of team that	여기서 만든 팀의
+you want for your created team here.	유형을 고르세요.
+SET TEAM TYPE	팀 유형 설정
+%s Balance Sheet	%s 대차대조표
+Year %s Net Income	%s년 순이익
+Income	수입
+TOTAL ASSETS:	총 자산:
+Ticket Sales	입장권 판매
+Concessions	매점
+Merchandise	상품
+NFL Shared Revenue	NFL 공동 수익
+Local Media Contract	지역 방송 계약
+Parking	주차
+Player Salaries	선수 연봉
+Staff Salaries	스태프 연봉
+Stadium Upgrades	경기장 개선
+Stadium Maintenance	경기장 유지
+Advertising	광고
+Fan Appreciation Day	팬 감사의 날
+Expenses	지출
+Sponsor/Relocation Income	스폰서/이전 수입
+Owner Balance Sheet	구단주 대차대조표
+This yearly balance sheet presents you	이 연간 대차대조표는 수입원,
+with a list of your sources of income,	한 해 총수입, 지출,
+your total income for the year, your	연말 잔액을
+expenses, and your balance at year end.	보여 줍니다.
+Change team (only when	팀 변경 (대차대조표를
+     balance sheet is	     직접 열었을
+     brought up manually)	     때만)
+Would you like to hire %s to replace	%s을(를) 고용해 현재 트레이닝 스태프
+your current training staff, %s?	%s을(를) 교체하시겠습니까?
+Salary	연봉
+Knowledge	지식
+Prevention	예방
+Recovery	회복
+Sign Training Staff	트레이닝 스태프 계약
+Sign your training staff from this 	이 화면에서 트레이닝 스태프와
+screen. When you hire the new 	계약합니다. 새 스태프를 고용하면
+staff, they will work for you for three	3년 동안
+years.	일합니다.
+HIRE NEW TRAINING STAFF	새 트레이닝 스태프 고용
+team to %s?	팀을 %s(으)로 옮기시겠습니까?
+Are you sure you wish to move your	정말로
+Relocation City Info	이전 도시 정보
+View all relevent information regarding	프랜차이즈를 옮기려는 도시의
+the city you are considering moving	관련 정보를
+your franchise to.	모두 봅니다.
+Population	인구
+Growth %	성장률 %
+Region	지역
+Average Income	평균 소득
+NORTHWEST	북서부
+In-State Teams	같은 주의 팀
+Avg. High	평균 최고
+Avg. Low	평균 최저
+Sept.	9월
+Dec.	12월
+Desire	의욕
+This feature of franchise mode lets you become\r\nthe owner of your favorite team.	프랜차이즈 모드의 이 기능으로\r\n응원 팀의 구단주가 될 수 있습니다.
+Set the prices of tickets, concessions,\r\nmerchandise and more.	입장권, 매점, 상품 등의\r\n가격을 정하세요.
+Hire the best coaching staff possible to improve \r\nyour player progression.	최고의 코칭 스태프를 고용해 \r\n선수 성장을 높이세요.
+Renovate your stadium or work with your\r\ncity to build a new one.	경기장을 개축하거나 시와 협력해\r\n새 경기장을 지으세요.
+Consult your board of advisors for team\r\nimprovements.	팀 개선을 위해\r\n자문 위원회와 상의하세요.
+Welcome to Owner's Box	구단주 박스에 오신 것을 환영합니다
+Welcome to the Owner's Box.	구단주 박스에 오신 것을 환영합니다.
+WELCOME TO THE OWNER'S BOX	구단주 박스에 오신 것을 환영합니다
+Are you sure you want to renovate the %s?	%s을(를) 개축하시겠습니까?
+Choose the stadium section you wish to renovate:	개축할 경기장 구역을 고르세요:
+Available Money:	사용 가능 자금:
+Renovate Stadium	경기장 개축
+Renovate your stadium from this 	이 화면에서 경기장을 개축합니다
+RENOVATION OPTIONS	개축 옵션
+Minimum Cost	최소 비용
+Section	구역
+You must first select the player/draft pick you want in return.	먼저 대가로 받을 선수/지명권을 골라야 합니다.
+Choose the positions and minimum ratings\r\n(or draft picks) you want in return.	대가로 원하는 포지션과 최소 능력치\r\n(또는 지명권)를 고르세요.
+Edit Proposal	제안 편집
+This pop-up allows you to set up your	이 팝업에서 트레이드 블록
+trade block proposal.	제안을 설정합니다.
+View Offers	제안 보기
+Overall/Pick	종합/지명
+Sponsorship Offer	스폰서십 제안
+Accept the corporate sponsorships	이 화면에서 기업 스폰서십을
+from this screen. Be sure to pay	수락합니다. 수락하는 계약의
+attention to the details of the 	세부 내용을 꼭
+agreement you accept.	확인하세요.
+Accept	수락
+Sponsor	스폰서
+Compensation	보상
+Details	세부 내용
+A Game Boy± Advance has been detected.\nWould you like to enable it?	게임보이± 어드밴스가 감지되었습니다.\n사용하시겠습니까?
+|YES|^NO	|예|^아니요
+Please Wait...\nData is being transferred to the Game Boy± Advance.	잠시 기다려 주세요...\n게임보이± 어드밴스로 데이터를 전송 중입니다.
+There was an error transferring data to the\nGame Boy± Advance.  It will not be enabled.	게임보이± 어드밴스로 데이터를 전송하는 중\n오류가 발생했습니다. 사용할 수 없습니다.
+|^Continue|Retry	|^계속|다시 시도
+Do you want to display in Progressive Mode?	프로그레시브 모드로 표시하시겠습니까?
+Screen has been set to Progressive Mode.	화면이 프로그레시브 모드로 설정되었습니다.
+Progressive Mode has been turned off.	프로그레시브 모드가 꺼졌습니다.
+PURCHASE TEAM	팀 인수
+Are you sure you want to purchase the %s	%s을(를)
+for %s? This will leave you with %s.	%s에 인수하시겠습니까? 남는 자금은 %s입니다.
+Fan Support	팬 지지도
+Stadium Rating	경기장 평점
+Purchase Team	팀 인수
+Confirm the purchase of a team	팀 인수 확인
+Chat	채팅
+On-screen Keyboard	화면 키보드
+Please Enter Text	텍스트를 입력하세요
+Keyboard	키보드
+Edit or enter text with the keyboard.	키보드로 텍스트를 입력하거나 편집합니다.
+Navigate keyboard interface	키보드 이동
+Turn on/off caps	대문자 켜기/끄기
+Select highlighted character	선택 문자 입력
+Delete entered character	입력 문자 삭제
+Cancel keyboard	키보드 취소
+       Back	       뒤로
+    Done	    완료
+        Shift	        Shift
+           Space	           스페이스
+Skill Level	난이도
+Practice Mode Select	연습 모드 선택
+This popup lets you choose	이 팝업에서 연습 시나리오를
+your practice scenario.	고를 수 있습니다.
+Select Skill Level	난이도 선택
+This popup lets you choose the 	이 팝업에서 러싱 어택의
+skill level for Rushing Attack.	난이도를 고를 수 있습니다.
+You have just unlocked\nthis Madden Card.	이 매든 카드를\n열었습니다.
+Congratulations	축하합니다
+This Madden Card is a reward for your \r\nprogress in EA SPORTS° Bio.	이 매든 카드는 EA SPORTS° 바이오 \r\n진행에 대한 보상입니다.
+Retired Coach	은퇴한 감독
+The coach has retired.	감독이 은퇴했습니다.
+No User Teams	사용자 팀 없음
+?Warning	?경고
+Placing a player on the Injured Reserve list will make him inactive for the rest of the season.	선수를 부상자 명단에 올리면 남은 시즌 동안 출전할 수 없습니다.
+|Place on IR|^Cancel	|부상자 명단 등록|^취소
+This option is not yet available	아직 사용할 수 없는 옵션입니다
+Name this player Team Captain? 	이 선수를 주장으로 임명하시겠습니까?
+Remove Team Captain status from this player?	이 선수의 주장 자격을 해제하시겠습니까?
+Name this player Team Captain?	이 선수를 주장으로 임명하시겠습니까?
+Apply 'Franchise' tag to this player?	이 선수에게 '프랜차이즈' 태그를 붙이시겠습니까?
+Remove Captain Status	주장 해제
+Name Team Captain	주장 임명
+Player Management	선수 관리
+Comments	의견
+No actions available	가능한 행동 없음
+Place on IR	부상자 명단 등록
+Release Player	선수 방출
+Re-Sign Player	선수 재계약
+Trade For Player	선수 트레이드 영입
+Place on Trade Block	트레이드 블록 등록
+Name Team Captain           	주장 임명
+Apply 'Franchise' Tag	'프랜차이즈' 태그
+Interact with your player from this screen.	이 화면에서 선수를 관리합니다.
+You can also view key player information	PDA에서 주요 선수 정보도
+on the PDA.	볼 수 있습니다.
+Stats - %s	기록 - %s
+Projected Starter	예상 주전
+Runner Up	차점자
+Position Battle	주전 경쟁
+View the details of a position battle.	주전 경쟁의 세부 내용을 봅니다.
+Bonus	보너스
+Sal.	연봉
+Year %d	%d년
+You do not have enough salary cap room to make this offer.	이 제안을 하기에 캡 여유가 부족합니다.
+You do not have room on your roster for the player.	로스터에 선수 자리가 없습니다.
+You do not have the draft pick(s) needed for compensation.	보상에 필요한 지명권이 없습니다.
+The draft pick(s) that must be given to the team as compensation, may result in the team exceeding the max draft picks allowed.	보상으로 줘야 하는 지명권 때문에 상대 팀의 지명권이 최대치를 넘을 수 있습니다.
+The %s will no longer be able to make qualifying offers to restricted free agents. Are you sure you want to continue?	%s 팀은 더 이상 제한적 FA 선수에게 퀄리파잉 오퍼를 할 수 없게 됩니다. 계속하시겠습니까?
+If you withdraw the offer, the player will become an unrestricted free agent. Do you want to continue?	제안을 철회하면 선수는 비제한적 FA가 됩니다. 계속하시겠습니까?
+|Withdraw Offer|^Cancel	|제안 철회|^취소
+Match offer?	같은 조건을 제시하시겠습니까?
+Allow the player to sign with another team?	선수가 다른 팀과 계약하도록 두시겠습니까?
+Match Offer	같은 조건 제시
+Decline	거절
+Penalties	반칙
+Restricted Free Agent Offer	제한적 FA 제안
+Set the terms of your offer from this	이 화면에서 제안 조건을 정합니다
+RESTRICTED FREE AGENT OFFER	제한적 FA 제안
+Contract Length	계약 기간
+You have already played this card	이미 사용한 카드입니다
+Rarity:	희귀도:
+Value:	가치:
+Length:	기간:
+Price:	가격:
+This is the card's description.	카드 설명입니다.
+Enter Text	텍스트 입력
+Please enter text.	텍스트를 입력하세요.
+Backspace	지우기
+      Back	      뒤로
+      Done	      완료
+     Space	     스페이스
+Trade Proposal	트레이드 제안
+View the trade proposal from 	다음 팀의 트레이드 제안을 봅니다:
+Accept Trade	트레이드 수락
+Decline Trade	트레이드 거절
+Review Trade	트레이드 검토
+For	교환
+%s Get:	%s 획득:
+There has been a trade.	트레이드가 성사되었습니다.
+This is general help for this pop-up.	이 팝업의 일반 도움말입니다.
+Trade Notification	트레이드 알림
+Contract Breakdown	계약 내역
+View the year by year breakdown of your	이 화면에서 제안의 연도별
+offer from this screen.	내역을 봅니다.
+%s %s's Interests	%s %s의 관심 사항
+Overall Interest in Joining the %s	%s 입단 종합 관심도
+Player Interests	선수 관심 사항
+View the player's interests from this screen.	이 화면에서 선수의 관심 사항을 봅니다.
+Supporting Cast	동료 선수
+Importance	중요도
+TIME'S UP!!!	시간 종료!!!
+This is a general help menu.	일반 도움말 메뉴입니다.
+MY MADDEN 	마이 매든
+Tournament Menu	토너먼트 메뉴
+Access all tournament options from	여기서 모든 토너먼트 옵션을 이용합니다
+Exit tournament mode	토너먼트 모드 나가기
+PLAYOFFS	플레이오프

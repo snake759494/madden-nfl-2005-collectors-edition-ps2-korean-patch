@@ -1,0 +1,13 @@
+gametitle=Madden NFL 2005 [Special Collectors Edition] (SLUS-21025)
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=snake759494
+description=3D 화면 비율 4:3 -> 16:9 (투영 비율 상수 교체)
+
+patch=1,EE,2075c9b8,extended,3FE38E39 //3FAAAAAB
+patch=1,EE,2075c9bc,extended,3FE38E39 //3FAAAAAB
+patch=1,EE,2075e91c,extended,3FE38E39 //3FAAAAAB
+patch=1,EE,2075e924,extended,3FE38E39 //3FAAAAAB
+patch=1,EE,2075e930,extended,3FE38E39 //3FAAAAAB
+patch=1,EE,2075fb48,extended,3FE38E39 //3FAAAAAB

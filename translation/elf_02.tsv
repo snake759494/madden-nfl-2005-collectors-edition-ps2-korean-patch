@@ -1,0 +1,336 @@
+# ELF 문자열 2
+Rookie Info	신인 정보
+Not Applicable	해당 없음
+Next Opponent	다음 상대
+Team   W  L  T  %	팀     승 패 무 %
+Draft Board	드래프트 보드
+No Recommendations	추천 없음
+Def. End	디펜시브 엔드
+Def. Tackle	디펜시브 태클
+Out. Linebacker	아웃사이드 LB
+Mid. Linebacker	미들 LB
+No Position Needs	필요 포지션 없음
+Sal. Cap:	샐러리캡:
+Cap Room:	캡 여유:
+Penalties:	페널티:
+Team Sal.:	팀 연봉:
+Prestige	명성
+Job opportunity	출전 기회
+Icon on team	팀의 스타
+Head coach	감독
+Coordinators	코디네이터
+Top ranked team	상위권 팀
+Nice stadium	좋은 경기장
+Large market	큰 시장
+Great fans	열성 팬
+Great team	강팀
+Nice weather	좋은 날씨
+Successful team	성공한 팀
+Be a mentor	멘토 역할
+Supporting cast	동료 선수
+What I Want	원하는 것
+Best Players	최고 선수
+By Season	시즌별
+Get paid %s by your sponsor every time you 	다음을 할 때마다 스폰서에게 %s 받기:
+Get paid by your sponsor every time you 	다음을 할 때마다 스폰서에게 받기:
+Conditions	조건
+No Sponsor - Rename Manually	스폰서 없음 - 직접 이름 변경
+%d years	%d년
+Approximate Cost: 	예상 비용:
+Money required from city: 	시 부담금:
+New stadium plans approved!	새 경기장 계획 승인!
+New stadium plans denied.	새 경기장 계획 거부.
+Best Offer - Team	최고 제안 - 팀
+Unemployed	무직
+Assistants	보조 코치
+Relocation	연고지 이전
+Stadium Sponsorship	경기장 스폰서십
+Last Home Game	지난 홈 경기
+Current Season	현재 시즌
+NOT IN NFL	NFL 아님
+offer to your coach	코치에게 제안
+offer to the %s coach	%s 코치에게 제안
+an offer to a coach	코치에게 제안
+offer to %s	%s에게 제안
+Per Year	연간
+Advisor Comments are not available until season starts.	자문 의견은 시즌이 시작되어야 볼 수 있습니다.
+Incompetent	무능
+Untalented	재능 없음
+Very Poor	매우 나쁨
+Very Good	매우 좋음
+O. Coordinator	공격 코디
+D. Coordinator	수비 코디
+%d Income	%d 수입
+%d Record	%d 전적
+SELECT LOCATION	장소 선택
+DESIGN STADIUM	경기장 디자인
+SECURE FUNDS	자금 확보
+CHANGE UNIFORM	유니폼 변경
+Nickname: %s	팀명: %s
+Approximate Cost: %s	예상 비용: %s
+Money Required From City: %s	시 부담금: %s
+Approval: Granted	승인: 허가
+Approximate Cost: Unknown	예상 비용: 미정
+Money Required From City: Unknown	시 부담금: 미정
+Approval: Pending	승인: 대기
+Team Desire	팀 유치 의욕
+March 1, %d	%d년 3월 1일
+OTHER CITIES	기타 도시
+Acceleration	가속력
+Catching	캐치
+Carrying	볼 운반
+Throw Power	송구력
+Throw Accuracy	송구 정확도
+Kick Power	킥 파워
+Break Tackle	태클 돌파
+Pass Block	패스 블록
+Run Block	런 블록
+Kick Return	킥 리턴
+North Endzone	북쪽 엔드존
+North Corner	북쪽 코너
+South Endzone	남쪽 엔드존
+South Corner	남쪽 코너
+East Sideline	동쪽 사이드라인
+West Sideline	서쪽 사이드라인
+Stripe Type	줄무늬 종류
+Stripe Color	줄무늬 색
+Helmet Color	헬멧 색
+Facemask Color	페이스마스크 색
+Jersey Type	저지 종류
+Jersey Color	저지 색
+Number Type	번호 종류
+Number Color	번호 색
+Outline Color	테두리 색
+Pants Color	바지 색
+Belt Color	벨트 색
+Sock Type	양말 종류
+Sock Color	양말 색
+Shoe Color	신발 색
+This will put the team over the salary cap, turning off the salary cap option which can not be turned back on until reset.	팀이 샐러리캡을 넘게 되어 샐러리캡 옵션이 꺼지며, 리셋하기 전까지 다시 켤 수 없습니다.
+Toughness	강인함
+You must release created player before deleting.	삭제하려면 먼저 만든 선수를 방출해야 합니다.
+Not a user modifiable team	사용자가 수정할 수 없는 팀
+This player is part of the Pro Bowl team	프로 볼 명단에 든 선수입니다
+Attribute	능력치
+Punt Return	펀트 리턴
+Contract Details	계약 세부
+Career Statistics	통산 기록
+Draft Info	드래프트 정보
+Tot Salary	총 연봉
+Sign Bonus	계약 보너스
+Pro Bowl Selections	프로 볼 선정
+ROUND %d PICK %d	%d라운드 %d순위
+FREE AGENCY	FA
+NFL DRAFT	NFL 드래프트
+FANTASY DRAFT	판타지 드래프트
+EXPANSION DRAFT	확장 드래프트
+REL. BY %s	%s에서 방출
+Choose a Type	유형 선택
+Punt return	펀트 리턴
+Coach %d	감독 %d
+Winning Seasons	승률 5할 이상 시즌
+Playoff Record	플레이오프 전적
+Super Bowl Record	슈퍼볼 전적
+Biggest Win	최다 점수 차 승리
+Worst Loss	최다 점수 차 패배
+Longest Win Streak	최장 연승
+W %d-%d vs. %s	승 %d-%d vs. %s
+W %d-%d at %s	승 %d-%d @ %s
+T %d-%d vs. %s	무 %d-%d vs. %s
+T %d-%d at %s	무 %d-%d @ %s
+L %d-%d vs. %s	패 %d-%d vs. %s
+L %d-%d at %s	패 %d-%d @ %s
+Off Season	오프시즌
+Off-Season	오프시즌
+Eliminated	탈락
+Week %d vs. %s	%d주차 vs. %s
+Week %d at %s	%d주차 @ %s
+Div. vs. %s	지구 vs. %s
+Wild vs. %s	와일드 vs. %s
+Wild at %s	와일드 @ %s
+Div. at %s	지구 @ %s
+Conf. vs. %s	컨퍼 vs. %s
+Conf. at %s	컨퍼 @ %s
+SB vs. %s	슈퍼볼 vs. %s
+No comment.	의견 없음.
+No comments for CPU coaches.	CPU 감독은 의견이 없습니다.
+New Season	새 시즌
+None awarded.	수상자 없음.
+Points Per Game	경기당 득점
+Passing TD	패싱 TD
+Rushing TD	러싱 TD
+1st Downs	퍼스트 다운
+Sacks Allowed	허용 색
+Redzone Attempts	레드존 시도
+Redzone TD	레드존 TD
+Redzone FG	레드존 FG
+Redzone Scoring %	레드존 득점률
+Avg Pts Against	평균 실점
+Fumbles Recovered	펌블 리커버
+3rd Down Conv	3다운 성공
+3rd Down Att	3다운 시도
+3rd Down %	3다운 %
+4th Down Conv	4다운 성공
+4th Down Att	4다운 시도
+4th Down %	4다운 %
+2 Point Conv	2점 전환 성공
+2 Point Att	2점 전환 시도
+2 Point %	2점 전환 %
+Yards Penalized	반칙 야드
+Int Thrown	피인터셉트
+Fumbles Lost	펌블 실점
+Giveaways	턴오버 허용
+Def Interceptions	수비 인터셉트
+Takeaways	턴오버 획득
+TO Difference	턴오버 차
+Off. Player	공격 선수
+Def. Player	수비 선수
+Off. Rookie	공격 신인
+Def. Rookie	수비 신인
+Best Kicker	최고 키커
+Generating Schedule...	일정 만드는 중...
+The team must have a coach.	팀에 감독이 있어야 합니다.
+The team must have the required number of players	팀에 포지션별로 필요한 선수가 있어야 합니다.
+for each position. Please check the roster breakdown.	로스터 구성을 확인하세요.
+An unexpected error occurred.	예기치 못한 오류가 발생했습니다.
+Carries -	러싱 -
+Catches -	캐치 -
+1 Fumble Forced	펌블 유도 1
+%d Fumbles Forced	펌블 유도 %d
+1 FUMBLE FORCED	펌블 유도 1
+%d FUMBLES FORCED	펌블 유도 %d
+CARRIES -	러싱 -
+CATCHES -	캐치 -
+Default Home	기본 홈
+Default Away	기본 원정
+Alternate %d	대체 %d
+Custom Home	커스텀 홈
+Custom Away	커스텀 원정
+Alternate Home	대체 홈
+Custom Alt. Home	커스텀 대체 홈
+Alternate Away	대체 원정
+Custom Alt. Away	커스텀 대체 원정
+TEAM STATISTICS	팀 기록
+Total Offense     	총 공격
+First Downs       	퍼스트 다운
+Third Down Eff    	3다운 성공률
+Fourth Down Eff   	4다운 성공률
+2-Point Conv      	2점 전환
+Redzone Att-TD-FG 	레드존 시도-TD-FG
+Rush Att-Yards    	러싱 시도-야드
+Average Per Rush  	러싱 평균
+Passing Yards     	패싱 야드
+Average Per Pass  	패스 평균
+Defensive Ints    	수비 인터셉트
+Punt Return Yards 	펀트 리턴 야드
+Kick Return Yards 	킥 리턴 야드
+Fumbles Lost      	펌블 실점
+SCORING SUMMARY	득점 요약
+1st Quarter	1쿼터
+2nd Quarter	2쿼터
+3rd Quarter	3쿼터
+Overtime	연장전
+%s SAFETY	%s 세이프티
+PLAYER STATISTICS	선수 기록
+%s %d yard pass from %s	%s %d야드 패스 (%s)
+%s 1 yard run	%s 1야드 런
+%s %d yard run	%s %d야드 런
+%s %d yard fumble return	%s %d야드 펌블 리턴
+%s %d yard interception return	%s %d야드 인터셉트 리턴
+%s %d yard kick return	%s %d야드 킥 리턴
+%s %d yard punt return	%s %d야드 펀트 리턴
+%s %d yards	%s %d야드
+%s tackled by %s in the endzone	%s, 엔드존에서 %s에게 태클
+Extra point good	추가 득점 성공
+Extra point missed	추가 득점 실패
+2 Point conversion successful	2점 전환 성공
+2 Point conversion failed	2점 전환 실패
+Drive Info: %d Plays, 	드라이브: %d플레이,
+%s%d Yds, 	%s%d야드,
+%sTOP %d:0%d, 	%s공격시간 %d:0%d,
+%sTOP %d:%d, 	%s공격시간 %d:%d,
+%s%d:0%d left in qtr	%s쿼터 %d:0%d 남음
+%s%d:%d left in qtr	%s쿼터 %d:%d 남음
+Starting Fantasy Draft...	판타지 드래프트 시작 중...
+Finalizing Fantasy Draft...	판타지 드래프트 마무리 중...
+Unlimited	무제한
+Re-signings	재계약
+Holdouts	계약 거부
+Releases	방출
+Injured Reserve	부상자 명단
+Miscellaneous	기타
+Too many articles	기사가 너무 많음
+Advancing To Off-Season...	오프시즌으로 진행 중...
+Team Need	팀 요구
+Icon on Team	팀의 스타
+Great Team	강팀
+Team Talent	팀 전력
+Team Success	팀 성적
+Mentoring	멘토링
+%d Years	%d년
+Draft Pick	지명권
+Round %d Pick %d	%d라운드 %d순위
+Round %d Pick	%d라운드 지명
+Gathering Offers...	제안 모으는 중...
+Warning: This will put the team below the roster's minimum requirements.	경고: 팀이 로스터 최소 요건에 못 미치게 됩니다.
+Release rejected: Max injured free agent allowed will be exceeded.	방출 거부: 부상 FA 최대 수를 넘습니다.
+Release rejected: %s is on injured reserve.	방출 거부: %s은(는) 부상자 명단에 있습니다.
+RELEASE REJECTED:  This will put the team below the roster's minimum requirements.	방출 거부: 팀이 로스터 최소 요건에 못 미치게 됩니다.
+Release rejected: Cannot release a Pro Bowl player until after the Pro Bowl has been played.	방출 거부: 프로 볼이 끝나기 전에는 프로 볼 선수를 방출할 수 없습니다.
+Release rejected: Unknown reason.	방출 거부: 알 수 없는 이유.
+Rejected: %s would exceed the salary cap.	거부: %s 팀이 샐러리캡을 넘습니다.
+Rejected: %s roster is full.	거부: %s 로스터가 가득 찼습니다.
+Rejected: %s roster has too many injured players.	거부: %s 로스터에 부상 선수가 너무 많습니다.
+Simulating Game	경기 시뮬레이션 중
+Simulating Week	주간 시뮬레이션 중
+No games.	경기 없음.
+Simulating Season	시즌 시뮬레이션 중
+Simulating Preseason	프리시즌 시뮬레이션 중
+Draft Picks	지명권
+Rnd %d, pick %d	%d라운드, %d순위
+Rnd %d pick	%d라운드 지명
+Trade Deadline Passed	트레이드 마감 지남
+Cannot trade between more than two teams.	세 팀 이상은 트레이드할 수 없습니다.
+Cannot trade between the same team.	같은 팀끼리는 트레이드할 수 없습니다.
+Trade rejected: Cannot submit trade until all week %d games have been played.	트레이드 거부: %d주차 경기가 모두 끝나야 제출할 수 있습니다.
+Trade rejected: %s don't have the cap room.	트레이드 거부: %s 팀의 캡 여유가 없습니다.
+Trade rejected: %s would exceed the maximum of %d players on a roster.	트레이드 거부: %s 팀이 로스터 최대 %d명을 넘습니다.
+Trade rejected: %s would exceed the maximum of %d draft picks for a team.	트레이드 거부: %s 팀이 지명권 최대 %d개를 넘습니다.
+Trade rejected: %s are not interested in your trade.	트레이드 거부: %s 팀은 관심이 없습니다.
+Trade rejected: %s is not available.	트레이드 거부: %s은(는) 트레이드할 수 없습니다.
+Trade rejected: %s draft pick %d is not available.	트레이드 거부: %s의 %d 지명권은 쓸 수 없습니다.
+Trade rejected: %s draft pick %d owed as compensation for %s restricted free agent %s.	트레이드 거부: %s의 %d 지명권은 %s 제한적 FA %s의 보상으로 넘겨야 합니다.
+Trade rejected: %s has been selected to play in the Pro Bowl. The Pro Bowl game must first be played.	트레이드 거부: %s은(는) 프로 볼 선수입니다. 프로 볼이 먼저 끝나야 합니다.
+Trade rejected: %s's contract has expired.	트레이드 거부: %s의 계약이 끝났습니다.
+Trade rejected: %s cannot be traded while injured.	트레이드 거부: %s은(는) 부상 중이라 트레이드할 수 없습니다.
+Trade rejected: Trade will put %s below minimum %ss.	트레이드 거부: %s 팀의 %s 인원이 최소에 못 미칩니다.
+Trade rejected: Unknown reason.	트레이드 거부: 알 수 없는 이유.
+Trade will put %s below minimum %ss	%s 팀의 %s 인원이 최소에 못 미치게 됩니다
+2nd Place	2위
+3rd Place	3위
+Pancakes	팬케이크
+Double Elimination	더블 엘리미네이션
+Single Elimination	싱글 엘리미네이션
+Double Round Robin	더블 리그전
+Round Robin	리그전
+Longest Run	최장 런
+Longest Pass	최장 패스
+Longest Punt	최장 펀트
+Longest FG	최장 FG
+Longest PR	최장 펀트 리턴
+Longest KR	최장 킥 리턴
+Longest INT Return	최장 인터셉트 리턴
+Most Points Scored	최다 득점
+Most Total Yds	최다 총 야드
+Most Offensive Yds	최다 공격 야드
+Most Passing Yds	최다 패싱 야드
+Most Rushing Yds	최다 러싱 야드
+Most Sacks	최다 색
+Most Int	최다 인터셉트
+Games Played	경기 수
+Played	경기
+Pass Yds	패싱 야드
+Rush Yds	러싱 야드
+Rush TDs	러싱 TD
+Rush Att	러싱 시도
+Rush Avg	러싱 평균

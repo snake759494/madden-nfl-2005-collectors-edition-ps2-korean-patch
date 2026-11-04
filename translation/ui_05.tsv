@@ -1,0 +1,330 @@
+# 유니폼 / 경기장 디자인 / 팬 만들기 / 설정
+Single w/Logo	1줄+로고
+Single	1줄
+Triple w/Logo	3줄+로고
+Triple	3줄
+Short w/Logo	짧은 줄+로고
+Short	짧은 줄
+Logo	로고
+Jersey 1	저지 1
+Jersey 2	저지 2
+Jersey 3	저지 3
+Jersey 4	저지 4
+Type 1	유형 1
+Type 2	유형 2
+Type 3	유형 3
+Type 4	유형 4
+Type 5	유형 5
+Wide Stripe	굵은 줄무늬
+Single Stripe	1줄 줄무늬
+Double Stripe	2줄 줄무늬
+Triple Stripe	3줄 줄무늬
+Short Stripe	짧은 줄무늬
+Edit Color	색상 편집
+Create your team's home and away	이 화면에서 팀의 홈/원정
+uniforms from this screen.	유니폼을 만듭니다.
+Note: The left two colors on the color bar are your	참고: 색상 막대의 왼쪽 두 색은
+team's primary and secondary colors.	팀의 주 색상과 보조 색상입니다.
+Create team	팀 만들기
+Change uniform options	유니폼 옵션 변경
+Edit color	색상 편집
+Continue (not available when	계속 (만든 팀 편집 시에는
+     editing a created team)	     불가)
+Previous screen (not available	이전 화면 (프랜차이즈 모드에서는
+     in Franchise Mode)	     불가)
+Select Color	색상 선택
+Color Bar	색상 막대
+This is where you change 	이 화면에서 만든 팀
+the color for your created	유니폼의 색상을
+team uniforms.	바꿉니다.
+CHOOSE A COLOR	색상 선택
+Blue	파랑
+Brightness	밝기
+Green	초록
+BUILD	체격
+Arms	팔
+Rear	엉덩이
+Legs	다리
+Equipment	장비
+Edit Build	체격 편집
+Edit the player's build from this 	이 화면에서 선수의 체격을
+Move slider bar	슬라이더 이동
+Change body part	신체 부위 변경
+Edit the player's build from this	이 화면에서 선수의 체격을
+Flak Jacket	플랙 재킷
+Pad Height	패드 높이
+Pad Shelf	패드 돌출
+Pad Width	패드 너비
+Thigh Pads	허벅지 패드
+Calf Fat	종아리 지방
+Calf Muscle	종아리 근육
+Thigh Fat	허벅지 지방
+Thigh Muscle	허벅지 근육
+Fat	지방
+Muscle	근육
+Shape	체형
+Waist	허리
+The screens in this area allow you	이 영역의 화면에서 만든 선수를
+to edit created players, delete created	편집하거나 삭제하거나
+players, and save your created players.	저장할 수 있습니다.
+information	정보
+appearance	외모
+build	체격
+equipment	장비
+attributes	능력치
+create-a-player	선수 만들기
+to create a team.	팀을 만듭니다.
+design stadium	경기장 디자인
+uniform editor	유니폼 편집기
+create-a-team	팀 만들기
+Simulate the rest of the Fantasy Draft?	판타지 드래프트의 나머지를 시뮬레이션하시겠습니까?
+%d of %d	%d / %d
+On The Clock:	지명 차례:
+Drafted	지명됨
+Available	지명 가능
+You cannot draft %s because	%s을(를) 지명할 수 없습니다.
+the team is not on the clock.	지명 차례가 아닙니다.
+the player is not available.	지명할 수 없는 선수입니다.
+you must first fill your roster.	먼저 로스터를 채워야 합니다.
+you cannot afford that player.	연봉 여유가 없습니다.
+max injured players on roster.	부상 선수 수가 최대입니다.
+Show the draft summary screen	드래프트 요약 화면 보기
+Draft Player	선수 지명
+Sort Column	열 정렬
+Press       to\nstart Fantasy Draft.	      버튼을 눌러\n판타지 드래프트 시작.
+Fantasy Draft is complete.	판타지 드래프트가 끝났습니다.
+|^View Draft Summary|Continue	|^드래프트 요약 보기|계속
+Current Pick Cap	현재 지명 캡
+Round #	라운드 #
+Draft available players from this 	이 화면에서 지명 가능한 선수를
+Change highlighted attribute	선택 능력치 변경
+Press      to\r\nstart Fantasy Draft.	     버튼을 눌러\r\n판타지 드래프트 시작.
+UNLIMITED	무제한
+Fantasy Draft Info	판타지 드래프트 정보
+the upcoming fantasy draft.	다가오는 판타지 드래프트.
+fantasy draft	판타지 드래프트
+tournament	토너먼트
+Design Stadium	경기장 디자인
+LOADING . . .	불러오는 중 . . .
+Exit and lose changes to current stadium?	현재 경기장의 변경 사항을 버리고 나가시겠습니까?
+Continue with these renovations?	이대로 개축하시겠습니까?
+PATTERN %d	패턴 %d
+Approx Price	예상 비용
+Remaining Assets	남은 자산
+N End zone	북쪽 엔드존
+N Corner	북쪽 코너
+S End zone	남쪽 엔드존
+S Corner	남쪽 코너
+E Sideline	동쪽 사이드라인
+W Sideline	서쪽 사이드라인
+Roof/Lights	지붕/조명
+Info	정보
+Field	필드
+1st Deck - N End zone	1층 - 북쪽 엔드존
+2nd Deck - N End zone	2층 - 북쪽 엔드존
+3rd Deck - N End zone	3층 - 북쪽 엔드존
+1st Deck - NW Corner	1층 - 북서 코너
+1st Deck - NE Corner	1층 - 북동 코너
+1st Deck - S End zone	1층 - 남쪽 엔드존
+2nd Deck - S End zone	2층 - 남쪽 엔드존
+3rd Deck - S End zone	3층 - 남쪽 엔드존
+1st Deck - SW Corner	1층 - 남서 코너
+1st Deck - SE Corner	1층 - 남동 코너
+1st Deck - E Sideline	1층 - 동쪽 사이드라인
+2nd Deck - E Sideline	2층 - 동쪽 사이드라인
+3rd Deck - E Sideline	3층 - 동쪽 사이드라인
+1st Deck - W Sideline	1층 - 서쪽 사이드라인
+2nd Deck - W Sideline	2층 - 서쪽 사이드라인
+3rd Deck - W Sideline	3층 - 서쪽 사이드라인
+Field Name	필드 이름
+End zone Walls	엔드존 벽
+Sideline	사이드라인
+Grass Type	잔디 종류
+Midfield	미드필드
+End zone art	엔드존 아트
+End zone Background	엔드존 배경
+Background	배경
+Indent	들여쓰기형
+Stairs	계단형
+Tunnel	터널
+Straight Across	일자형
+Scoreboard Cut-In	전광판 삽입형
+Scoreboard	전광판
+Open Ended	개방형
+Split Scoreboard	분리형 전광판
+Open Scoreboard	개방형 전광판
+Closed Scoreboard	폐쇄형 전광판
+Extended	확장형
+Indented	오목형
+Press & Luxury	기자석/특별석
+Open Single Deck	개방형 단층
+2 Decks	2층
+4 Lights	조명 4개
+6 Lights	조명 6개
+8 Lights	조명 8개
+Roof 1	지붕 1
+Roof 2	지붕 2
+Roof 3	지붕 3
+Roof 4	지붕 4
+Roof 5	지붕 5
+PATTERN 1	패턴 1
+PATTERN 2	패턴 2
+PATTERN 3	패턴 3
+PATTERN 4	패턴 4
+PATTERN 5	패턴 5
+PATTERN 6	패턴 6
+PATTERN 7	패턴 7
+Natural Grass	천연 잔디
+Artificial Turf	인조 잔디
+Baseball	야구장
+EA SPORTS° Logo	EA SPORTS° 로고
+NFL Shield Logo	NFL 실드 로고
+Team Name #1	팀 이름 #1
+Team Name #2	팀 이름 #2
+Nickname #1	팀명 #1
+Nickname #2	팀명 #2
+Diamonds	다이아몬드
+Checkerboard	체크무늬
+Slashes	사선
+Primary	주 색상
+Secondary	보조 색상
+Metro 1	도시 1
+Metro 2	도시 2
+Rural	시골
+Mountains	산
+Desert	사막
+Tropical	열대
+Stadium Name 	경기장 이름
+Stadium Information	경기장 정보
+Create your stadium by selecting	경기장 구역, 필드 표면,
+stadium sections, a field surface,	필드 아트, 배경을 골라
+field art, and stadium backdrop.	경기장을 만드세요.
+Toggle stadium section (not available	경기장 구역 전환 (개축 시에는
+     when renovating stadium)	     불가)
+Edit stadium name (Info screen only)	경기장 이름 편집 (정보 화면만)
+Sideline Pattern	사이드라인 패턴
+Stadium Name	경기장 이름
+No teams	팀 없음
+Default Teams	기본 팀
+Saved Teams	저장된 팀
+Edit Historic Teams	역대 명문 팀 편집
+Choose a historic team to edit.  	편집할 역대 명문 팀을 고르세요.
+Note: You must earn a Madden	참고: 회색 팀은 매든 카드를
+Card for any team that is colored gray.	얻어야 사용할 수 있습니다.
+Toggle default/saved teams	기본/저장 팀 전환
+CHOOSE A ROSTER TO EDIT	편집할 로스터 선택
+FANTASY TEAM SELECTION	판타지 팀 선택
+Exit and lose changes?	변경 사항을 버리고 나가시겠습니까?
+Your team does not have enough players. You must fulfill your team needs to continue.	팀 선수가 부족합니다. 계속하려면 필요한 포지션을 채워야 합니다.
+Remove player from custom roster?	사용자 로스터에서 선수를 제거하시겠습니까?
+Roster Full	로스터 가득 참
+To remove players from your roster, switch to your team and select the desired player.	로스터에서 선수를 빼려면 내 팀으로 전환해 해당 선수를 고르세요.
+You have added the maximum number of players for this position.  To remove players from your roster, switch to your team and select the desired player.	이 포지션에 추가할 수 있는 선수 수가 최대입니다. 로스터에서 선수를 빼려면 내 팀으로 전환해 해당 선수를 고르세요.
+Fantasy Team Selection	판타지 팀 선택
+Add/Remove Player	선수 추가/제거
+Finish	완료
+Would you like to edit your existing Fantasy Team, or create a new one?	기존 판타지 팀을 편집하시겠습니까, 새로 만드시겠습니까?
+|Create new|Edit current|^Cancel	|새로 만들기|현재 팀 편집|^취소
+Cap RM	캡 여유
+Fill your roster spots with players	리그의 모든 팀 선수로
+from any team in the league.	로스터를 채우세요.
+Make sure you fill the minimums	포지션별 최소 인원을
+at each position.	반드시 채우세요.
+Add highlighted player to team	선택 선수를 팀에 추가
+Go to Player Information	선수 정보로 이동
+Add players to the roster by signing	FA 선수와 계약해
+free agents.	로스터에 추가하세요.
+Sign highlighted player	선택 선수 계약
+Exiting will cause all changes to Created Fan to be lost. Do you wish to continue?	나가면 만든 팬의 모든 변경 사항이 사라집니다. 계속하시겠습니까?
+Save current fan?	현재 팬을 저장하시겠습니까?
+|^Yes|No|Cancel	|^예|아니요|취소
+Skin 1	피부 1
+Skin 2	피부 2
+Skin 3	피부 3
+Skin 4	피부 4
+Skin 5	피부 5
+Skin 6	피부 6
+Skin 7	피부 7
+Skin 8	피부 8
+Bare	맨몸
+Painted 1	페인트 1
+Painted 2	페인트 2
+Painted 3	페인트 3
+Painted 4	페인트 4
+Painted 5	페인트 5
+T-Shirt	티셔츠
+Polo	폴로
+Oxford	옥스퍼드
+Average	보통
+Heavy	뚱뚱
+Blue Jeans	청바지
+Black Jeans	검정 청바지
+Olive Jeans	올리브 청바지
+Tan Khakis	황갈색 면바지
+Grey Khakis	회색 면바지
+Olive Khakis	올리브 면바지
+Face 1	얼굴 1
+Face 2	얼굴 2
+Face 3	얼굴 3
+Face 4	얼굴 4
+Face 5	얼굴 5
+Style 4	스타일 4
+Style 5	스타일 5
+Style 6	스타일 6
+Style 7	스타일 7
+Style 8	스타일 8
+Style 9	스타일 9
+Style 10	스타일 10
+Style 11	스타일 11
+Style 12	스타일 12
+Style 13	스타일 13
+Style 14	스타일 14
+Buzz	버즈
+Light Brown	밝은 갈색
+Cap Forward	모자 정방향
+Cap Backward	모자 거꾸로
+Clown	광대
+WinCraft Hard Hat	WinCraft 안전모
+Football	풋볼
+Cheesehead	치즈헤드
+Foamhead	폼 모자
+Eye Glasses	안경
+Sun Glasses	선글라스
+Foam Finger	폼 손가락
+Hot Dog	핫도그
+Camera	카메라
+Create-a-Fan	팬 만들기
+Create a fan for your favorite team.	응원 팀의 팬을 만드세요.
+Customize his appearance so he represents	팀을 멋지게 대표하도록
+your team well.	외모를 꾸며 보세요.
+Rotate fan	팬 회전
+Create fan	팬 만들기
+Body Shape	체형
+Face Paint	페이스 페인트
+Face Prop	얼굴 소품
+Hair Style	머리 모양
+Hand Prop	손 소품
+Hat	모자
+Torso	상의
+Gameplay Settings	게임플레이 설정
+controller layout	컨트롤러 배치
+Settings Menu	설정 메뉴
+All gameplay settings are accessed	모든 게임플레이 설정은
+through these screens.	이 화면에서 합니다.
+Controller layout	컨트롤러 배치
+gameplay settings	게임플레이 설정
+SOUNDTRACKS	사운드트랙
+AUDIO	오디오
+VISUAL	화면
+System Settings	시스템 설정
+All system settings are accessed	모든 시스템 설정은
+User Name: %s	사용자 이름: %s
+QUICK MESSAGES	빠른 메시지
+HELP	도움말
+SET MESSAGE	메시지 설정
+BACK	뒤로
+QUICK MESSAGE	빠른 메시지
+Online Settings	온라인 설정
+This is the screen where you can	이 화면에서 온라인 빠른 메시지를
+set up your online quick messages.	설정할 수 있습니다.
+Enter quick message	빠른 메시지 입력
