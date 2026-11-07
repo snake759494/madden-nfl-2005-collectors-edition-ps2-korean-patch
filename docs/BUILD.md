@@ -74,4 +74,5 @@ xdelta3 -e -0 -S none -A -s "Madden NFL 2005 (USA) (Collector's Edition).iso" "M
 1. `tools/mtenc/`의 인코더를 빌드합니다(예: `python -m ziglang cc -O2 -o work/ext/utk/mtenc.exe mtenc.c`, `mtpack.c`도 같은 방법). `mtenc.c`는 공개 도메인인 [utkencode](https://github.com/daddesio/utkencode)를 프레임 단위 출력으로 고친 것이고, `mtpack.c`는 디코더 기준 프레임 경계로 Rev3 플래그 바이트를 맞춥니다.
 2. `speech_extract.py` → `speech_decode.py`(vgmstream-cli 필요) → `speech_asr.py`(faster-whisper)로 원문을 받아 적습니다.
 3. 번역은 `translation/dub_ko.tsv`(id, 화자 P/C/R/S, 한국어)입니다. 지침은 `translation/DUB_STYLE.md`.
-4. `dub_tts.py`가 edge-tts로 합성해 `work/speech/ko/*.pcm`을 만들고, `build.py`가 `dub.py`로 인코딩·삽입합니다.
+4. `dub_tts.py`가 edge-tts로 합성해 `work/speech/ko/*.pcm`을 만듭니다.
+5. `python tools/loud_targets.py <원본 ISO>`로 조각별 원본 음량을 `work/speech/loud.json`에 기록합니다. `build.py`가 `dub.py`로 음량을 맞춘(`loud.py`) 뒤 인코딩·삽입합니다. 영어 음성판은 `NODUB=1`로 빌드합니다.
